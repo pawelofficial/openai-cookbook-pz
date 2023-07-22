@@ -8,10 +8,12 @@ import numpy as np
 import os
 import wget
 from ast import literal_eval
+import dotenv 
+dotenv.load_dotenv()
 
 # Chroma's client library for Python
 
-os.environ["OPENAI_API_KEY"] = 'sk-xxxx'
+#os.environ["OPENAI_API_KEY"] = 'sk-xxxx'
 #pytho /mnt/c/gh/openai-cookbook-pz/examples/vector_databases/chroma
 
 # I've set this to our new embeddings model, this can be changed to the embedding model of your choice

@@ -16,7 +16,7 @@ while True:
     dt=now-date_object
     dt=dt.total_seconds()
     
-    if dt>60: # 50 requests per 24hours thank you Elon ! 
+    if False: # 50 requests per 24hours thank you Elon ! 
         time.sleep(10)
         print('waiting')
     else:

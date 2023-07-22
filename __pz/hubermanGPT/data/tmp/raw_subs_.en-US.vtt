@@ -1,0 +1,7843 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:02.300
+- Welcome to the Huberman Lab Podcast
+
+00:00:02.300 --> 00:00:03.720
+where we discuss science,
+
+00:00:03.720 --> 00:00:05.823
+and science-based tools for everyday life.
+
+00:00:09.600 --> 00:00:10.910
+- My name is Andrew Huberman,
+
+00:00:10.910 --> 00:00:13.950
+and I'm a professor of
+neurobiology and ophthalmology,
+
+00:00:13.950 --> 00:00:16.020
+at Stanford School of Medicine.
+
+00:00:16.020 --> 00:00:17.160
+This podcast is separate
+
+00:00:17.160 --> 00:00:19.440
+from my teaching and
+research roles at Stanford.
+
+00:00:19.440 --> 00:00:21.490
+It is however, part of
+my desire and effort
+
+00:00:21.490 --> 00:00:24.220
+to bring you zero cost to
+consumer information about science
+
+00:00:24.220 --> 00:00:26.300
+and science related tools.
+
+00:00:26.300 --> 00:00:27.490
+And keeping with that theme,
+
+00:00:27.490 --> 00:00:30.430
+I'd like to thank the
+sponsors of today's podcast.
+
+00:00:30.430 --> 00:00:32.990
+Our first sponsor is InsideTracker.
+
+00:00:32.990 --> 00:00:35.510
+InsideTracker analyzes
+data from your blood
+
+00:00:35.510 --> 00:00:38.200
+and DNA to help you better
+understand your body
+
+00:00:38.200 --> 00:00:40.650
+and health and health needs.
+
+00:00:40.650 --> 00:00:43.200
+I've been getting my blood
+tested for many years now.
+
+00:00:43.200 --> 00:00:45.880
+Because, it just turns out that many
+
+00:00:45.880 --> 00:00:47.240
+of the things that are
+important to our health
+
+00:00:47.240 --> 00:00:49.400
+and wellbeing can only be detected
+
+00:00:49.400 --> 00:00:51.760
+in a blood test or a DNA test.
+
+00:00:51.760 --> 00:00:53.940
+InsideTracker makes that really easy.
+
+00:00:53.940 --> 00:00:55.770
+They can come to your
+house to take those samples
+
+00:00:55.770 --> 00:00:59.890
+if you like, or you can go
+to a nearby clinic as well.
+
+00:00:59.890 --> 00:01:02.170
+The major problem with most blood tests
+
+00:01:02.170 --> 00:01:04.500
+and DNA tests is that it's
+very hard to make sense
+
+00:01:04.500 --> 00:01:05.333
+of the information you get.
+
+00:01:05.333 --> 00:01:08.300
+You get a lot of numbers
+related to metabolic factors,
+
+00:01:08.300 --> 00:01:10.210
+endocrine factors, et cetera.
+
+00:01:10.210 --> 00:01:12.270
+InsideTracker makes it very easy,
+
+00:01:12.270 --> 00:01:14.710
+to decipher what those levels,
+
+00:01:14.710 --> 00:01:18.600
+in your blood and DNA mean,
+and what to do about them.
+
+00:01:18.600 --> 00:01:21.770
+They have a very easy to use
+dashboard that if you go to it,
+
+00:01:21.770 --> 00:01:24.400
+it can inform about
+lifestyle choices such as,
+
+00:01:24.400 --> 00:01:25.910
+adding or subtracting certain forms
+
+00:01:25.910 --> 00:01:28.210
+of exercise or nutrition,
+
+00:01:28.210 --> 00:01:30.250
+other things related to supplementation.
+
+00:01:30.250 --> 00:01:33.180
+It's a really powerful
+and easy to use program.
+
+00:01:33.180 --> 00:01:35.360
+If you wanna try InsideTracker,
+
+00:01:35.360 --> 00:01:38.560
+you can go to insidetracker.com/huberman,
+
+00:01:38.560 --> 00:01:40.000
+and put Huberman at checkout
+
+00:01:40.000 --> 00:01:42.700
+to get 25% off any of their programs.
+
+00:01:42.700 --> 00:01:45.430
+That's insidetracker.com/huberman,
+
+00:01:45.430 --> 00:01:46.963
+and put Huberman at checkout.
+
+00:01:48.390 --> 00:01:51.930
+The second sponsor of today's
+podcast is Athletic Greens.
+
+00:01:51.930 --> 00:01:53.620
+Athletic Greens is an all-in-one,
+
+00:01:53.620 --> 00:01:56.330
+vitamin mineral probiotic drink.
+
+00:01:56.330 --> 00:01:59.047
+I've been using Athletic
+Greens since 2012.
+
+00:01:59.047 --> 00:02:01.980
+And so I'm delighted that
+they're sponsoring the podcast.
+
+00:02:01.980 --> 00:02:03.560
+I started using Athletic Greens
+
+00:02:03.560 --> 00:02:05.740
+and I still use Athletic Greens,
+
+00:02:05.740 --> 00:02:08.510
+because I find it very complicated
+
+00:02:08.510 --> 00:02:10.550
+and almost dizzying to
+figure out which vitamins
+
+00:02:10.550 --> 00:02:11.660
+and minerals I need to take
+
+00:02:11.660 --> 00:02:14.590
+in order to just cover
+my nutritional basis.
+
+00:02:14.590 --> 00:02:16.890
+Taking Athletic Greens
+makes that very easy.
+
+00:02:16.890 --> 00:02:18.260
+It also tastes very good.
+
+00:02:18.260 --> 00:02:19.490
+I mix mine with water,
+
+00:02:19.490 --> 00:02:21.940
+a little bit of lemon
+juice, and I really like it.
+
+00:02:21.940 --> 00:02:23.920
+So I drink it once or twice a day.
+
+00:02:23.920 --> 00:02:25.080
+The probiotics that are
+
+00:02:25.080 --> 00:02:27.530
+in Athletic Greens are
+also important to me.
+
+00:02:27.530 --> 00:02:28.380
+Because there are a lot
+
+00:02:28.380 --> 00:02:31.110
+of data now showing
+that the gut microbiome,
+
+00:02:31.110 --> 00:02:33.140
+which is supported by probiotics,
+
+00:02:33.140 --> 00:02:35.640
+is important for things
+like the gut brain access,
+
+00:02:35.640 --> 00:02:37.470
+mood, endocrine factors,
+
+00:02:37.470 --> 00:02:40.670
+metabolism, many, many
+biological functions.
+
+00:02:40.670 --> 00:02:43.000
+And so by taking Athletic
+Greens, I get the vitamins,
+
+00:02:43.000 --> 00:02:45.020
+the minerals and the
+probiotics all in one.
+
+00:02:45.020 --> 00:02:48.410
+Easy to consume, great tasting drink.
+
+00:02:48.410 --> 00:02:50.360
+If you wanna try Athletic
+Greens you can go
+
+00:02:50.360 --> 00:02:53.160
+to athleticgreens.com/huberman.
+
+00:02:53.160 --> 00:02:56.410
+And if you do that you'll
+also get, a one year supply
+
+00:02:56.410 --> 00:02:59.330
+of liquid vitamin D three K two.
+
+00:02:59.330 --> 00:03:01.090
+There are a lot of data now as well,
+
+00:03:01.090 --> 00:03:03.030
+showing that vitamin D three is important
+
+00:03:03.030 --> 00:03:06.520
+for immune function, for
+mood, endocrine factors,
+
+00:03:06.520 --> 00:03:09.720
+as well as other systems
+in the brain and body.
+
+00:03:09.720 --> 00:03:12.050
+That's athleticgreens.com/huberman.
+
+00:03:12.050 --> 00:03:13.040
+And I should also mention
+
+00:03:13.040 --> 00:03:14.290
+if you do that you won't just get
+
+00:03:14.290 --> 00:03:16.560
+the vitamin D three K two year supply,
+
+00:03:16.560 --> 00:03:18.770
+you'll also get five free travel packs
+
+00:03:18.770 --> 00:03:20.720
+of Athletic Greens.
+
+00:03:20.720 --> 00:03:21.610
+Mixing up powders
+
+00:03:21.610 --> 00:03:24.540
+when one is on the road,
+either in the car or in a hotel
+
+00:03:24.540 --> 00:03:26.630
+or on the plane, et
+cetera, can be kinda messy.
+
+00:03:26.630 --> 00:03:29.210
+These little travel packs
+make it really clean and easy.
+
+00:03:29.210 --> 00:03:32.310
+So once again, if you go to
+athleticgreens.com/huberman,
+
+00:03:32.310 --> 00:03:34.680
+you'll get a special offer,
+of your Athletic Greens
+
+00:03:34.680 --> 00:03:36.950
+but you'll also get the year supply
+
+00:03:36.950 --> 00:03:40.500
+of vitamin D3 K2, and the
+five free travel packs.
+
+00:03:40.500 --> 00:03:42.900
+The third sponsor of
+today's podcast is Madefor.
+
+00:03:43.740 --> 00:03:45.340
+Madefor is a behavioral science company
+
+00:03:45.340 --> 00:03:47.860
+that makes attaining positive changes
+
+00:03:47.860 --> 00:03:49.610
+and growth mindset easy,
+
+00:03:49.610 --> 00:03:53.100
+through a simple set of
+steps, and a monthly program.
+
+00:03:53.100 --> 00:03:55.040
+The company was founded
+by former Navy SEAL
+
+00:03:55.040 --> 00:03:58.660
+Patrick Dossett and Toms
+founder, Blake Mycoskie.
+
+00:03:58.660 --> 00:04:00.760
+I'm the head of their
+scientific advisory board.
+
+00:04:00.760 --> 00:04:02.630
+And the other members
+of the advisory board,
+
+00:04:02.630 --> 00:04:05.310
+include people like the director
+of the chronobiology unit
+
+00:04:05.310 --> 00:04:07.260
+the National Institute of Mental Health,
+
+00:04:07.260 --> 00:04:08.920
+members of Harvard Medical School,
+
+00:04:08.920 --> 00:04:11.720
+and many other people who are
+serious about taking science
+
+00:04:11.720 --> 00:04:13.530
+and developing protocols,
+
+00:04:13.530 --> 00:04:16.060
+that can be applied
+towards positive habits,
+
+00:04:16.060 --> 00:04:17.620
+and growth mindset.
+
+00:04:17.620 --> 00:04:19.290
+If you wanna check out Madefor,
+
+00:04:19.290 --> 00:04:21.420
+you can go to getmadefor.com.
+
+00:04:21.420 --> 00:04:23.390
+And if you purchase any of their products
+
+00:04:23.390 --> 00:04:25.210
+and put Huberman at checkout,
+
+00:04:25.210 --> 00:04:27.060
+you'll get 20% off their program.
+
+00:04:27.060 --> 00:04:30.170
+In addition to that, we
+do a monthly Zoom call,
+
+00:04:30.170 --> 00:04:31.970
+where the members of Madefor get on it.
+
+00:04:31.970 --> 00:04:35.750
+And Patrick and myself,
+sometimes Blake as well,
+
+00:04:35.750 --> 00:04:38.550
+discuss the Madefor program
+and the personal goals
+
+00:04:38.550 --> 00:04:40.450
+and things that people
+are trying to achieve
+
+00:04:40.450 --> 00:04:41.300
+with the program.
+
+00:04:41.300 --> 00:04:44.360
+So it's a dialogue back and
+forth on Zoom call once a month.
+
+00:04:44.360 --> 00:04:46.300
+Once again, that's getmadefor.com,
+
+00:04:46.300 --> 00:04:47.710
+put in Huberman at checkout,
+
+00:04:47.710 --> 00:04:50.010
+and you'll be able to
+get the 20% off as well
+
+00:04:50.010 --> 00:04:52.980
+as access to the monthly
+Zoom calls with us.
+
+00:04:52.980 --> 00:04:55.540
+Let's talk about neuroplasticity.
+
+00:04:55.540 --> 00:04:58.350
+More specifically, let's talk about how,
+
+00:04:58.350 --> 00:05:00.870
+we can optimize our brains.
+
+00:05:00.870 --> 00:05:03.580
+Neuroplasticity is this incredible feature
+
+00:05:03.580 --> 00:05:05.300
+of our nervous system that allows it
+
+00:05:05.300 --> 00:05:10.300
+to change itself, even in ways
+that we consciously decide.
+
+00:05:10.350 --> 00:05:12.100
+That's an incredible property.
+
+00:05:12.100 --> 00:05:14.900
+Our liver can't decide
+to just change itself.
+
+00:05:14.900 --> 00:05:17.730
+Our spleen can't decide
+to just change itself,
+
+00:05:17.730 --> 00:05:19.030
+through conscious thought,
+
+00:05:20.109 --> 00:05:22.280
+or through feedback from another person.
+
+00:05:22.280 --> 00:05:25.220
+The cells in those tissues
+can make changes sure,
+
+00:05:25.220 --> 00:05:26.910
+but it's our nervous system,
+
+00:05:26.910 --> 00:05:29.400
+that harbors this incredible ability
+
+00:05:29.400 --> 00:05:32.170
+to direct its own changes,
+
+00:05:32.170 --> 00:05:37.170
+in ways that we believe, or
+we're told will serve us better.
+
+00:05:37.760 --> 00:05:40.640
+Now, today's a really
+special episode because,
+
+00:05:40.640 --> 00:05:42.850
+while we are going to talk about science
+
+00:05:42.850 --> 00:05:45.623
+and as always we will
+delve into mechanism.
+
+00:05:46.630 --> 00:05:48.300
+Today's episode is really geared
+
+00:05:48.300 --> 00:05:50.750
+toward answering your
+most common questions
+
+00:05:50.750 --> 00:05:53.470
+about how to leverage neuroplasticity.
+
+00:05:53.470 --> 00:05:55.920
+The previous episodes were about focus,
+
+00:05:55.920 --> 00:05:58.910
+and how to achieve focus
+for sake of plasticity.
+
+00:05:58.910 --> 00:06:00.890
+As well as the last episode which is,
+
+00:06:00.890 --> 00:06:01.723
+what are some
+
+00:06:01.723 --> 00:06:04.240
+of the portals into plasticity
+that relate to movement,
+
+00:06:04.240 --> 00:06:06.600
+how behavior can activate plasticity,
+
+00:06:06.600 --> 00:06:10.100
+as well as how to activate
+plasticity for behavior itself.
+
+00:06:10.100 --> 00:06:12.960
+How to get better at
+learning certain movements.
+
+00:06:12.960 --> 00:06:15.190
+Today's podcast is really directed
+
+00:06:15.190 --> 00:06:17.980
+toward answering your
+most common questions,
+
+00:06:17.980 --> 00:06:19.440
+and the bigger theme,
+
+00:06:19.440 --> 00:06:22.270
+of how does one go about
+optimizing their brain
+
+00:06:22.270 --> 00:06:24.550
+or even think about, optimizing the brain?
+
+00:06:24.550 --> 00:06:26.140
+What is this thing that we're calling
+
+00:06:26.140 --> 00:06:27.890
+optimizing the brain?
+
+00:06:27.890 --> 00:06:30.610
+In doing so I'm also
+gonna share some of my,
+
+00:06:30.610 --> 00:06:32.650
+typical routines and tools.
+
+00:06:32.650 --> 00:06:33.593
+I don't share these because I think
+
+00:06:33.593 --> 00:06:35.900
+that they are the only ones
+that are available out there.
+
+00:06:35.900 --> 00:06:37.010
+Certainly they're not.
+
+00:06:37.010 --> 00:06:37.843
+Nor do I share them
+
+00:06:37.843 --> 00:06:39.360
+because I think that
+everyone should do them just
+
+00:06:39.360 --> 00:06:42.040
+'cause I do them, certainly not.
+
+00:06:42.040 --> 00:06:44.180
+I share them because many of you,
+
+00:06:44.180 --> 00:06:48.740
+have asked for very concrete
+examples of what I do and when,
+
+00:06:48.740 --> 00:06:50.050
+and so I'll share those with you
+
+00:06:50.050 --> 00:06:52.010
+and you can decide whether
+or not those protocols are
+
+00:06:52.010 --> 00:06:53.550
+for you or not.
+
+00:06:53.550 --> 00:06:56.810
+Everybody's different, but
+there are some common features,
+
+00:06:56.810 --> 00:06:59.020
+of how we are all put together,
+
+00:06:59.020 --> 00:07:01.250
+at the level of the
+nervous system and body,
+
+00:07:01.250 --> 00:07:02.740
+that direct us
+
+00:07:02.740 --> 00:07:05.430
+toward particular practices,
+particular routines
+
+00:07:05.430 --> 00:07:09.010
+that can be especially
+powerful, for neuroplasticity.
+
+00:07:09.010 --> 00:07:12.190
+So I wanna open up the discussion today,
+
+00:07:12.190 --> 00:07:15.690
+by emphasizing something,
+that's fundamentally important.
+
+00:07:15.690 --> 00:07:19.350
+Which is that plasticity, is not the goal.
+
+00:07:19.350 --> 00:07:21.740
+Plasticity is never the goal.
+
+00:07:21.740 --> 00:07:24.380
+Plasticity is simply a state,
+
+00:07:24.380 --> 00:07:27.670
+or a capacity, for our
+nervous system to change.
+
+00:07:27.670 --> 00:07:30.340
+And so, nothing makes me more frustrated,
+
+00:07:30.340 --> 00:07:33.620
+perhaps then when I hear,
+oh, you know, this pill,
+
+00:07:33.620 --> 00:07:38.360
+this potion, this practice,
+it gives you plasticity.
+
+00:07:38.360 --> 00:07:40.560
+Plasticity is just change.
+
+00:07:40.560 --> 00:07:42.780
+The real question is what
+are you trying to change?
+
+00:07:42.780 --> 00:07:46.730
+And specifically what end goal
+are you trying to achieve?
+
+00:07:46.730 --> 00:07:50.530
+Specific end goals might
+be extremely specific.
+
+00:07:50.530 --> 00:07:53.650
+Like, you want to learn how
+to speak a particular language
+
+00:07:53.650 --> 00:07:55.880
+or you want to learn a new motor skill
+
+00:07:55.880 --> 00:07:58.100
+or you want to get very good at calculus,
+
+00:07:58.100 --> 00:08:01.190
+or you'd like to forget
+the bad emotions related
+
+00:08:01.190 --> 00:08:04.540
+to a particular human being or experience,
+
+00:08:04.540 --> 00:08:05.760
+or it can be more general.
+
+00:08:05.760 --> 00:08:08.310
+Like you'd like to be more creative.
+
+00:08:08.310 --> 00:08:11.370
+And we'll actually talk
+about creativity today.
+
+00:08:11.370 --> 00:08:13.500
+Or you would like to achieve more focus
+
+00:08:13.500 --> 00:08:15.290
+or you'd like to be less stressed.
+
+00:08:15.290 --> 00:08:19.770
+So it's very important, that
+you understand that plasticity,
+
+00:08:19.770 --> 00:08:23.720
+and achieving plasticity
+is the first step,
+
+00:08:23.720 --> 00:08:26.400
+in what we call optimizing your brain.
+
+00:08:26.400 --> 00:08:28.600
+You don't want your brain
+to be plastic all the time.
+
+00:08:28.600 --> 00:08:30.940
+In fact, one of the major questions,
+
+00:08:30.940 --> 00:08:33.360
+one of the major unsolved
+mysteries of neuroscience
+
+00:08:33.360 --> 00:08:36.320
+is how each and every one
+of us wakes up every day,
+
+00:08:36.320 --> 00:08:38.600
+and knows who we are.
+
+00:08:38.600 --> 00:08:40.020
+Why should that be?
+
+00:08:40.020 --> 00:08:41.760
+Well, the brain is plastic.
+
+00:08:41.760 --> 00:08:44.090
+It has a capacity to change
+throughout the lifespan
+
+00:08:44.090 --> 00:08:46.460
+but it's not so plastic, that every night
+
+00:08:46.460 --> 00:08:48.720
+when we go to sleep, or in our waking
+
+00:08:48.720 --> 00:08:50.870
+that the connections get
+reconfigured so much so
+
+00:08:50.870 --> 00:08:53.823
+that we forget who we are, or
+how to walk, or how to eat.
+
+00:08:55.090 --> 00:08:57.220
+It's a good thing that we don't have,
+
+00:08:57.220 --> 00:09:00.190
+such robust plasticity
+or ongoing plasticity,
+
+00:09:00.190 --> 00:09:02.270
+that we have to restructure
+ourselves each day.
+
+00:09:02.270 --> 00:09:04.500
+It's part of what gives
+our life continuity.
+
+00:09:04.500 --> 00:09:08.340
+So remember, plasticity is
+not and is never the goal.
+
+00:09:08.340 --> 00:09:12.560
+The goal is to figure out
+how to access plasticity,
+
+00:09:12.560 --> 00:09:16.870
+and then to direct that
+plasticity, toward particular goals
+
+00:09:16.870 --> 00:09:19.540
+or changes that you would like to achieve.
+
+00:09:19.540 --> 00:09:21.040
+And I should just mention,
+
+00:09:21.040 --> 00:09:23.910
+there's no rule that in life you have
+
+00:09:23.910 --> 00:09:26.570
+to leverage this incredible
+thing called neuro-plasticity.
+
+00:09:26.570 --> 00:09:28.160
+No one said you had to do that.
+
+00:09:28.160 --> 00:09:31.420
+This podcast in this episode
+is particularly for people,
+
+00:09:31.420 --> 00:09:35.070
+who are either happy or
+unhappy with where they're at
+
+00:09:35.070 --> 00:09:37.060
+with a particular aspect of their life.
+
+00:09:37.060 --> 00:09:39.840
+And they wanna shift it,
+in some positive way.
+
+00:09:39.840 --> 00:09:40.990
+And many of you listening might say,
+
+00:09:40.990 --> 00:09:42.103
+well wouldn't everyone wanna do that?
+
+00:09:42.103 --> 00:09:43.950
+Well actually, there are a certain number
+
+00:09:43.950 --> 00:09:45.470
+of people that are pretty
+good where they're at
+
+00:09:45.470 --> 00:09:47.160
+and they don't wanna
+change and that's terrific.
+
+00:09:47.160 --> 00:09:51.000
+And I tip my hat to them and
+I think that's wonderful.
+
+00:09:51.000 --> 00:09:52.040
+If ever they decide
+
+00:09:52.040 --> 00:09:54.320
+that they wanna leverage
+these plasticity mechanisms,
+
+00:09:54.320 --> 00:09:57.123
+they can, at any stage
+throughout the lifespan.
+
+00:09:58.450 --> 00:10:01.790
+Let's start by talking
+about the different systems
+
+00:10:01.790 --> 00:10:03.560
+within the nervous system,
+
+00:10:03.560 --> 00:10:05.870
+that are available for plasticity.
+
+00:10:05.870 --> 00:10:08.010
+And in doing so, I'll
+frame them in the context
+
+00:10:08.010 --> 00:10:10.580
+of what I do on a daily basis,
+
+00:10:10.580 --> 00:10:13.343
+on a weekly basis, and on a yearly basis.
+
+00:10:14.410 --> 00:10:18.700
+First of all, there are
+several forms of plasticity.
+
+00:10:18.700 --> 00:10:21.230
+They have names like
+long-term potentiation,
+
+00:10:21.230 --> 00:10:23.290
+long-term depression,
+which has nothing to do
+
+00:10:23.290 --> 00:10:24.800
+with emotional depression, by the way.
+
+00:10:24.800 --> 00:10:27.970
+And things like
+spike-timing-dependent plasticity.
+
+00:10:27.970 --> 00:10:32.190
+Those names are used to
+describe cellular phenomenon.
+
+00:10:32.190 --> 00:10:34.360
+The actual ways that the
+synapses, the connections
+
+00:10:34.360 --> 00:10:36.110
+between neurons change.
+
+00:10:36.110 --> 00:10:37.070
+I'll mention those things
+
+00:10:37.070 --> 00:10:38.782
+and I'll give a little more [indistinct]
+
+00:10:38.782 --> 00:10:41.060
+to what they are as I mentioned them.
+
+00:10:41.060 --> 00:10:43.530
+But, that's probably not
+the best way to think
+
+00:10:43.530 --> 00:10:46.610
+about plasticity in terms
+of optimizing your brain.
+
+00:10:46.610 --> 00:10:49.810
+The best way to think about
+it is in terms of short term,
+
+00:10:49.810 --> 00:10:53.350
+medium term, and long-term plasticity.
+
+00:10:53.350 --> 00:10:55.830
+Short-term plasticity, is any kind
+
+00:10:55.830 --> 00:10:58.450
+of shift that you want to achieve,
+
+00:10:58.450 --> 00:11:00.510
+in the moment or in the day,
+
+00:11:00.510 --> 00:11:03.330
+but that you don't necessarily
+wanna hold on to forever.
+
+00:11:03.330 --> 00:11:05.310
+You might say, well, what
+kinds of things are those?
+
+00:11:05.310 --> 00:11:08.400
+Well, for instance, short-term
+plasticity might be,
+
+00:11:08.400 --> 00:11:11.900
+you wake up earlier than you
+would like to catch a flight.
+
+00:11:11.900 --> 00:11:14.470
+You're not feeling particularly alert,
+
+00:11:14.470 --> 00:11:16.950
+and you want to use a protocol,
+
+00:11:16.950 --> 00:11:19.690
+or you decide to use a
+protocol which could be coffee
+
+00:11:19.690 --> 00:11:21.390
+or it could be a certain form of breathing
+
+00:11:21.390 --> 00:11:22.670
+or it could be some other tool,
+
+00:11:22.670 --> 00:11:24.290
+to become more alert at a time of day
+
+00:11:24.290 --> 00:11:26.090
+when normally you aren't that alert.
+
+00:11:26.090 --> 00:11:29.630
+But, your expectation is
+that when you return home,
+
+00:11:29.630 --> 00:11:31.350
+you will discard with that,
+
+00:11:31.350 --> 00:11:33.310
+the need to do that at 5:30 AM
+
+00:11:33.310 --> 00:11:35.040
+because you'll be asleep at 5:30 AM.
+
+00:11:35.040 --> 00:11:38.320
+So there's short-term plasticity,
+behavioral plasticity.
+
+00:11:38.320 --> 00:11:40.210
+Then there's medium-term plasticity
+
+00:11:40.210 --> 00:11:42.230
+which are changes, that
+you might wanna make.
+
+00:11:42.230 --> 00:11:47.060
+I call this with respect,
+and a little bit of humor,
+
+00:11:47.060 --> 00:11:48.300
+or at least my kinda humor.
+
+00:11:48.300 --> 00:11:53.300
+I call this the undergraduate,
+pre-med phenomenon.
+
+00:11:53.790 --> 00:11:55.870
+For those of you that
+have worked with pre-meds.
+
+00:11:55.870 --> 00:11:57.010
+And I have tremendous respect
+
+00:11:57.010 --> 00:11:59.300
+for medical students and pre-meds,
+
+00:11:59.300 --> 00:12:02.190
+there is a kind of a stereotype
+
+00:12:02.190 --> 00:12:04.630
+which I don't necessarily agree with,
+
+00:12:04.630 --> 00:12:06.460
+but the stereotype is that they wanna know
+
+00:12:06.460 --> 00:12:08.100
+what they need to know
+for sake of the exam,
+
+00:12:08.100 --> 00:12:09.120
+but they don't really wanna know.
+
+00:12:09.120 --> 00:12:10.330
+They just want the A.
+
+00:12:10.330 --> 00:12:11.730
+And I don't think that's always true.
+
+00:12:11.730 --> 00:12:13.060
+I've worked with a number
+
+00:12:13.060 --> 00:12:14.460
+of different pre-meds over the years
+
+00:12:14.460 --> 00:12:18.400
+and there are many of
+them that are absolutely,
+
+00:12:18.400 --> 00:12:20.930
+passionate about the knowledge itself.
+
+00:12:20.930 --> 00:12:22.600
+And they also wanted the A.
+
+00:12:22.600 --> 00:12:24.630
+But the pre-med phenomenon
+as it's discussed
+
+00:12:24.630 --> 00:12:27.340
+among professors and
+TAs, is that, you know,
+
+00:12:27.340 --> 00:12:28.320
+you've got these students,
+
+00:12:28.320 --> 00:12:29.740
+they just wanna know
+what they need to know
+
+00:12:29.740 --> 00:12:31.090
+so they can get the A, right?
+
+00:12:31.090 --> 00:12:32.520
+It's medium-term plasticity.
+
+00:12:32.520 --> 00:12:33.930
+They don't actually want it to be embedded
+
+00:12:33.930 --> 00:12:35.490
+in their memory too long,
+
+00:12:35.490 --> 00:12:37.280
+or else they would actually
+care about the information.
+
+00:12:37.280 --> 00:12:39.430
+So that's medium term information.
+
+00:12:39.430 --> 00:12:41.170
+And sometimes that's useful for instance
+
+00:12:41.170 --> 00:12:43.690
+if you go on vacation to Costa Rica,
+
+00:12:43.690 --> 00:12:45.710
+and you don't know your
+way around Costa Rica.
+
+00:12:45.710 --> 00:12:48.040
+You wanna learn the different
+town and the routes there.
+
+00:12:48.040 --> 00:12:50.070
+But you don't have any
+intention of going back.
+
+00:12:50.070 --> 00:12:50.950
+It's just medium term.
+
+00:12:50.950 --> 00:12:53.220
+You wanna just program it in
+for sake of your time there
+
+00:12:53.220 --> 00:12:54.830
+and then you wanna discard it.
+
+00:12:54.830 --> 00:12:55.663
+Most of the time
+
+00:12:55.663 --> 00:12:57.770
+when we think about or talk
+about optimizing the brain,
+
+00:12:57.770 --> 00:13:00.170
+we're talking about long-term plasticity.
+
+00:13:00.170 --> 00:13:01.890
+We're talking about the kinds of changes
+
+00:13:01.890 --> 00:13:02.723
+that people wanna make
+
+00:13:02.723 --> 00:13:06.650
+so that their brain
+reflexively works differently.
+
+00:13:06.650 --> 00:13:07.930
+This is what a child does
+
+00:13:07.930 --> 00:13:09.770
+when it goes from not knowing how to walk
+
+00:13:09.770 --> 00:13:10.780
+to knowing how to walk.
+
+00:13:10.780 --> 00:13:11.760
+It doesn't have to think
+
+00:13:11.760 --> 00:13:13.090
+about it after it learns how to walk.
+
+00:13:13.090 --> 00:13:14.403
+It becomes reflexive.
+
+00:13:15.240 --> 00:13:19.540
+Long-term plasticity, is
+almost always the big goal.
+
+00:13:19.540 --> 00:13:21.310
+It's I wanna know how
+to speak that language.
+
+00:13:21.310 --> 00:13:23.090
+I wanna be able to do that skill.
+
+00:13:23.090 --> 00:13:24.760
+I wanna be able to feel this way,
+
+00:13:24.760 --> 00:13:26.960
+without having to put much work into it.
+
+00:13:26.960 --> 00:13:27.793
+And there are tools
+
+00:13:27.793 --> 00:13:29.640
+and protocols that one
+can do to achieve that.
+
+00:13:29.640 --> 00:13:31.130
+And we are going to talk about those.
+
+00:13:31.130 --> 00:13:33.060
+We've talked about a few of
+them in previous episodes
+
+00:13:33.060 --> 00:13:35.433
+but I will revisit those protocols today.
+
+00:13:37.070 --> 00:13:38.460
+I'm gonna frame all this
+
+00:13:38.460 --> 00:13:42.630
+in the context of the daily
+life, the weekly life,
+
+00:13:42.630 --> 00:13:44.700
+and the yearly life.
+
+00:13:44.700 --> 00:13:45.980
+And that's because,
+
+00:13:45.980 --> 00:13:49.203
+neuroplasticity and optimizing your brain,
+
+00:13:50.070 --> 00:13:53.500
+rides on a deeper foundation,
+
+00:13:53.500 --> 00:13:56.810
+of this thing that governs plasticity.
+
+00:13:56.810 --> 00:14:00.120
+In fact, governs all our
+life, called autonomic arousal
+
+00:14:00.120 --> 00:14:02.720
+which is that we're asleep
+for part of the 24 hour cycle
+
+00:14:02.720 --> 00:14:04.400
+and we are awake almost always.
+
+00:14:04.400 --> 00:14:06.740
+If we push ourselves and
+stay awake, we're okay.
+
+00:14:06.740 --> 00:14:08.210
+We can do that for a night or two,
+
+00:14:08.210 --> 00:14:10.440
+but almost always we are
+asleep for a portion of it
+
+00:14:10.440 --> 00:14:12.290
+and we are awake for a portion of it.
+
+00:14:13.220 --> 00:14:14.840
+I've said it before but I'll say it again.
+
+00:14:14.840 --> 00:14:17.080
+The trigger for plasticity
+in learning occurs
+
+00:14:17.080 --> 00:14:19.820
+during high focus, high alertness states,
+
+00:14:19.820 --> 00:14:21.630
+not while you're asleep.
+
+00:14:21.630 --> 00:14:23.650
+And the focus and alertness are both key
+
+00:14:23.650 --> 00:14:26.683
+because of the neurochemicals
+associated with those states.
+
+00:14:27.610 --> 00:14:30.470
+But, the actual rewiring
+and the reconfiguration
+
+00:14:30.470 --> 00:14:33.670
+of the brain connections happens
+during non sleep deep rest,
+
+00:14:33.670 --> 00:14:35.760
+which we'll talk more about as always.
+
+00:14:35.760 --> 00:14:37.910
+And, deep sleep.
+
+00:14:37.910 --> 00:14:41.170
+So you trigger the change and
+in sleep you get the change.
+
+00:14:41.170 --> 00:14:44.270
+So, some of the things
+that we'll talk about today
+
+00:14:44.270 --> 00:14:45.940
+about optimizing the brain,
+
+00:14:45.940 --> 00:14:47.970
+are centered around not sleep,
+
+00:14:47.970 --> 00:14:50.640
+but around the autonomic arousal system.
+
+00:14:50.640 --> 00:14:53.320
+We have this system of
+neurons in our brain and body
+
+00:14:53.320 --> 00:14:57.900
+that's just incredible, that
+wake us up and make us alert.
+
+00:14:57.900 --> 00:15:00.370
+And when we're not accessing that system,
+
+00:15:00.370 --> 00:15:02.230
+well, we cannot access plasticity.
+
+00:15:02.230 --> 00:15:04.250
+We can not optimize our brain.
+
+00:15:04.250 --> 00:15:08.210
+Likewise, if we cannot sleep
+well, and we can't rest well,
+
+00:15:08.210 --> 00:15:11.820
+we will not access plasticity
+and rewire our brain
+
+00:15:11.820 --> 00:15:13.700
+because that's when the
+actual configuration
+
+00:15:13.700 --> 00:15:15.570
+between the connections occurs.
+
+00:15:15.570 --> 00:15:18.240
+So to set this in context,
+
+00:15:18.240 --> 00:15:22.990
+I wake up each day, and
+I'll be totally honest.
+
+00:15:22.990 --> 00:15:26.150
+I usually don't feel like
+bouncing right out of bed.
+
+00:15:26.150 --> 00:15:28.880
+I usually don't feel completely rested.
+
+00:15:28.880 --> 00:15:31.080
+And that's not because I
+don't get enough sleep.
+
+00:15:31.080 --> 00:15:33.120
+It's probably because I'm not terrific
+
+00:15:33.120 --> 00:15:35.350
+about timing my sleep so well.
+
+00:15:35.350 --> 00:15:36.890
+Now this month isn't about sleep,
+
+00:15:36.890 --> 00:15:37.890
+that was the previous month
+
+00:15:37.890 --> 00:15:40.023
+but I really wanna emphasize a few points.
+
+00:15:41.160 --> 00:15:44.040
+I wake up, generally more tired,
+
+00:15:44.040 --> 00:15:46.060
+and groggy than I would like,
+
+00:15:46.060 --> 00:15:48.380
+because I tend to go to sleep too late.
+
+00:15:48.380 --> 00:15:49.887
+It's just some thing that I do.
+
+00:15:49.887 --> 00:15:52.960
+And I tend to get up early
+either because I set an alarm,
+
+00:15:52.960 --> 00:15:54.330
+because I have things to do,
+
+00:15:54.330 --> 00:15:56.170
+or because I naturally wake up early
+
+00:15:56.170 --> 00:15:58.790
+because the light coming in and so forth.
+
+00:15:58.790 --> 00:16:00.960
+Well, what that tells me is
+
+00:16:00.960 --> 00:16:05.140
+that I'm probably somebody
+whose natural circadian rhythm.
+
+00:16:05.140 --> 00:16:06.440
+You may have heard of chronotypes.
+
+00:16:06.440 --> 00:16:08.060
+These are genetically programmed things.
+
+00:16:08.060 --> 00:16:10.670
+But chronotype, is shorter than 24 hours.
+
+00:16:10.670 --> 00:16:12.120
+It means that the cycle of waking
+
+00:16:12.120 --> 00:16:15.820
+and alertness for me is
+probably shorter than 24 hours.
+
+00:16:15.820 --> 00:16:17.410
+Which means that getting some light
+
+00:16:17.410 --> 00:16:20.240
+in the late afternoon will help me shift,
+
+00:16:20.240 --> 00:16:21.900
+and make my cycle a little bit longer.
+
+00:16:21.900 --> 00:16:23.020
+It will phase delay me
+
+00:16:23.020 --> 00:16:25.050
+if that doesn't make any
+sense, see a previous episode.
+
+00:16:25.050 --> 00:16:26.580
+But what it really means
+is getting some light
+
+00:16:26.580 --> 00:16:27.850
+in the afternoon, will allow me
+
+00:16:27.850 --> 00:16:29.840
+to stay up a little bit later.
+
+00:16:29.840 --> 00:16:31.780
+But what it means is that,
+
+00:16:31.780 --> 00:16:36.780
+I'm not really matching
+my hard-wired needs
+
+00:16:37.360 --> 00:16:40.170
+of going to bed probably at 8:30 or 9:00
+
+00:16:40.170 --> 00:16:42.030
+and waking up at 4:00 AM.
+
+00:16:42.030 --> 00:16:44.230
+I tend to go to sleep around 10:30, 11:00,
+
+00:16:44.230 --> 00:16:45.840
+lately around 11:30 or 12:00
+
+00:16:45.840 --> 00:16:46.707
+and then I wake up at 6:00.
+
+00:16:46.707 --> 00:16:48.790
+And so of course, I'm gonna feel groggy.
+
+00:16:48.790 --> 00:16:52.950
+So neuroplasticity will allow
+me, to optimize my wakefulness
+
+00:16:52.950 --> 00:16:56.110
+but I have to do something
+in order to access that.
+
+00:16:56.110 --> 00:16:58.130
+And some of you may
+already be anticipating
+
+00:16:58.130 --> 00:16:59.430
+what I'm about to say, which is,
+
+00:16:59.430 --> 00:17:01.720
+oh, no he's gonna tell us
+to get sunlight in our eyes
+
+00:17:01.720 --> 00:17:03.440
+in the first 30 minutes of the day.
+
+00:17:03.440 --> 00:17:04.700
+I am gonna tell you to do that,
+
+00:17:04.700 --> 00:17:06.470
+but I'm gonna also tell you two things
+
+00:17:06.470 --> 00:17:08.810
+that I've have not discussed before,
+
+00:17:08.810 --> 00:17:11.240
+which relate to the plasticity,
+
+00:17:11.240 --> 00:17:13.927
+between the melanopsin cells.
+
+00:17:13.927 --> 00:17:15.880
+These sunlight detecting,
+bright light detecting cells
+
+00:17:15.880 --> 00:17:18.210
+in our eye and the circadian clock.
+
+00:17:18.210 --> 00:17:19.950
+I've never said this
+before in this podcast,
+
+00:17:19.950 --> 00:17:21.760
+but it turns out that the connections
+
+00:17:21.760 --> 00:17:24.900
+between these melanopsin
+cells and the circadian clock,
+
+00:17:24.900 --> 00:17:27.650
+are plastic throughout the lifespan.
+
+00:17:27.650 --> 00:17:30.300
+There's a massive configuration
+of the connections there.
+
+00:17:30.300 --> 00:17:32.080
+And a cell type called the astrocytes
+
+00:17:32.080 --> 00:17:33.650
+which are a glial cell,
+
+00:17:33.650 --> 00:17:37.130
+are actively removing and
+reinforcing connections
+
+00:17:37.130 --> 00:17:40.480
+between the eye and that clock, every day.
+
+00:17:40.480 --> 00:17:42.330
+Now this is incredible
+because other aspects
+
+00:17:42.330 --> 00:17:44.330
+of your brain that for instance,
+
+00:17:44.330 --> 00:17:46.960
+represent you knowing who you are,
+
+00:17:46.960 --> 00:17:48.010
+when you wake up in the morning,
+
+00:17:48.010 --> 00:17:50.450
+or what your name is, assuming
+that you're old enough
+
+00:17:50.450 --> 00:17:52.160
+that you've already learned your name.
+
+00:17:52.160 --> 00:17:53.690
+When the first things kids learn
+
+00:17:53.690 --> 00:17:55.533
+and something we rarely ever forget.
+
+00:17:57.030 --> 00:17:59.900
+Those connections, are changing all
+
+00:17:59.900 --> 00:18:01.510
+the time every 24 hour cycle.
+
+00:18:01.510 --> 00:18:04.270
+So there's an opportunity
+for short-term plasticity.
+
+00:18:04.270 --> 00:18:06.040
+So that's why I view sunlight
+first thing in the day,
+
+00:18:06.040 --> 00:18:07.370
+it helps me wake up.
+
+00:18:07.370 --> 00:18:10.620
+The other thing that I do
+is that there's a circuit,
+
+00:18:10.620 --> 00:18:12.560
+that exists between the circadian clock
+
+00:18:12.560 --> 00:18:14.120
+and our adrenals that I've talked
+
+00:18:14.120 --> 00:18:15.750
+about before that triggers the release
+
+00:18:15.750 --> 00:18:18.640
+of cortisol first thing in
+the morning, that wakes us up.
+
+00:18:18.640 --> 00:18:20.450
+Especially when we view light.
+
+00:18:20.450 --> 00:18:21.760
+So if you're groggy in the morning
+
+00:18:21.760 --> 00:18:23.840
+that's why viewing light is helpful.
+
+00:18:23.840 --> 00:18:25.740
+But, the interesting thing is
+
+00:18:25.740 --> 00:18:28.820
+if you start viewing light
+frequently in the morning,
+
+00:18:28.820 --> 00:18:32.010
+then those connections
+between the melanopsin cells
+
+00:18:32.010 --> 00:18:35.290
+and the circadian clock, become primed
+
+00:18:35.290 --> 00:18:36.850
+or potentiated we would say,
+
+00:18:36.850 --> 00:18:39.800
+they become stronger for
+the anticipation of light.
+
+00:18:39.800 --> 00:18:42.030
+And you naturally start waking up earlier,
+
+00:18:42.030 --> 00:18:43.490
+feeling more alert.
+
+00:18:43.490 --> 00:18:45.250
+So, what this says is
+
+00:18:45.250 --> 00:18:47.810
+and what I do is I get that
+regular light because I know
+
+00:18:47.810 --> 00:18:48.810
+that some mornings,
+
+00:18:48.810 --> 00:18:50.370
+I'm just not gonna feel very alert,
+
+00:18:50.370 --> 00:18:51.950
+I'll feel, especially tired.
+
+00:18:51.950 --> 00:18:53.720
+And I might not be able to access sunlight
+
+00:18:53.720 --> 00:18:55.500
+because it's really
+overcast or I'm traveling,
+
+00:18:55.500 --> 00:18:56.360
+or some other feature.
+
+00:18:56.360 --> 00:18:57.630
+But the system is plastic
+
+00:18:57.630 --> 00:18:59.950
+so it shifted in the right direction.
+
+00:18:59.950 --> 00:19:01.420
+Now it will shift back,
+
+00:19:01.420 --> 00:19:02.810
+because it's short-term plasticity
+
+00:19:02.810 --> 00:19:03.910
+after about two, three days.
+
+00:19:03.910 --> 00:19:04.743
+So you wanna try
+
+00:19:04.743 --> 00:19:07.090
+and get the sunlight
+exposure on a regular basis.
+
+00:19:07.090 --> 00:19:11.100
+The other thing that I do is
+I delay my intake of caffeine,
+
+00:19:11.100 --> 00:19:13.020
+for the first two hours that I'm awake.
+
+00:19:13.020 --> 00:19:15.860
+Now, this can be very painful for people.
+
+00:19:15.860 --> 00:19:19.400
+But, earlier we talked
+about, the adenosine system
+
+00:19:19.400 --> 00:19:22.720
+and how the accumulation of
+adenosine makes us sleepy.
+
+00:19:22.720 --> 00:19:25.990
+And caffeine suppresses adenosine
+
+00:19:25.990 --> 00:19:27.570
+and it makes us feel alert.
+
+00:19:27.570 --> 00:19:28.610
+But we know,
+
+00:19:28.610 --> 00:19:32.650
+that if you ingest caffeine,
+immediately on waking,
+
+00:19:32.650 --> 00:19:35.770
+the signal to the adrenals,
+to release cortisol,
+
+00:19:35.770 --> 00:19:38.090
+which is a healthy release of cortisol,
+
+00:19:38.090 --> 00:19:39.806
+and the suppression of adenosine
+
+00:19:39.806 --> 00:19:43.183
+that happens as we come out of sleep,
+
+00:19:44.140 --> 00:19:46.230
+and in deep sleep the
+suppression of adenosine,
+
+00:19:46.230 --> 00:19:49.680
+if you ingest caffeine too
+early, there's a mechanism
+
+00:19:49.680 --> 00:19:53.090
+by which the adenosine competes
+for the receptors et cetera,
+
+00:19:53.090 --> 00:19:55.800
+so that you have a mid-morning crash.
+
+00:19:55.800 --> 00:19:58.560
+Because if caffeine, the way it works is
+
+00:19:58.560 --> 00:20:01.390
+if caffeine is occupying
+the adenosine receptor,
+
+00:20:01.390 --> 00:20:04.720
+then the natural endogenous mechanisms,
+
+00:20:04.720 --> 00:20:06.780
+for suppressing adenosine,
+
+00:20:06.780 --> 00:20:08.860
+are not actually gonna have their action.
+
+00:20:08.860 --> 00:20:13.620
+So the brain to adrenal axis,
+is subject to plasticity also.
+
+00:20:13.620 --> 00:20:15.330
+And so by delaying caffeine
+
+00:20:15.330 --> 00:20:17.610
+until about two hours after waking,
+
+00:20:17.610 --> 00:20:21.370
+I'm able to capture, and
+reinforce, to potentiate,
+
+00:20:21.370 --> 00:20:24.150
+the neural circuit that exists
+between the circadian clock
+
+00:20:24.150 --> 00:20:26.300
+and the cortisol released in the adrenals,
+
+00:20:26.300 --> 00:20:29.830
+as well as, leave those
+adenosine receptors,
+
+00:20:29.830 --> 00:20:33.000
+unoccupied so that I can
+then use the caffeine
+
+00:20:33.000 --> 00:20:34.640
+to get a natural lift,
+
+00:20:34.640 --> 00:20:37.330
+in alertness and focus
+two hours later as opposed
+
+00:20:37.330 --> 00:20:41.420
+to using it, just to wake
+myself up out of sleepiness.
+
+00:20:41.420 --> 00:20:43.900
+So while I'm sure there are
+some eye-rolls out there
+
+00:20:43.900 --> 00:20:45.500
+and some yawns, about,
+
+00:20:45.500 --> 00:20:47.610
+oh no, it's the sunlight
+in the morning thing again.
+
+00:20:47.610 --> 00:20:50.860
+It's a powerful tool, for
+readjusting these circuits.
+
+00:20:50.860 --> 00:20:52.390
+So the short-term plasticity.
+
+00:20:52.390 --> 00:20:53.223
+And the reason
+
+00:20:53.223 --> 00:20:55.140
+for delaying caffeine
+for the first two hours
+
+00:20:55.140 --> 00:20:57.800
+of the day even if it's painful
+to do for the first couple
+
+00:20:57.800 --> 00:21:01.420
+of days is that then you
+naturally start to wake up,
+
+00:21:01.420 --> 00:21:04.940
+more readily in the morning
+without caffeine because,
+
+00:21:04.940 --> 00:21:06.880
+the adenosine is suppressed
+
+00:21:06.880 --> 00:21:09.430
+and you don't have these competing.
+
+00:21:09.430 --> 00:21:11.730
+It's called a competing antagonist,
+
+00:21:11.730 --> 00:21:15.090
+for the adenosine receptor.
+
+00:21:15.090 --> 00:21:17.520
+So I wake up, I get sunlight in my eyes.
+
+00:21:17.520 --> 00:21:21.700
+Lately because I wake up very
+early I do use a bright light,
+
+00:21:21.700 --> 00:21:23.570
+to stimulate alertness.
+
+00:21:23.570 --> 00:21:25.340
+It's not actually
+designed for that purpose.
+
+00:21:25.340 --> 00:21:27.770
+It's just a light board
+that has been about 900 lux.
+
+00:21:27.770 --> 00:21:30.220
+And then I delay caffeine.
+
+00:21:30.220 --> 00:21:31.413
+Some of you have asked,
+
+00:21:32.630 --> 00:21:34.600
+and again I'm not saying
+anyone has to do this.
+
+00:21:34.600 --> 00:21:36.020
+You know, what exactly do you drink?
+
+00:21:36.020 --> 00:21:37.990
+I'm a big believer in black coffee.
+
+00:21:37.990 --> 00:21:39.530
+I just happen to like black coffee.
+
+00:21:39.530 --> 00:21:40.850
+People have asked me about,
+
+00:21:40.850 --> 00:21:42.170
+and I don't wanna name brand names here
+
+00:21:42.170 --> 00:21:44.500
+about this type of coffee or,
+
+00:21:44.500 --> 00:21:46.680
+that type of coffee you
+mixed with these other,
+
+00:21:46.680 --> 00:21:48.130
+kinds of things.
+
+00:21:48.130 --> 00:21:49.990
+Will that increase focus?
+
+00:21:49.990 --> 00:21:52.220
+You know, I'm gonna talk today a lot about
+
+00:21:52.220 --> 00:21:55.290
+the use of diet and
+fasting and timing of foods
+
+00:21:55.290 --> 00:21:56.610
+and certain kinds of foods.
+
+00:21:56.610 --> 00:21:59.600
+But to be honest, black
+coffee is just a simple choice
+
+00:21:59.600 --> 00:22:00.930
+that's always worked for me.
+
+00:22:00.930 --> 00:22:03.240
+I also make sure I hydrate
+first thing in the morning.
+
+00:22:03.240 --> 00:22:07.130
+There is plenty of data now
+showing that even a slight,
+
+00:22:07.130 --> 00:22:08.510
+increase in dehydration,
+
+00:22:08.510 --> 00:22:10.370
+meaning just when you're lacking water,
+
+00:22:10.370 --> 00:22:12.300
+can make people have headaches.
+
+00:22:12.300 --> 00:22:14.780
+It can provide some additional photophobia
+
+00:22:14.780 --> 00:22:16.860
+for those of you that are migraine prone.
+
+00:22:16.860 --> 00:22:18.440
+Bright light can trigger migraines.
+
+00:22:18.440 --> 00:22:19.680
+That's no surprise to those of you
+
+00:22:19.680 --> 00:22:20.860
+that get headaches and migraines.
+
+00:22:20.860 --> 00:22:24.440
+But dehydration, can compound,
+
+00:22:24.440 --> 00:22:26.350
+the vulnerability to
+migraine and headache.
+
+00:22:26.350 --> 00:22:28.960
+So I drink water, I drink
+black coffee, or I drink mate
+
+00:22:28.960 --> 00:22:31.450
+which is just because I
+have Argentine lineage
+
+00:22:31.450 --> 00:22:34.140
+which is just a high
+caffeine drink first thing
+
+00:22:34.140 --> 00:22:34.973
+in the morning,
+
+00:22:34.973 --> 00:22:37.313
+but I delay it until two
+hours after I wake up.
+
+00:22:38.180 --> 00:22:41.190
+And that's because, I want the circuits
+
+00:22:41.190 --> 00:22:44.750
+between my eye and my circadian
+clock and my adrenals,
+
+00:22:44.750 --> 00:22:46.880
+to be functioning in a particular way,
+
+00:22:46.880 --> 00:22:49.240
+so that then later the
+caffeine is an addition.
+
+00:22:49.240 --> 00:22:51.010
+It adds more alertness.
+
+00:22:51.010 --> 00:22:54.310
+Now this is a discussion about
+how to optimize your brain.
+
+00:22:54.310 --> 00:22:56.580
+Many people who wake up quickly,
+
+00:22:56.580 --> 00:22:59.150
+and just naturally feel
+like bouncing out of bed.
+
+00:22:59.150 --> 00:23:00.950
+I envy these people.
+
+00:23:00.950 --> 00:23:03.400
+They will do just fine,
+
+00:23:03.400 --> 00:23:06.680
+by going into a learning
+bout or taking care of,
+
+00:23:06.680 --> 00:23:08.170
+whatever it is that they
+need to take care of.
+
+00:23:08.170 --> 00:23:10.430
+Sometimes that's kind
+of more mundane tasks
+
+00:23:10.430 --> 00:23:13.040
+like email and whatnot.
+
+00:23:13.040 --> 00:23:15.630
+Here's a more or less a rule
+
+00:23:15.630 --> 00:23:19.350
+about how the brain
+functions, vis-a-vis, focus,
+
+00:23:19.350 --> 00:23:20.910
+learning and creativity.
+
+00:23:20.910 --> 00:23:24.620
+And I'm gonna discuss this
+much more in future episodes.
+
+00:23:24.620 --> 00:23:27.300
+Generally states of high alertness,
+
+00:23:27.300 --> 00:23:29.110
+when we're very very alert,
+
+00:23:29.110 --> 00:23:32.410
+are great for strategy implementation.
+
+00:23:32.410 --> 00:23:34.810
+When we already know how to do something.
+
+00:23:34.810 --> 00:23:37.130
+And it's just simply a matter
+
+00:23:37.130 --> 00:23:41.263
+of plugging the correct
+elements into the correct boxes.
+
+00:23:42.300 --> 00:23:44.950
+I've talked before about
+duration, path and outcome,
+
+00:23:44.950 --> 00:23:45.980
+as the three things
+
+00:23:45.980 --> 00:23:48.130
+that the deliberate
+conscious brain is trying
+
+00:23:48.130 --> 00:23:51.080
+to figure out in order
+to perform certain tasks,
+
+00:23:51.080 --> 00:23:52.930
+even cognitive tasks.
+
+00:23:52.930 --> 00:23:56.140
+This is the sort of thing
+that we are very good at
+
+00:23:56.140 --> 00:23:58.760
+when we're well rested, and we're focused.
+
+00:23:58.760 --> 00:24:00.290
+In our autonomic arousal
+
+00:24:00.290 --> 00:24:03.460
+or our alertness rather
+is at a high level.
+
+00:24:03.460 --> 00:24:06.880
+If you are somebody who is
+hitting that alertness phase
+
+00:24:06.880 --> 00:24:09.620
+of your day, very early,
+right after you wake up,
+
+00:24:09.620 --> 00:24:13.260
+that's a great time to move
+right into things that,
+
+00:24:13.260 --> 00:24:14.790
+at least the research says,
+
+00:24:14.790 --> 00:24:16.700
+you already know, have the strategy
+
+00:24:16.700 --> 00:24:19.140
+and you just wanna implement the strategy.
+
+00:24:19.140 --> 00:24:21.130
+This is where I fundamentally depart
+
+00:24:21.130 --> 00:24:23.450
+from the idea that, oh, you
+know, you have to do the hardest
+
+00:24:23.450 --> 00:24:24.960
+or most critical tasks throughout the day.
+
+00:24:24.960 --> 00:24:27.300
+Sometimes the hardest
+and most critical tasks,
+
+00:24:27.300 --> 00:24:29.520
+are tasks that require creativity.
+
+00:24:29.520 --> 00:24:33.040
+And as we'll soon talk about creativity,
+
+00:24:33.040 --> 00:24:35.070
+and tasks related to it,
+
+00:24:35.070 --> 00:24:38.300
+oftentimes come to us best
+
+00:24:38.300 --> 00:24:40.250
+or the brain is best at achieving those,
+
+00:24:40.250 --> 00:24:44.420
+when we're in states of calm
+or even slightly drowsy.
+
+00:24:44.420 --> 00:24:45.790
+Which is something that's interesting
+
+00:24:45.790 --> 00:24:47.100
+in what we'll get into.
+
+00:24:47.100 --> 00:24:48.500
+But for me, for instance,
+
+00:24:48.500 --> 00:24:51.230
+I get up, I'm not terribly
+alert, first thing.
+
+00:24:51.230 --> 00:24:53.167
+And so I try and just get my brain
+
+00:24:53.167 --> 00:24:54.950
+and my thoughts organized.
+
+00:24:54.950 --> 00:24:57.000
+It's not a time for me to be responding
+
+00:24:57.000 --> 00:24:59.040
+in a very linear fashion to emails
+
+00:24:59.040 --> 00:25:01.050
+or carrying out calculations.
+
+00:25:01.050 --> 00:25:02.287
+That comes about two hours later.
+
+00:25:02.287 --> 00:25:04.770
+And I think many people
+out there will relate,
+
+00:25:04.770 --> 00:25:08.670
+mid-morning is when many people
+tend to achieve their peak
+
+00:25:08.670 --> 00:25:10.480
+in alertness and focus.
+
+00:25:10.480 --> 00:25:14.770
+Now, many times I get the question and
+
+00:25:14.770 --> 00:25:16.760
+this what I'm about to
+say is directly related
+
+00:25:16.760 --> 00:25:19.840
+to the hundreds of
+questions I got about this.
+
+00:25:19.840 --> 00:25:23.120
+Should I use, background
+music in order to learn?
+
+00:25:23.120 --> 00:25:26.360
+Should I have, you know,
+construction next door?
+
+00:25:26.360 --> 00:25:27.860
+Is that a good thing or a bad thing?
+
+00:25:27.860 --> 00:25:30.290
+Is it better to be in
+complete silence, et cetera?
+
+00:25:30.290 --> 00:25:31.230
+Now this will vary.
+
+00:25:31.230 --> 00:25:33.510
+Some people can tolerate their own noise
+
+00:25:33.510 --> 00:25:35.030
+within their head much better than others.
+
+00:25:35.030 --> 00:25:37.600
+Other people find that
+having some background noise,
+
+00:25:37.600 --> 00:25:39.083
+helps cancel that out.
+
+00:25:39.920 --> 00:25:41.320
+But there's a simple rule
+
+00:25:41.320 --> 00:25:42.740
+of thumb that one can use,
+
+00:25:42.740 --> 00:25:44.850
+because at least my experience
+
+00:25:44.850 --> 00:25:47.620
+is that sometimes background
+music, background noise
+
+00:25:47.620 --> 00:25:50.130
+is very helpful for allowing me to focus.
+
+00:25:50.130 --> 00:25:52.740
+And other times, it's very distracting.
+
+00:25:52.740 --> 00:25:54.860
+So what actually governs that?
+
+00:25:54.860 --> 00:25:57.260
+Well, we have to ask ourselves,
+
+00:25:57.260 --> 00:26:01.550
+what is at the source,
+of the lack of focus?
+
+00:26:01.550 --> 00:26:04.440
+If our lack of focus is
+because our autonomic arousal
+
+00:26:04.440 --> 00:26:06.580
+or our alertness is very, very high.
+
+00:26:06.580 --> 00:26:07.830
+We had a little too much coffee,
+
+00:26:07.830 --> 00:26:10.410
+or if there is such a thing,
+slept a little too long
+
+00:26:10.410 --> 00:26:12.660
+or we're really stressed
+or really activated,
+
+00:26:12.660 --> 00:26:15.280
+and we can't seem to focus.
+
+00:26:15.280 --> 00:26:17.060
+In that case,
+
+00:26:17.060 --> 00:26:18.950
+eliminating background noise,
+
+00:26:18.950 --> 00:26:21.190
+and really just trying to get silence,
+
+00:26:21.190 --> 00:26:25.060
+so that we can quiet some
+of that autonomic arousal,
+
+00:26:25.060 --> 00:26:26.150
+is going to be best
+
+00:26:26.150 --> 00:26:29.470
+for learning and for implementation
+
+00:26:29.470 --> 00:26:31.360
+of things we already know how to do.
+
+00:26:31.360 --> 00:26:33.950
+For any kind of focus linear task.
+
+00:26:33.950 --> 00:26:36.523
+Which, basically learning
+is a focus linear task
+
+00:26:36.523 --> 00:26:38.160
+is that you're just not necessarily,
+
+00:26:38.160 --> 00:26:39.520
+performing well all the time.
+
+00:26:39.520 --> 00:26:41.200
+Last time we talked about making errors.
+
+00:26:41.200 --> 00:26:44.670
+So as a rule of thumb,
+if you're too keyed up,
+
+00:26:44.670 --> 00:26:47.490
+then silence and quiet
+is going to be helpful.
+
+00:26:47.490 --> 00:26:49.253
+In fact, if you're very keyed up,
+
+00:26:50.120 --> 00:26:51.830
+a particular circuit,
+
+00:26:51.830 --> 00:26:53.750
+related to the basal ganglia,
+
+00:26:53.750 --> 00:26:55.760
+starts getting triggered more easily.
+
+00:26:55.760 --> 00:26:57.700
+And this circuit, I'm
+gonna talk about in depth.
+
+00:26:57.700 --> 00:27:00.430
+But, it's called the go, no-go circuit.
+
+00:27:00.430 --> 00:27:02.830
+We have circuits that
+connect our forebrain,
+
+00:27:02.830 --> 00:27:05.270
+to our structure in our brain
+called the basal ganglia
+
+00:27:05.270 --> 00:27:07.320
+which is actually a
+collection of structures.
+
+00:27:07.320 --> 00:27:09.920
+And the forebrain, which is involved
+
+00:27:09.920 --> 00:27:12.330
+in rational thought and thinking
+and planning and action,
+
+00:27:12.330 --> 00:27:15.120
+is always trying to plan what should I do,
+
+00:27:15.120 --> 00:27:16.357
+and then implement that action.
+
+00:27:16.357 --> 00:27:18.910
+And the basal ganglia
+are intimately involved
+
+00:27:18.910 --> 00:27:19.743
+in that discussion.
+
+00:27:19.743 --> 00:27:22.270
+There's a reciprocal
+loop of communication,
+
+00:27:22.270 --> 00:27:24.440
+between basil ganglia and cortex.
+
+00:27:24.440 --> 00:27:26.340
+The basal ganglia has one set
+
+00:27:26.340 --> 00:27:28.220
+of connections to the cortex,
+
+00:27:28.220 --> 00:27:30.330
+and the cortex back to the basal ganglia
+
+00:27:30.330 --> 00:27:32.860
+that facilitates go.
+
+00:27:32.860 --> 00:27:35.240
+It facilitates action.
+
+00:27:35.240 --> 00:27:37.783
+And the molecule, the
+neuromodulator dopamine,
+
+00:27:38.870 --> 00:27:40.870
+triggers the activation of go.
+
+00:27:40.870 --> 00:27:43.360
+It tends to make us
+want to do more things.
+
+00:27:43.360 --> 00:27:46.450
+It tends to make us bias toward action.
+
+00:27:46.450 --> 00:27:48.360
+By the way that dopamine binds
+
+00:27:48.360 --> 00:27:50.060
+to something called the D1 receptors.
+
+00:27:50.060 --> 00:27:52.160
+Just a particular type
+of dopamine receptor.
+
+00:27:52.160 --> 00:27:54.440
+For those of you that wanna know.
+
+00:27:54.440 --> 00:27:56.260
+The no-go pathway,
+
+00:27:56.260 --> 00:27:58.640
+the pathway in the basal ganglia,
+
+00:27:58.640 --> 00:28:01.053
+and cortex that suppresses action,
+
+00:28:02.130 --> 00:28:04.060
+involves dopamine binding
+
+00:28:04.060 --> 00:28:06.890
+to this other receptor
+called the D2 receptor.
+
+00:28:06.890 --> 00:28:08.320
+Now D1, D2 receptors,
+
+00:28:08.320 --> 00:28:09.620
+you can't just consciously decide,
+
+00:28:09.620 --> 00:28:12.570
+oh, I only want my D1
+receptors and my D2 receptors
+
+00:28:12.570 --> 00:28:13.560
+to be active.
+
+00:28:13.560 --> 00:28:15.450
+You have to think about,
+
+00:28:15.450 --> 00:28:19.930
+which sorts of states of mind and body,
+
+00:28:19.930 --> 00:28:23.943
+facilitate go, and which
+ones facilitate no-go.
+
+00:28:25.060 --> 00:28:26.590
+Now this is critically important,
+
+00:28:26.590 --> 00:28:28.520
+because doing focused work,
+
+00:28:28.520 --> 00:28:32.010
+accessing plasticity, and learning,
+
+00:28:32.010 --> 00:28:35.750
+involve doing certain
+things and not doing others.
+
+00:28:35.750 --> 00:28:36.740
+So here's how it works.
+
+00:28:36.740 --> 00:28:39.223
+And here's how I apply
+it on a daily basis.
+
+00:28:40.360 --> 00:28:42.290
+Because I tend to be most alert,
+
+00:28:42.290 --> 00:28:45.560
+first thing, mid-morning or so.
+
+00:28:45.560 --> 00:28:47.760
+And then I generally will
+have my caffeine mid-morning.
+
+00:28:47.760 --> 00:28:52.580
+My peak of alertness, in
+the early part of the day,
+
+00:28:52.580 --> 00:28:55.660
+is occurring for me sometime
+between 9:30 and 11:00 AM.
+
+00:28:55.660 --> 00:28:56.493
+That's just me.
+
+00:28:56.493 --> 00:28:57.410
+Other people might experience
+
+00:28:57.410 --> 00:28:59.210
+that immediately after rolling out of bed.
+
+00:28:59.210 --> 00:29:01.490
+They might be wide awake and ready to go.
+
+00:29:01.490 --> 00:29:02.840
+Which case they should be cautious
+
+00:29:02.840 --> 00:29:04.239
+about throwing caffeine in the mix
+
+00:29:04.239 --> 00:29:07.000
+and it's gonna make them very, very alert.
+
+00:29:07.000 --> 00:29:10.200
+There are three sort of levels,
+
+00:29:10.200 --> 00:29:12.780
+of autonomic arousal of alertness,
+
+00:29:12.780 --> 00:29:17.780
+that bias us more toward
+go, no-go, or both.
+
+00:29:18.520 --> 00:29:21.180
+And this relates, to a question
+
+00:29:21.180 --> 00:29:24.000
+that I've gotten now
+hundreds of times from you,
+
+00:29:24.000 --> 00:29:26.450
+in the comment section for this podcast,
+
+00:29:26.450 --> 00:29:28.950
+which is, is it better for me to listen
+
+00:29:28.950 --> 00:29:31.860
+to music in the background
+while I work and learn,
+
+00:29:31.860 --> 00:29:34.290
+or should I have complete silence?
+
+00:29:34.290 --> 00:29:37.310
+And the answer is it depends.
+
+00:29:37.310 --> 00:29:40.180
+But it doesn't depend
+randomly on who you are,
+
+00:29:40.180 --> 00:29:42.320
+or even necessarily time of day,
+
+00:29:42.320 --> 00:29:47.200
+it depends, on your overall
+level of autonomic arousal.
+
+00:29:47.200 --> 00:29:48.980
+And it depends because,
+
+00:29:48.980 --> 00:29:51.090
+autonomic arousal level of alertness,
+
+00:29:51.090 --> 00:29:53.030
+biases the extent to which,
+
+00:29:53.030 --> 00:29:56.750
+we are more prone to gos to action,
+
+00:29:56.750 --> 00:30:00.340
+or to no-gos, to suppress action.
+
+00:30:00.340 --> 00:30:02.920
+And dopamine is this molecule
+that's swimming around
+
+00:30:02.920 --> 00:30:05.170
+and is going to buy us one
+or the other responses.
+
+00:30:05.170 --> 00:30:06.003
+So here's how it works.
+
+00:30:06.003 --> 00:30:07.810
+Let's say, I'm very alert.
+
+00:30:07.810 --> 00:30:09.460
+Maybe I got a particularly
+good night's sleep
+
+00:30:09.460 --> 00:30:10.510
+the night before,
+
+00:30:10.510 --> 00:30:12.330
+I had a little too much coffee,
+
+00:30:12.330 --> 00:30:14.760
+and I'm gonna sit down to some work.
+
+00:30:14.760 --> 00:30:16.250
+The thing to know,
+
+00:30:16.250 --> 00:30:19.440
+and what I always tell myself
+is when I'm very alert,
+
+00:30:19.440 --> 00:30:22.870
+I am very prone to go, to action,
+
+00:30:22.870 --> 00:30:27.870
+but I'm also prone to, not no-go, right?
+
+00:30:27.980 --> 00:30:30.490
+I'm not gonna be very good
+at suppressing action.
+
+00:30:30.490 --> 00:30:31.640
+So those are two different things.
+
+00:30:31.640 --> 00:30:33.970
+Being biased toward
+action and being biased,
+
+00:30:33.970 --> 00:30:37.560
+toward suppressing action are
+two different things, okay?
+
+00:30:37.560 --> 00:30:39.480
+So those are push pull.
+
+00:30:39.480 --> 00:30:41.980
+Toward action, suppress action.
+
+00:30:41.980 --> 00:30:43.660
+So, when you're very alert,
+
+00:30:43.660 --> 00:30:46.370
+the tendency is for
+everything to be a stimulus.
+
+00:30:46.370 --> 00:30:47.440
+This is why when people say,
+
+00:30:47.440 --> 00:30:51.040
+well, should I just take a drug
+that will increase my level
+
+00:30:51.040 --> 00:30:52.230
+of epinephrine and alertness?
+
+00:30:52.230 --> 00:30:53.230
+Will that help me learn better?
+
+00:30:53.230 --> 00:30:55.750
+No, because it will make you do things,
+
+00:30:55.750 --> 00:30:57.660
+but it will also make you less good
+
+00:30:57.660 --> 00:31:00.760
+at suppressing actions
+that you need to suppress.
+
+00:31:00.760 --> 00:31:04.160
+So if I'm very alert,
+particularly alert for me
+
+00:31:04.160 --> 00:31:06.390
+and I recognize what
+that state is, of course
+
+00:31:06.390 --> 00:31:07.430
+'cause everyone will be different.
+
+00:31:07.430 --> 00:31:08.980
+I know what it is for me.
+
+00:31:08.980 --> 00:31:11.670
+Then I want silence for learning.
+
+00:31:11.670 --> 00:31:14.010
+I want it shut down my
+internet, which I do.
+
+00:31:14.010 --> 00:31:15.950
+I sometimes use a program,
+
+00:31:15.950 --> 00:31:18.633
+that I believe is a free
+program called Freedom,
+
+00:31:19.590 --> 00:31:21.510
+where it actually locks you out
+
+00:31:21.510 --> 00:31:23.390
+of the internet for a particular time.
+
+00:31:23.390 --> 00:31:24.580
+They're not a sponsor of the podcast.
+
+00:31:24.580 --> 00:31:26.610
+I just happen to use it.
+
+00:31:26.610 --> 00:31:28.370
+There's another version
+of Freedom where you go
+
+00:31:28.370 --> 00:31:30.480
+to the wireless thing and you turn it off.
+
+00:31:30.480 --> 00:31:31.790
+You disconnect from the wireless.
+
+00:31:31.790 --> 00:31:32.623
+That's the other one.
+
+00:31:32.623 --> 00:31:36.180
+Although, many people have a
+hard time not reactivating it.
+
+00:31:36.180 --> 00:31:38.055
+So I'm trying to shut down
+
+00:31:38.055 --> 00:31:41.420
+the go pathway towards distraction.
+
+00:31:41.420 --> 00:31:43.070
+And the other thing that I'll do,
+
+00:31:43.070 --> 00:31:45.210
+is I'll generally turn off my phone,
+
+00:31:45.210 --> 00:31:46.650
+put the phone outside in the car
+
+00:31:46.650 --> 00:31:49.490
+or in really extreme cases
+I'll throw it up on the roof
+
+00:31:49.490 --> 00:31:52.600
+which is hard for me to retrieve,
+so that I can't get to it.
+
+00:31:52.600 --> 00:31:55.150
+So if I'm very alert, I'm aware
+
+00:31:55.150 --> 00:31:58.010
+that I will have a bias toward action.
+
+00:31:58.010 --> 00:32:00.670
+It will be hard for me
+to suppress non-action,
+
+00:32:00.670 --> 00:32:03.320
+but that it's very nonspecific.
+
+00:32:03.320 --> 00:32:06.960
+Because, the next kind of
+level down of alertness,
+
+00:32:06.960 --> 00:32:10.210
+or autonomic arousal is
+clear, calm and focused
+
+00:32:10.210 --> 00:32:13.263
+where we have that kind
+of sweet spot between,
+
+00:32:14.110 --> 00:32:16.670
+our willingness to pursue action.
+
+00:32:16.670 --> 00:32:19.150
+We're in a mode of go, and
+it's not always physical action
+
+00:32:19.150 --> 00:32:22.020
+but it can be pursuing
+hard bouts of learning.
+
+00:32:22.020 --> 00:32:26.420
+But that our ability to
+suppress is also very good.
+
+00:32:26.420 --> 00:32:27.940
+And this is because, and I don't wanna get
+
+00:32:27.940 --> 00:32:29.160
+into too many details,
+
+00:32:29.160 --> 00:32:31.310
+because of the way that dopamine competes
+
+00:32:31.310 --> 00:32:32.810
+for these dopamine one receptors
+
+00:32:32.810 --> 00:32:34.810
+in the go pathway and
+dopamine two receptors
+
+00:32:34.810 --> 00:32:36.053
+in the no-go pathway.
+
+00:32:37.300 --> 00:32:39.120
+They're always in this kind of push pull.
+
+00:32:39.120 --> 00:32:40.540
+And so there is a sweet spot.
+
+00:32:40.540 --> 00:32:42.540
+And that sweet spot isn't flow,
+
+00:32:42.540 --> 00:32:43.830
+where it is in some sort
+
+00:32:43.830 --> 00:32:46.220
+of state where all of a sudden
+things come naturally to us.
+
+00:32:46.220 --> 00:32:48.320
+The state that we're trying
+to achieve that's optimal
+
+00:32:48.320 --> 00:32:49.910
+for learning is one in which,
+
+00:32:49.910 --> 00:32:52.220
+we have the energy and focus to pursue,
+
+00:32:52.220 --> 00:32:55.370
+but we also have the energy
+and focus to suppress action.
+
+00:32:55.370 --> 00:32:57.070
+So the basal ganglia are kinda working
+
+00:32:57.070 --> 00:33:00.160
+in a perfect kind of sing songly manner,
+
+00:33:00.160 --> 00:33:01.890
+through this parallel pathway.
+
+00:33:01.890 --> 00:33:05.460
+Now, as we get tired or as we
+round out an ultradian cycle
+
+00:33:05.460 --> 00:33:06.733
+of about 90 minutes,
+
+00:33:07.680 --> 00:33:09.640
+what happens is our fatigue even
+
+00:33:09.640 --> 00:33:10.840
+if it's not a physical fatigue
+
+00:33:10.840 --> 00:33:12.480
+that makes us wanna go to sleep,
+
+00:33:12.480 --> 00:33:14.640
+but our mental fatigue
+starts to accumulate
+
+00:33:14.640 --> 00:33:18.370
+because these pathways of
+go, no-go are actually,
+
+00:33:18.370 --> 00:33:20.130
+very metabolically consuming.
+
+00:33:20.130 --> 00:33:23.840
+So what I recognize is that
+as they start to falter,
+
+00:33:23.840 --> 00:33:26.570
+I have a harder time engaging and going
+
+00:33:28.681 --> 00:33:30.330
+or going toward the goal rather.
+
+00:33:30.330 --> 00:33:33.930
+I also know that my reflex,
+
+00:33:33.930 --> 00:33:36.190
+toward actions that are unrelated
+
+00:33:36.190 --> 00:33:38.110
+to the learning are also
+gonna start increasing
+
+00:33:38.110 --> 00:33:42.880
+because I'm not gonna be
+able to suppress action
+
+00:33:42.880 --> 00:33:44.420
+and activate the no-go pathways.
+
+00:33:44.420 --> 00:33:45.960
+So if this all sounds like a mouthful,
+
+00:33:45.960 --> 00:33:47.470
+let's make it very simple for you.
+
+00:33:47.470 --> 00:33:49.220
+When you are very alert,
+
+00:33:49.220 --> 00:33:52.770
+the best situation for learning
+is going to be silence.
+
+00:33:52.770 --> 00:33:55.200
+It's going to be complete quiet.
+
+00:33:55.200 --> 00:33:57.110
+If you are low arousal,
+
+00:33:57.110 --> 00:33:59.250
+and you're tired and
+you're kind of sleepy,
+
+00:33:59.250 --> 00:34:02.090
+a lot of people find that
+having some background chatter
+
+00:34:02.090 --> 00:34:05.280
+and some background noise,
+can help elevate their level
+
+00:34:05.280 --> 00:34:06.300
+of autonomic arousal.
+
+00:34:06.300 --> 00:34:08.350
+And that's because our auditory system
+
+00:34:08.350 --> 00:34:11.490
+and our visual system, are
+linked and are part of really
+
+00:34:11.490 --> 00:34:13.180
+what's called the salience network.
+
+00:34:13.180 --> 00:34:14.013
+Which is that we're always,
+
+00:34:14.013 --> 00:34:15.920
+scanning our environment for things.
+
+00:34:15.920 --> 00:34:19.260
+And when we have a lot of things
+in our environment to scan,
+
+00:34:19.260 --> 00:34:21.740
+generally our level of alertness goes up.
+
+00:34:21.740 --> 00:34:24.770
+This is why environments
+that are very stark
+
+00:34:24.770 --> 00:34:27.930
+or have very little or
+very few objects in them,
+
+00:34:27.930 --> 00:34:29.750
+tend to make us feel kind of calm,
+
+00:34:29.750 --> 00:34:31.970
+because our salient
+network kinda shuts off.
+
+00:34:31.970 --> 00:34:33.130
+A lot of people don't like that.
+
+00:34:33.130 --> 00:34:35.430
+They'll go to a meditation retreat,
+
+00:34:35.430 --> 00:34:36.920
+or they'll go into an environment
+
+00:34:36.920 --> 00:34:39.260
+where there's very little
+clutter especially city people.
+
+00:34:39.260 --> 00:34:40.120
+And all of a sudden,
+
+00:34:40.120 --> 00:34:42.350
+they start feeling really, really anxious.
+
+00:34:42.350 --> 00:34:44.170
+And that's because their internal level
+
+00:34:44.170 --> 00:34:45.790
+of autonomic arousal is really high
+
+00:34:45.790 --> 00:34:47.580
+and it's not being
+occupied by all this stuff
+
+00:34:47.580 --> 00:34:48.630
+to pay attention to.
+
+00:34:48.630 --> 00:34:51.030
+And so their salience network
+starts to turn inward.
+
+00:34:51.030 --> 00:34:54.110
+They move from exteroception
+to interoception.
+
+00:34:54.110 --> 00:34:55.760
+They're not looking outside themselves,
+
+00:34:55.760 --> 00:34:56.860
+they're looking inside themselves
+
+00:34:56.860 --> 00:34:58.810
+and there's a lot of noise in there.
+
+00:34:58.810 --> 00:35:02.960
+So, as a rule of thumb,
+if you tend to be kind of
+
+00:35:02.960 --> 00:35:06.580
+on the high level of
+alertness and kind of anxiety,
+
+00:35:06.580 --> 00:35:08.760
+and I'm not talking about
+clinical levels of anxiety
+
+00:35:08.760 --> 00:35:11.410
+but you tend to, be pretty high energy,
+
+00:35:11.410 --> 00:35:14.600
+well then, you are definitely
+going to benefit more
+
+00:35:14.600 --> 00:35:15.590
+in a learning bout,
+
+00:35:15.590 --> 00:35:19.907
+from learning to go as well
+as activate the no-go pathway.
+
+00:35:19.907 --> 00:35:21.750
+And that requires a lot of energy.
+
+00:35:21.750 --> 00:35:24.350
+And when you have a lot of
+distractions in your environment,
+
+00:35:24.350 --> 00:35:26.640
+there's a high probability
+that you're gonna be distracted
+
+00:35:26.640 --> 00:35:28.060
+from the learning.
+
+00:35:28.060 --> 00:35:30.390
+Now, some people are
+just naturally more calm.
+
+00:35:30.390 --> 00:35:33.610
+They're like my bulldog
+Costello, who's exceedingly calm.
+
+00:35:33.610 --> 00:35:34.610
+They're pretty mellow.
+
+00:35:34.610 --> 00:35:37.500
+They're kind of clear, calm
+and focused all of the time.
+
+00:35:37.500 --> 00:35:41.050
+And those people, actually
+are gonna be less flappable.
+
+00:35:41.050 --> 00:35:44.010
+They're not gonna be yanked
+around by background noise
+
+00:35:44.010 --> 00:35:45.680
+or they're not gonna be around, you know,
+
+00:35:45.680 --> 00:35:47.960
+bothered from their learning
+or from their studying
+
+00:35:47.960 --> 00:35:51.030
+by a clanging of a pot from
+somebody in the kitchen.
+
+00:35:51.030 --> 00:35:53.610
+So, each one of us
+generally tends to ride up
+
+00:35:53.610 --> 00:35:57.550
+and down this autonomic
+ladder, so to speak,
+
+00:35:57.550 --> 00:35:58.550
+at different times a day.
+
+00:35:58.550 --> 00:36:01.960
+For most people, three hours after waking.
+
+00:36:01.960 --> 00:36:04.470
+Those three hours, not
+three hours on the mark
+
+00:36:04.470 --> 00:36:06.810
+but for that three hour
+bin tends to be the period
+
+00:36:06.810 --> 00:36:08.550
+in which they're most
+alert throughout the day.
+
+00:36:08.550 --> 00:36:09.790
+Except I'll tell you later
+
+00:36:09.790 --> 00:36:12.090
+about a unique time right before sleep
+
+00:36:12.090 --> 00:36:15.410
+in which you're also very,
+very alert, naturally.
+
+00:36:15.410 --> 00:36:18.690
+So, that morning three
+hours is quite vital.
+
+00:36:18.690 --> 00:36:21.700
+Now, many of you might ask about exercise
+
+00:36:21.700 --> 00:36:23.260
+and when to exercise.
+
+00:36:23.260 --> 00:36:24.440
+I think I may have mentioned this
+
+00:36:24.440 --> 00:36:25.870
+on a previous podcast episode.
+
+00:36:25.870 --> 00:36:27.630
+But, the research shows that
+
+00:36:27.630 --> 00:36:30.610
+at least for performance,
+afternoon exercise might be better
+
+00:36:30.610 --> 00:36:32.190
+in terms of avoiding injury, et cetera.
+
+00:36:32.190 --> 00:36:34.343
+But in terms of rising body temperatures,
+
+00:36:35.720 --> 00:36:37.210
+and matching body temperature
+
+00:36:37.210 --> 00:36:38.640
+to have mental alertness, et cetera.
+
+00:36:38.640 --> 00:36:42.030
+It's pretty clear, that
+exercising early in the day,
+
+00:36:42.030 --> 00:36:44.830
+not only biases us
+towards waking up earlier,
+
+00:36:44.830 --> 00:36:47.260
+but that it also triggers
+the release of things
+
+00:36:47.260 --> 00:36:50.240
+like epinephrine and
+other neuromodulators,
+
+00:36:50.240 --> 00:36:52.670
+that lend itself,
+
+00:36:52.670 --> 00:36:55.500
+to a situation where we
+have heightened levels
+
+00:36:55.500 --> 00:36:57.680
+of arousal and mental acuity
+
+00:36:57.680 --> 00:37:00.173
+in the late morning and
+even into the afternoon.
+
+00:37:00.173 --> 00:37:01.860
+Now, this can be very good
+
+00:37:01.860 --> 00:37:04.740
+because if you wanna restrict
+most of your focus learning
+
+00:37:04.740 --> 00:37:05.910
+to the early part of the day,
+
+00:37:05.910 --> 00:37:09.990
+exercising early in the day
+does set a neurochemical context
+
+00:37:09.990 --> 00:37:11.730
+or mill you for go.
+
+00:37:11.730 --> 00:37:14.680
+It tends to trigger
+activation of the go pathway.
+
+00:37:14.680 --> 00:37:16.440
+And so for those of you like myself
+
+00:37:16.440 --> 00:37:18.320
+who have a hard time kind
+of engaging and getting
+
+00:37:18.320 --> 00:37:19.810
+into action early in the day,
+
+00:37:19.810 --> 00:37:22.500
+early morning exercise
+within an hour of waking,
+
+00:37:22.500 --> 00:37:25.490
+and certainly no later than
+three hours after waking,
+
+00:37:25.490 --> 00:37:28.060
+will give you quote unquote more energy
+
+00:37:28.060 --> 00:37:28.910
+throughout the day.
+
+00:37:28.910 --> 00:37:31.270
+It will make you feel
+more biased for action.
+
+00:37:31.270 --> 00:37:32.870
+You won't feel as lethargic.
+
+00:37:32.870 --> 00:37:34.820
+So, in can kind of reviewing
+
+00:37:34.820 --> 00:37:37.550
+what I've set up until now I
+do the morning light thing,
+
+00:37:37.550 --> 00:37:40.570
+I delay my caffeine
+two hours after waking,
+
+00:37:40.570 --> 00:37:43.610
+and then I generally try and get exercise
+
+00:37:43.610 --> 00:37:45.560
+in the first hour or ideally
+
+00:37:45.560 --> 00:37:47.450
+within the first three hours of waking up.
+
+00:37:47.450 --> 00:37:50.020
+And then I'll move into
+a focused learning bout.
+
+00:37:50.020 --> 00:37:53.450
+Now, some of you wrote to me
+and said, if I exercise early
+
+00:37:53.450 --> 00:37:55.410
+in the day, then I feel
+a crash afterwards.
+
+00:37:55.410 --> 00:37:57.450
+If that exercise is very, very intense.
+
+00:37:57.450 --> 00:37:59.100
+So you're depleting all your glycogen.
+
+00:37:59.100 --> 00:38:01.090
+So you're doing heavy
+deadlifts, et cetera.
+
+00:38:01.090 --> 00:38:04.740
+Chances are after you eat, you
+will start to feel a crash.
+
+00:38:04.740 --> 00:38:06.840
+So this relates to timing of nutrition.
+
+00:38:06.840 --> 00:38:09.230
+And in just as a general rule of thumb,
+
+00:38:09.230 --> 00:38:12.570
+fasted states, and low
+carbohydrate states,
+
+00:38:12.570 --> 00:38:15.080
+I'm not talking about a keto diet around
+
+00:38:15.080 --> 00:38:16.350
+the clock or all week
+
+00:38:16.350 --> 00:38:18.640
+but fasted states,
+
+00:38:18.640 --> 00:38:22.350
+and low carbohydrate states
+lend themselves to alertness.
+
+00:38:22.350 --> 00:38:25.760
+And that's because carbohydrates
+are rich in tryptophan,
+
+00:38:25.760 --> 00:38:28.910
+and they tend to lend
+themselves to sleepiness.
+
+00:38:28.910 --> 00:38:31.740
+Of course, ingesting large
+amounts of any kind of food,
+
+00:38:31.740 --> 00:38:35.300
+any substance that fills
+your gut will divert blood
+
+00:38:35.300 --> 00:38:36.133
+to your gut.
+
+00:38:36.133 --> 00:38:37.950
+So if you eat a lot of food regardless
+
+00:38:37.950 --> 00:38:39.810
+of whether or not it's a
+lot of carbohydrate or not,
+
+00:38:39.810 --> 00:38:42.300
+you're going to generally
+feel more sleepy.
+
+00:38:42.300 --> 00:38:46.590
+Now, many people, including
+everyone use food,
+
+00:38:46.590 --> 00:38:49.600
+to modulate their levels
+of autonomic arousal.
+
+00:38:49.600 --> 00:38:53.260
+And typically eating shifts us
+more towards a state of calm.
+
+00:38:53.260 --> 00:38:55.930
+And fasting shifts us more
+toward a state of alertness.
+
+00:38:55.930 --> 00:38:58.010
+And these are hard-wired
+circuits that relate
+
+00:38:58.010 --> 00:39:01.210
+to the need and desire to find
+food which requires action,
+
+00:39:01.210 --> 00:39:03.520
+or the so-called rest and digest system
+
+00:39:03.520 --> 00:39:05.610
+which diverts our resources
+
+00:39:05.610 --> 00:39:07.010
+and our energy towards digestion.
+
+00:39:07.010 --> 00:39:08.360
+It makes us feel calm.
+
+00:39:08.360 --> 00:39:11.880
+So I personally rely on water, mate,
+
+00:39:11.880 --> 00:39:14.910
+and black coffee first thing in the day,
+
+00:39:14.910 --> 00:39:19.210
+in order to exercise and get
+into the first round of work.
+
+00:39:19.210 --> 00:39:20.760
+If I find that I'm too alert,
+
+00:39:20.760 --> 00:39:23.800
+and then I generally will tend to eat
+
+00:39:23.800 --> 00:39:26.120
+and kind of bring down
+my level of alertness,
+
+00:39:26.120 --> 00:39:27.490
+and will continue working.
+
+00:39:27.490 --> 00:39:28.740
+Now this is in district thing.
+
+00:39:28.740 --> 00:39:31.320
+And since people asked me what I do,
+
+00:39:31.320 --> 00:39:33.260
+and I'm not dictating that people follow
+
+00:39:33.260 --> 00:39:35.380
+it exactly of course or even generally,
+
+00:39:35.380 --> 00:39:36.610
+but I'll just tell you what I do.
+
+00:39:36.610 --> 00:39:39.940
+It is possible if you're
+drinking black coffee,
+
+00:39:39.940 --> 00:39:42.270
+or mate and you're
+ingesting a lot of water,
+
+00:39:42.270 --> 00:39:44.380
+that you're going to
+dehydrate yourself somewhat,
+
+00:39:44.380 --> 00:39:46.600
+because of excretion of sodium.
+
+00:39:46.600 --> 00:39:48.010
+Provided you don't have hypertension,
+
+00:39:48.010 --> 00:39:49.670
+salt is a really good thing.
+
+00:39:49.670 --> 00:39:51.540
+A lot of people think that they are low
+
+00:39:51.540 --> 00:39:53.850
+on blood sugar because they're
+shaky and they can't think
+
+00:39:53.850 --> 00:39:56.660
+or they have a headache when
+actually they're low in sodium.
+
+00:39:56.660 --> 00:39:59.170
+And especially if you're
+drinking a lot of caffeine.
+
+00:39:59.170 --> 00:40:00.680
+So I'm a big believer in salt.
+
+00:40:00.680 --> 00:40:02.621
+So I drink salt water first thing
+
+00:40:02.621 --> 00:40:03.960
+in the morning because
+I drink black coffee.
+
+00:40:03.960 --> 00:40:05.960
+And that keeps my levels
+of alertness really good.
+
+00:40:05.960 --> 00:40:08.260
+I always thought that I
+had messed up blood sugar.
+
+00:40:08.260 --> 00:40:11.350
+I had shaky hands and I
+didn't know what was going on.
+
+00:40:11.350 --> 00:40:13.560
+I'd drink a little bit of
+coffee and feel too amped up.
+
+00:40:13.560 --> 00:40:16.090
+And turns out that it was a sodium issue.
+
+00:40:16.090 --> 00:40:19.220
+And if I just drank water
+with a little bit of sea salt
+
+00:40:19.220 --> 00:40:22.150
+and or even just a typical table salt,
+
+00:40:22.150 --> 00:40:24.910
+then I'd fell rock solid
+in terms of my blood sugar.
+
+00:40:24.910 --> 00:40:27.710
+Now, again, I'm not a
+physician, I'm a professor
+
+00:40:27.710 --> 00:40:30.640
+so I don't prescribe anything,
+but I profess lots of things.
+
+00:40:30.640 --> 00:40:32.640
+So I don't want people who have diabetes
+
+00:40:32.640 --> 00:40:34.880
+or blood sugar issues to go off the rails.
+
+00:40:34.880 --> 00:40:37.120
+You're responsible for
+your health, not me.
+
+00:40:37.120 --> 00:40:39.370
+But it's an interesting
+parameter to think about
+
+00:40:39.370 --> 00:40:40.850
+and experiment with, you know,
+
+00:40:40.850 --> 00:40:42.370
+provided that your doctor says it's okay,
+
+00:40:42.370 --> 00:40:44.480
+because I think a lot of people,
+
+00:40:44.480 --> 00:40:45.700
+probably ingest too much sodium
+
+00:40:45.700 --> 00:40:48.060
+but a lot of people might be
+sodium deficient in particular
+
+00:40:48.060 --> 00:40:50.290
+the people that are fasting.
+
+00:40:50.290 --> 00:40:53.963
+I typically eat my first
+meal right around mid day,
+
+00:40:54.950 --> 00:40:56.760
+whether or not I've exercised or not.
+
+00:40:56.760 --> 00:40:58.950
+And the food content there
+
+00:40:58.950 --> 00:41:00.980
+is actually quite important to me.
+
+00:41:00.980 --> 00:41:02.610
+I don't know why this is.
+
+00:41:02.610 --> 00:41:05.100
+I don't have a scientific
+mechanism for this
+
+00:41:05.100 --> 00:41:08.090
+but if I eat hot food for
+lunch, I get sleepy after lunch.
+
+00:41:08.090 --> 00:41:10.440
+So I generally don't
+eat hot food for lunch.
+
+00:41:10.440 --> 00:41:12.260
+I might have a little bit of
+soup or something like that.
+
+00:41:12.260 --> 00:41:15.870
+But in general, I rely on
+a low carbohydrate meal.
+
+00:41:15.870 --> 00:41:18.100
+I'll eat meat or salad
+or some variation of that
+
+00:41:18.100 --> 00:41:20.583
+and nuts and fats and things like that
+
+00:41:20.583 --> 00:41:23.000
+because of the [indistinct]
+content for focus,
+
+00:41:23.000 --> 00:41:25.490
+because the protein is good in my belief.
+
+00:41:25.490 --> 00:41:26.510
+And because I believe
+
+00:41:26.510 --> 00:41:27.670
+in eating fruits and vegetables.
+
+00:41:27.670 --> 00:41:28.503
+I do that too.
+
+00:41:28.503 --> 00:41:30.880
+If I've exercised very
+hard early in the day,
+
+00:41:30.880 --> 00:41:33.710
+I do ingest starches like oatmeal or rice
+
+00:41:33.710 --> 00:41:34.860
+and fruit and things like that.
+
+00:41:34.860 --> 00:41:36.080
+Now, why am I telling you all this?
+
+00:41:36.080 --> 00:41:39.970
+Because, 100s if not 1000 people ask me,
+
+00:41:39.970 --> 00:41:42.040
+is fasting good for focus?
+
+00:41:42.040 --> 00:41:44.940
+And indeed fasting will
+increase alertness,
+
+00:41:44.940 --> 00:41:47.690
+but if you're so hungry
+or preoccupied with food
+
+00:41:47.690 --> 00:41:49.040
+that you can't focus well,
+
+00:41:49.040 --> 00:41:50.430
+then it's not gonna be good for learning.
+
+00:41:50.430 --> 00:41:53.110
+It's only going to be good for agitation.
+
+00:41:53.110 --> 00:41:56.070
+Now, I'm just gonna mark continue to march
+
+00:41:56.070 --> 00:41:57.490
+through my day.
+
+00:41:57.490 --> 00:42:00.300
+And this is, of course what I experienced.
+
+00:42:00.300 --> 00:42:01.780
+Some people are quite different.
+
+00:42:01.780 --> 00:42:04.550
+But, what I find is
+around 2:00 or 3:00 PM,
+
+00:42:04.550 --> 00:42:05.850
+I start getting a little groggy.
+
+00:42:05.850 --> 00:42:07.590
+A little bit sleepy.
+
+00:42:07.590 --> 00:42:12.100
+I will tend to shift my work
+from work that requires a lot
+
+00:42:12.100 --> 00:42:14.900
+of duration path, outcome,
+really careful analysis
+
+00:42:14.900 --> 00:42:17.530
+and activation of the no-go pathway.
+
+00:42:17.530 --> 00:42:19.780
+Meaning I'm trying to
+suppress the impulse to look
+
+00:42:19.780 --> 00:42:21.960
+at my phone or answer
+email, or do other things.
+
+00:42:21.960 --> 00:42:23.830
+This is why I haven't
+emailed you back until 3:00
+
+00:42:23.830 --> 00:42:24.910
+in the afternoon.
+
+00:42:24.910 --> 00:42:25.950
+By the way, or responded
+
+00:42:25.950 --> 00:42:28.400
+to your text messages,
+whoever you are out there.
+
+00:42:29.630 --> 00:42:31.560
+Around early afternoon,
+
+00:42:31.560 --> 00:42:35.540
+I find I can do kind of
+typical more mundane tasks.
+
+00:42:35.540 --> 00:42:40.540
+Because, those tasks
+require less cognitive load.
+
+00:42:42.080 --> 00:42:45.650
+And they can be done more or
+less, in and out of sequence.
+
+00:42:45.650 --> 00:42:47.040
+I can answer a couple email here,
+
+00:42:47.040 --> 00:42:48.560
+maybe answer that email there.
+
+00:42:48.560 --> 00:42:51.040
+I don't have to do it
+in pure linear fashion.
+
+00:42:51.040 --> 00:42:52.450
+Any kind of linear work
+
+00:42:52.450 --> 00:42:54.880
+or learning work is gonna
+take a lot of focus.
+
+00:42:54.880 --> 00:42:58.480
+And then typically around 4:00 PM or so,
+
+00:42:58.480 --> 00:42:59.960
+I do two things.
+
+00:42:59.960 --> 00:43:00.870
+Sometimes a little earlier.
+
+00:43:00.870 --> 00:43:03.300
+Sometimes a little later
+but I do two things.
+
+00:43:03.300 --> 00:43:05.490
+One, is I make sure I hydrate.
+
+00:43:05.490 --> 00:43:07.550
+Because if you're exercising
+and you're eating,
+
+00:43:07.550 --> 00:43:09.750
+you need to digest that food, et cetera.
+
+00:43:09.750 --> 00:43:10.640
+I make sure I hydrate.
+
+00:43:10.640 --> 00:43:11.730
+So I drink water.
+
+00:43:11.730 --> 00:43:14.250
+I try and refrain from drinking
+coffee in the afternoon.
+
+00:43:14.250 --> 00:43:15.460
+This is a new thing for me.
+
+00:43:15.460 --> 00:43:18.840
+I sometimes do it, but I
+try and refrain from that.
+
+00:43:18.840 --> 00:43:20.890
+And then I always do,
+
+00:43:20.890 --> 00:43:23.940
+a non sleep deep rest protocol
+sometime in the afternoon.
+
+00:43:23.940 --> 00:43:26.920
+This is sometimes a 10 minute
+yoga nidra type protocol,
+
+00:43:26.920 --> 00:43:29.770
+or a 30 minute yoga nidra type protocol.
+
+00:43:29.770 --> 00:43:31.770
+These are protocols I
+have no relationship to,
+
+00:43:31.770 --> 00:43:33.620
+no business relationship to whatsoever.
+
+00:43:33.620 --> 00:43:35.570
+I've been doing them for years now.
+
+00:43:35.570 --> 00:43:37.630
+They involve listening to a script.
+
+00:43:37.630 --> 00:43:39.010
+We'll provide the links again
+
+00:43:39.010 --> 00:43:41.580
+although we've provided them before.
+
+00:43:41.580 --> 00:43:44.000
+Or I'll do a hypnosis protocol,
+
+00:43:44.000 --> 00:43:45.000
+from Reveri Health
+
+00:43:45.000 --> 00:43:48.170
+which is my colleague
+David Spiegel's website
+
+00:43:48.170 --> 00:43:50.490
+that has these free hypnosis apps
+
+00:43:50.490 --> 00:43:52.970
+or scripts that you can listen to.
+
+00:43:52.970 --> 00:43:56.580
+And those take me into a
+state of really deep rest.
+
+00:43:56.580 --> 00:43:58.570
+Sometimes so much so that I fall asleep.
+
+00:43:58.570 --> 00:43:59.650
+And I always set an alarm
+
+00:43:59.650 --> 00:44:01.520
+so that I don't sleep for
+longer than 90 minutes.
+
+00:44:01.520 --> 00:44:03.620
+But typically this goes
+for about 30 minutes.
+
+00:44:03.620 --> 00:44:05.470
+And I do that because for me
+
+00:44:05.470 --> 00:44:07.790
+by about 4:30 in the afternoon,
+
+00:44:07.790 --> 00:44:10.310
+I'm capable of doing basically nothing.
+
+00:44:10.310 --> 00:44:12.770
+I am just a complete Costello.
+
+00:44:12.770 --> 00:44:15.870
+I can't think, I can't do,
+
+00:44:15.870 --> 00:44:17.340
+I can't respond to email.
+
+00:44:17.340 --> 00:44:21.490
+I've just completely troughed
+my ability to function.
+
+00:44:21.490 --> 00:44:23.920
+I personally find it a mistake,
+
+00:44:23.920 --> 00:44:24.990
+to that point,
+
+00:44:24.990 --> 00:44:28.240
+down a double espresso,
+and charge really hard.
+
+00:44:28.240 --> 00:44:29.350
+It just doesn't work for me.
+
+00:44:29.350 --> 00:44:31.420
+I end up really disrupting
+my sleep schedule.
+
+00:44:31.420 --> 00:44:33.130
+I end up disrupting a
+lot of different things.
+
+00:44:33.130 --> 00:44:36.440
+So for me, I do the non
+sleep deep rest protocol.
+
+00:44:36.440 --> 00:44:39.230
+It really helps me later
+when I need to fall asleep.
+
+00:44:39.230 --> 00:44:42.380
+It helps with all sorts of
+things, as I mentioned before.
+
+00:44:42.380 --> 00:44:45.630
+But I usually emerge
+from that a little groggy
+
+00:44:45.630 --> 00:44:49.970
+or feeling like I have another
+whole day, second wind.
+
+00:44:49.970 --> 00:44:51.800
+Like I could just work.
+
+00:44:51.800 --> 00:44:55.420
+And then I'll do a
+second bout of learning.
+
+00:44:55.420 --> 00:44:56.810
+I'll do some sort of work
+
+00:44:56.810 --> 00:45:00.390
+that either involves linear
+analysis of something.
+
+00:45:00.390 --> 00:45:04.713
+So maybe numerical work or
+I'm trying to learn something.
+
+00:45:05.550 --> 00:45:07.830
+I generally try and really use those bouts
+
+00:45:07.830 --> 00:45:10.880
+of 90 minute focus energy
+after the non sleep deep rest.
+
+00:45:10.880 --> 00:45:12.520
+And as I mentioned in previous episodes,
+
+00:45:12.520 --> 00:45:14.030
+there's a lot of evidence,
+
+00:45:14.030 --> 00:45:16.510
+that these non sleep deep
+rest protocols can enhance
+
+00:45:16.510 --> 00:45:18.170
+and accelerate plasticity.
+
+00:45:18.170 --> 00:45:19.870
+The most I think recent
+
+00:45:19.870 --> 00:45:24.700
+and striking one is the study
+that we referenced last time
+
+00:45:24.700 --> 00:45:25.800
+in the caption notes.
+
+00:45:25.800 --> 00:45:27.710
+It was the cell press article,
+
+00:45:27.710 --> 00:45:29.840
+Cell Reports, great journal.
+
+00:45:29.840 --> 00:45:31.763
+Was showing that these 20 minute,
+
+00:45:32.740 --> 00:45:35.010
+kinda shallow naps and
+non sleep deep rests,
+
+00:45:35.010 --> 00:45:37.570
+can facilitate sensory motor learning.
+
+00:45:37.570 --> 00:45:38.950
+So then I'll go into another learning bout
+
+00:45:38.950 --> 00:45:40.330
+that's caffeine free.
+
+00:45:40.330 --> 00:45:43.330
+This learning bout is very
+different than the morning one.
+
+00:45:43.330 --> 00:45:45.120
+This is a work bout or learning bout
+
+00:45:45.120 --> 00:45:47.450
+that's more in the clear
+common focus regime
+
+00:45:47.450 --> 00:45:50.220
+because I've come out of
+this non sleep deep rest.
+
+00:45:50.220 --> 00:45:52.520
+I'm not ingesting caffeine
+because I wanna make sure
+
+00:45:52.520 --> 00:45:55.010
+that I can sleep later
+that night really well.
+
+00:45:55.010 --> 00:45:59.100
+And, this tends to be more
+when I do creative type work.
+
+00:45:59.100 --> 00:46:01.240
+Now, creativity is a topic
+that we're gonna spend
+
+00:46:01.240 --> 00:46:04.240
+the entire month on coming up soon.
+
+00:46:04.240 --> 00:46:08.210
+But creativity is a very
+interesting state of mind in which,
+
+00:46:08.210 --> 00:46:09.970
+we're taking existing elements.
+
+00:46:09.970 --> 00:46:12.240
+Things that we already know,
+
+00:46:12.240 --> 00:46:15.990
+and rearranging them
+in ways that are novel.
+
+00:46:15.990 --> 00:46:19.290
+And I'd say, well, duh,
+that's what creativity is.
+
+00:46:19.290 --> 00:46:21.350
+But creativity has two parts.
+
+00:46:21.350 --> 00:46:25.600
+It has a creative discovery
+mode where you're kind
+
+00:46:25.600 --> 00:46:26.760
+of shuffling things around
+
+00:46:26.760 --> 00:46:28.990
+in a very relaxed way
+and kind of being playful
+
+00:46:28.990 --> 00:46:31.640
+or exploring different configurations.
+
+00:46:31.640 --> 00:46:33.930
+And then creativity also has,
+
+00:46:33.930 --> 00:46:36.890
+an absolutely linear implementation mode.
+
+00:46:36.890 --> 00:46:37.820
+In which you take
+
+00:46:37.820 --> 00:46:40.210
+the idea or the design you've come up with
+
+00:46:40.210 --> 00:46:43.650
+and you create something
+very robust and concrete.
+
+00:46:43.650 --> 00:46:46.510
+And so creativity is
+really a two part thing.
+
+00:46:46.510 --> 00:46:48.070
+And the first part
+
+00:46:48.070 --> 00:46:50.900
+of actively exploring
+different configuration,
+
+00:46:50.900 --> 00:46:52.590
+sometimes in a playful way,
+
+00:46:52.590 --> 00:46:56.240
+sometimes in a way that's almost random
+
+00:46:56.240 --> 00:46:58.360
+and just kind of exploring.
+
+00:46:58.360 --> 00:47:02.370
+That state is definitely facilitated
+
+00:47:02.370 --> 00:47:06.240
+by being relaxed and almost sleepy.
+
+00:47:06.240 --> 00:47:07.260
+That is not a state
+
+00:47:07.260 --> 00:47:09.720
+that I personally can access
+very well early in the day.
+
+00:47:09.720 --> 00:47:11.600
+I've tried to access
+it coming out of sleep
+
+00:47:11.600 --> 00:47:12.540
+because one would say,
+
+00:47:12.540 --> 00:47:13.920
+well you're still sleepy early in the day
+
+00:47:13.920 --> 00:47:14.753
+and just doesn't work.
+
+00:47:14.753 --> 00:47:15.800
+Most of what I write down.
+
+00:47:15.800 --> 00:47:18.080
+Most of what I do is complete garbage.
+
+00:47:18.080 --> 00:47:20.870
+And so what I found is there's
+this block in the afternoon
+
+00:47:20.870 --> 00:47:24.580
+of about 90 minutes where, I
+can do creative type writing
+
+00:47:24.580 --> 00:47:27.033
+or creative type imagination of,
+
+00:47:28.380 --> 00:47:30.770
+scientific ideas or
+experiments we might wanna do.
+
+00:47:30.770 --> 00:47:32.600
+Science might not seem
+like a creative endeavor
+
+00:47:32.600 --> 00:47:33.880
+to many of you, but it is.
+
+00:47:33.880 --> 00:47:36.530
+Has a lot of imagining what if this,
+
+00:47:36.530 --> 00:47:37.700
+or we could combine that
+
+00:47:37.700 --> 00:47:40.960
+and thinking of novel concepts
+or ways of arranging things.
+
+00:47:40.960 --> 00:47:42.410
+So when you find yourself in
+
+00:47:42.410 --> 00:47:44.510
+that kinda clear common focused mode,
+
+00:47:44.510 --> 00:47:47.490
+creative works tend to
+come about very well
+
+00:47:47.490 --> 00:47:49.020
+in those regimes.
+
+00:47:49.020 --> 00:47:50.720
+Now I know there are a lot
+of people out there rely
+
+00:47:50.720 --> 00:47:53.123
+on substances to access creative states.
+
+00:47:53.970 --> 00:47:55.430
+I'm not a marijuana user.
+
+00:47:55.430 --> 00:47:59.030
+It's just not the drug for
+me, for a variety of reasons.
+
+00:47:59.030 --> 00:48:00.490
+I'm not a drinker.
+
+00:48:00.490 --> 00:48:04.050
+It's not the substance for
+me for a variety of reasons.
+
+00:48:04.050 --> 00:48:06.220
+You know, I'm not a cop I'm not out here
+
+00:48:06.220 --> 00:48:08.190
+to tell people what they
+should do or shouldn't do.
+
+00:48:08.190 --> 00:48:11.780
+The problem with using
+substances to access creativity,
+
+00:48:11.780 --> 00:48:15.900
+is that generally the
+substances that relax people,
+
+00:48:15.900 --> 00:48:16.960
+will allow them to get
+
+00:48:16.960 --> 00:48:19.820
+into that creative brainstorming mode,
+
+00:48:19.820 --> 00:48:23.843
+but not so good at the
+linear implementation mode.
+
+00:48:24.700 --> 00:48:27.440
+You know, the other day I was remarking
+
+00:48:27.440 --> 00:48:30.920
+with a friend that there are
+some ads, some advertisements
+
+00:48:30.920 --> 00:48:34.900
+that I've seen over the years,
+that are just incredible.
+
+00:48:34.900 --> 00:48:35.820
+I'll just tell you what they are.
+
+00:48:35.820 --> 00:48:36.930
+So there's not cryptic or anything.
+
+00:48:36.930 --> 00:48:38.989
+I'm revealing my tastes here.
+
+00:48:38.989 --> 00:48:42.350
+There's a particular perfume
+ad that Spike Jones made
+
+00:48:42.350 --> 00:48:44.100
+that is just amazing.
+
+00:48:44.100 --> 00:48:46.823
+I'll put a link to it
+cause it's just so cool.
+
+00:48:49.412 --> 00:48:50.245
+I don't want to give away the end
+
+00:48:50.245 --> 00:48:52.163
+but it has a feature of it that
+is particularly interesting
+
+00:48:52.163 --> 00:48:54.931
+to me as a neuroscientist.
+
+00:48:54.931 --> 00:48:56.360
+And it's just so cool.
+
+00:48:56.360 --> 00:48:57.770
+'Cause I grew up in the
+skateboarding thing,
+
+00:48:57.770 --> 00:48:59.800
+I knew a little bit about
+Spike's movies and skateboarding
+
+00:48:59.800 --> 00:49:02.280
+and he's of course made
+a lot of very impressive,
+
+00:49:02.280 --> 00:49:05.230
+popular movies as well,
+full length features.
+
+00:49:05.230 --> 00:49:07.900
+I don't know him personally,
+so this isn't a plug.
+
+00:49:07.900 --> 00:49:10.390
+Not that he needs my
+endorsement for anything at all.
+
+00:49:10.390 --> 00:49:14.800
+But the amazing thing
+about this advertisement
+
+00:49:14.800 --> 00:49:17.330
+is it's a collection of things
+
+00:49:17.330 --> 00:49:19.920
+that you would never really
+think would be combined,
+
+00:49:19.920 --> 00:49:21.460
+and it involves different speeds
+
+00:49:21.460 --> 00:49:23.630
+of motion and all sorts of effects.
+
+00:49:23.630 --> 00:49:24.920
+I mean, it's like a real classic
+
+00:49:24.920 --> 00:49:27.000
+like Spike Jones kind delivery.
+
+00:49:27.000 --> 00:49:30.270
+But, what's incredible is when you think
+
+00:49:30.270 --> 00:49:32.890
+about not just the fact that
+someone had to imagine that
+
+00:49:32.890 --> 00:49:37.100
+but to actually implement the
+steps in order to create that,
+
+00:49:37.100 --> 00:49:39.830
+when you see this you'll
+realize that was a ton of work.
+
+00:49:39.830 --> 00:49:41.550
+You can't just put that together randomly.
+
+00:49:41.550 --> 00:49:45.440
+And so a lot of people, not Spike clearly,
+
+00:49:45.440 --> 00:49:50.440
+but a lot of people who have
+an incredible mind for ideas
+
+00:49:50.619 --> 00:49:53.480
+and novel arrangements of things,
+
+00:49:53.480 --> 00:49:56.060
+they are great at accessing
+that state but not so good
+
+00:49:56.060 --> 00:49:58.053
+at accessing the implementation state.
+
+00:49:59.070 --> 00:50:00.940
+It's also true that a lot of people
+
+00:50:00.940 --> 00:50:03.430
+and some who tend to fall on
+what we would call the kind of
+
+00:50:03.430 --> 00:50:06.790
+like more Asperger's or
+autism end of the spectrum,
+
+00:50:06.790 --> 00:50:09.180
+are very good at linear implementation.
+
+00:50:09.180 --> 00:50:11.240
+Now I'm not talking about all
+forms of autism of course.
+
+00:50:11.240 --> 00:50:12.270
+I'm sensitive to the fact
+
+00:50:12.270 --> 00:50:14.300
+that there are many forms on the spectrum.
+
+00:50:14.300 --> 00:50:17.770
+But, some people are very
+good at linear implementation.
+
+00:50:17.770 --> 00:50:22.220
+And that's, a separate
+state from a creative state.
+
+00:50:22.220 --> 00:50:24.630
+So, that afternoon block is when I try
+
+00:50:24.630 --> 00:50:28.020
+and access the freer
+kind of looser mindset
+
+00:50:28.020 --> 00:50:30.030
+that's associated with the
+fatigue that comes later
+
+00:50:30.030 --> 00:50:31.043
+in the afternoon.
+
+00:50:32.010 --> 00:50:34.930
+And, for some of you that state
+
+00:50:34.930 --> 00:50:37.340
+that favors creativity
+and creative learning,
+
+00:50:37.340 --> 00:50:39.080
+might be better in the morning.
+
+00:50:39.080 --> 00:50:39.913
+I don't know.
+
+00:50:39.913 --> 00:50:40.746
+You're gonna have to decide.
+
+00:50:40.746 --> 00:50:42.750
+For some of you you're
+gonna be late shifted.
+
+00:50:42.750 --> 00:50:44.380
+Some of you are gonna be morning shifted.
+
+00:50:44.380 --> 00:50:45.780
+But where we have alertness,
+
+00:50:45.780 --> 00:50:47.900
+generally we are good at
+linear implementation,
+
+00:50:47.900 --> 00:50:50.190
+we're good at activating the no-go pathway
+
+00:50:50.190 --> 00:50:51.280
+and suppressing action,
+
+00:50:51.280 --> 00:50:54.688
+and we are good at
+pursuing particular goals
+
+00:50:54.688 --> 00:50:56.860
+and strategy implementation.
+
+00:50:56.860 --> 00:50:59.010
+And where we tend to be more relaxed,
+
+00:50:59.010 --> 00:51:01.120
+and we tend to be almost
+in a kind of sleepy mode.
+
+00:51:01.120 --> 00:51:01.953
+So for me, coming out
+
+00:51:01.953 --> 00:51:04.850
+of one of these non sleep,
+deep rest modes or sleep,
+
+00:51:04.850 --> 00:51:08.740
+that's when we tend to be
+better at novel configurations
+
+00:51:08.740 --> 00:51:11.180
+of existing elements, which is creativity.
+
+00:51:11.180 --> 00:51:15.290
+And this brings about a question
+that I get, all the time.
+
+00:51:15.290 --> 00:51:18.260
+Which is, what about psychedelics?
+
+00:51:18.260 --> 00:51:22.530
+So, I am going to talk, to
+some experts on psychedelics.
+
+00:51:22.530 --> 00:51:24.530
+I hope to bring some of them in.
+
+00:51:24.530 --> 00:51:26.170
+Actually speaking on people coming in
+
+00:51:26.170 --> 00:51:27.493
+or creatures coming.
+
+00:51:28.360 --> 00:51:30.230
+A creature that's definitely
+not on psychedelics
+
+00:51:30.230 --> 00:51:33.260
+who doesn't need any is
+Costello and he just arrived.
+
+00:51:33.260 --> 00:51:35.790
+He seems to be in a sleepy
+state most, all the time.
+
+00:51:35.790 --> 00:51:37.780
+Hey buddy, how you doing?
+
+00:51:37.780 --> 00:51:39.680
+You come in, yep.
+
+00:51:39.680 --> 00:51:44.260
+He's working on his 15th sleep
+deep rest episode of the day
+
+00:51:44.260 --> 00:51:45.350
+which is generally followed
+
+00:51:45.350 --> 00:51:48.620
+by a 10 to 12 hour deep rest episode,
+
+00:51:48.620 --> 00:51:51.390
+almost exclusively comprised of REM.
+
+00:51:51.390 --> 00:51:52.970
+And I know this 'cause his eyes are open
+
+00:51:52.970 --> 00:51:54.790
+'cause they're so droopy, he
+can't close them all the way
+
+00:51:54.790 --> 00:51:56.430
+and his eyes are going like this.
+
+00:51:56.430 --> 00:51:58.160
+And he's going down for the count.
+
+00:51:58.160 --> 00:52:01.610
+So, yeah, nice and big yawn.
+
+00:52:01.610 --> 00:52:04.550
+Okay so, psychedelics.
+
+00:52:04.550 --> 00:52:06.290
+First of all, I wanna be very clear.
+
+00:52:06.290 --> 00:52:09.680
+I am neither a proponent,
+nor am I somebody
+
+00:52:09.680 --> 00:52:13.230
+who rejects the potential
+role of psychedelics.
+
+00:52:13.230 --> 00:52:15.940
+I do however, think that psychedelics,
+
+00:52:15.940 --> 00:52:18.180
+can be particularly hazardous,
+
+00:52:18.180 --> 00:52:21.290
+for people who have preexisting
+psychological issues,
+
+00:52:21.290 --> 00:52:24.360
+and are not working
+with a board certified,
+
+00:52:24.360 --> 00:52:26.160
+psychiatrist or physician,
+
+00:52:26.160 --> 00:52:29.720
+as well as for essentially all kids.
+
+00:52:29.720 --> 00:52:32.070
+I think that the young brain is basically
+
+00:52:32.070 --> 00:52:34.793
+in its own psychedelic
+state and just naturally.
+
+00:52:35.660 --> 00:52:37.560
+And all kidding aside,
+
+00:52:37.560 --> 00:52:38.940
+I think that the young brain
+
+00:52:38.940 --> 00:52:41.970
+is so subject to neuroplasticity,
+
+00:52:41.970 --> 00:52:45.910
+that drugs, which like psychedelics
+which are very powerful,
+
+00:52:45.910 --> 00:52:48.290
+can be detrimental to
+the developing brain.
+
+00:52:48.290 --> 00:52:49.340
+That's just my stance.
+
+00:52:49.340 --> 00:52:51.890
+If anyone disagrees with me,
+I'd be happy to chat with you
+
+00:52:51.890 --> 00:52:55.510
+about it in a polite and discourse.
+
+00:52:55.510 --> 00:52:56.540
+I'll be happy to listen as well
+
+00:52:56.540 --> 00:52:59.683
+as tell you more why I believe
+that based on the data.
+
+00:53:01.390 --> 00:53:03.800
+I'm mentioning psychedelics
+because many of you asked.
+
+00:53:03.800 --> 00:53:05.970
+Here's the deal with psychedelics.
+
+00:53:05.970 --> 00:53:07.850
+At least here's how they work.
+
+00:53:07.850 --> 00:53:12.450
+In a nutshell, psychedelics were thought
+
+00:53:12.450 --> 00:53:16.600
+to unleash sensory processing
+and to make it less filtered.
+
+00:53:16.600 --> 00:53:18.330
+We have a lot of different
+inputs from our eyes,
+
+00:53:18.330 --> 00:53:20.220
+from our ears, from our nose,
+from our taste, et cetera
+
+00:53:20.220 --> 00:53:22.180
+that you're coming in
+all the time in parallel.
+
+00:53:22.180 --> 00:53:25.670
+And we have mechanisms that
+suppress some of and allow us
+
+00:53:25.670 --> 00:53:27.320
+to only focus on things
+that are happening.
+
+00:53:27.320 --> 00:53:30.370
+Visually, generally we don't
+have synesthesia unless some
+
+00:53:30.370 --> 00:53:32.080
+of us happen to have synesthesia.
+
+00:53:32.080 --> 00:53:35.630
+We don't blend what we see
+with what we hear in a way,
+
+00:53:35.630 --> 00:53:37.320
+that is confusing to us.
+
+00:53:37.320 --> 00:53:39.100
+We know what's making sounds and we know
+
+00:53:39.100 --> 00:53:42.690
+what is a visual stimulus.
+
+00:53:42.690 --> 00:53:46.250
+On psychedelics, people report
+being able to smell colors
+
+00:53:46.250 --> 00:53:49.850
+or to, you know, hear trees, et cetera.
+
+00:53:49.850 --> 00:53:51.920
+And that's because there's
+a lot of sensory blending.
+
+00:53:51.920 --> 00:53:54.490
+Over that's led to the misconception,
+
+00:53:54.490 --> 00:53:58.120
+that sensory blending itself,
+is a creative process.
+
+00:53:58.120 --> 00:54:01.620
+There's nothing creative
+about sensory blending.
+
+00:54:01.620 --> 00:54:05.620
+You know there's, the essence
+of a creative process,
+
+00:54:05.620 --> 00:54:09.000
+is that some novel
+configuration of elements,
+
+00:54:09.000 --> 00:54:11.070
+whether or not it's notes on a piano,
+
+00:54:11.070 --> 00:54:12.440
+or whether or not it's words on a page,
+
+00:54:12.440 --> 00:54:13.610
+whether or not it's numbers
+
+00:54:13.610 --> 00:54:15.070
+or whether or not it's movement.
+
+00:54:15.070 --> 00:54:20.070
+That some way in which those
+are configured in some new way,
+
+00:54:20.870 --> 00:54:24.180
+that the algorithm, the way in which,
+
+00:54:24.180 --> 00:54:27.310
+they are configured makes
+sense to the observer.
+
+00:54:27.310 --> 00:54:28.550
+And this is a key thing.
+
+00:54:28.550 --> 00:54:29.383
+It seems to me
+
+00:54:29.383 --> 00:54:31.820
+that when people report their
+psychedelic experiences,
+
+00:54:31.820 --> 00:54:32.870
+it makes a lot more sense
+
+00:54:32.870 --> 00:54:35.910
+to the person who experiences
+it, than to the observer.
+
+00:54:35.910 --> 00:54:40.910
+And so, creative works by
+definition are new ways
+
+00:54:41.220 --> 00:54:43.670
+of configuring things that lend themselves
+
+00:54:43.670 --> 00:54:47.970
+to a bigger or greater or
+deeper or novel understanding
+
+00:54:47.970 --> 00:54:49.870
+on the part of the observer.
+
+00:54:49.870 --> 00:54:52.920
+And just sensory blending is
+not gonna accomplish that.
+
+00:54:52.920 --> 00:54:54.990
+Now it is true and there's a great review
+
+00:54:54.990 --> 00:54:56.930
+in the journal cell, excellent journal
+
+00:54:56.930 --> 00:54:58.360
+about how psychedelics work.
+
+00:54:58.360 --> 00:55:00.970
+And it turns out, they don't just work,
+
+00:55:00.970 --> 00:55:03.880
+by allowing for more sensory blending.
+
+00:55:03.880 --> 00:55:05.830
+They do, because of the way
+
+00:55:05.830 --> 00:55:08.450
+that they activate certain
+serotonin receptors et cetera.
+
+00:55:08.450 --> 00:55:11.680
+They do lend themselves to
+more lateral connectivity
+
+00:55:11.680 --> 00:55:14.950
+between different brain areas,
+more novel associations.
+
+00:55:14.950 --> 00:55:16.880
+So in principle,
+
+00:55:16.880 --> 00:55:18.810
+in principle, I should say
+not necessarily in practice,
+
+00:55:18.810 --> 00:55:22.300
+but in principle, they
+do allow different areas
+
+00:55:22.300 --> 00:55:23.133
+of the brain.
+
+00:55:23.133 --> 00:55:23.966
+Maybe even the two sides
+
+00:55:23.966 --> 00:55:25.870
+of the brain to communicate more broadly
+
+00:55:25.870 --> 00:55:27.690
+than they would normally.
+
+00:55:27.690 --> 00:55:31.890
+So that has certain elements
+that speak to creativity.
+
+00:55:31.890 --> 00:55:33.980
+But, it can't simply be the case
+
+00:55:33.980 --> 00:55:37.530
+that psychedelics are
+the portal to creativity.
+
+00:55:37.530 --> 00:55:39.790
+Because creativity, as I mentioned before,
+
+00:55:39.790 --> 00:55:43.840
+involves not just novel
+associations and a breaking of kind
+
+00:55:43.840 --> 00:55:48.430
+of space-time rules, it also
+involves reconfiguring things,
+
+00:55:48.430 --> 00:55:52.120
+such that the new space-time
+rule that one comes up with,
+
+00:55:52.120 --> 00:55:54.410
+is interesting, stimulating
+
+00:55:54.410 --> 00:55:58.130
+and kind of in many cases,
+delightful to the observer.
+
+00:55:58.130 --> 00:56:01.450
+And that's why, many
+claims that, you know,
+
+00:56:01.450 --> 00:56:06.290
+psychedelics open plasticity
+or they increase creativity.
+
+00:56:06.290 --> 00:56:08.700
+That's not sufficient for me personally.
+
+00:56:08.700 --> 00:56:09.760
+I'm curious about,
+
+00:56:09.760 --> 00:56:13.080
+does it not just open the
+creative thinking process,
+
+00:56:13.080 --> 00:56:14.680
+this novel configuration process?
+
+00:56:14.680 --> 00:56:16.190
+But does it also,
+
+00:56:16.190 --> 00:56:19.070
+lend itself to the
+implementation of creative works?
+
+00:56:19.070 --> 00:56:21.270
+And the answer is, no.
+
+00:56:21.270 --> 00:56:23.850
+In most cases it has nothing to do
+
+00:56:23.850 --> 00:56:25.640
+with creative implementation.
+
+00:56:25.640 --> 00:56:29.240
+Now, I think that, there may come a time
+
+00:56:29.240 --> 00:56:30.550
+and certainly there are clinical trials
+
+00:56:30.550 --> 00:56:31.620
+that are happening now,
+
+00:56:31.620 --> 00:56:32.960
+where psychedelics are leveraged
+
+00:56:32.960 --> 00:56:34.960
+toward particular clinical goals.
+
+00:56:34.960 --> 00:56:36.390
+And I wanna tip my hat
+
+00:56:36.390 --> 00:56:38.980
+to the work at Johns Hopkins
+that's happening now,
+
+00:56:38.980 --> 00:56:40.423
+which really lends itself,
+
+00:56:41.790 --> 00:56:43.497
+to the idea that early preliminary data
+
+00:56:43.497 --> 00:56:44.570
+and some of the papers
+
+00:56:44.570 --> 00:56:46.530
+that are coming out
+they're really fantastic.
+
+00:56:46.530 --> 00:56:50.540
+Showing that there may
+be some excellent roles
+
+00:56:50.540 --> 00:56:53.210
+for certain psychedelics in
+certain clinical context.
+
+00:56:53.210 --> 00:56:56.850
+These are clinical studies done
+with a psychiatrist present,
+
+00:56:56.850 --> 00:56:58.440
+that is authorized to do that.
+
+00:56:58.440 --> 00:57:01.040
+That can help people through
+depression, trauma, et cetera.
+
+00:57:01.040 --> 00:57:01.910
+And we're gonna spend a lot
+
+00:57:01.910 --> 00:57:04.320
+of time talking about
+that, including with some
+
+00:57:04.320 --> 00:57:06.410
+of those folks running those studies.
+
+00:57:06.410 --> 00:57:07.920
+So we can look forward to that.
+
+00:57:07.920 --> 00:57:10.050
+So all of this is to say that,
+
+00:57:10.050 --> 00:57:13.430
+no I don't take psychedelics
+to access creative states.
+
+00:57:13.430 --> 00:57:17.600
+That's not where I think the
+major role, the important role
+
+00:57:17.600 --> 00:57:20.770
+of psychedelics might show up
+if it's going to for humanity.
+
+00:57:20.770 --> 00:57:23.510
+I think that it may have
+these important roles
+
+00:57:23.510 --> 00:57:24.810
+in the clinical context.
+
+00:57:24.810 --> 00:57:27.420
+Provided it's done legally and safely.
+
+00:57:27.420 --> 00:57:28.955
+I think that,
+
+00:57:28.955 --> 00:57:33.220
+the creative process being a
+two-stage process means that,
+
+00:57:33.220 --> 00:57:34.940
+I am personally best served
+
+00:57:34.940 --> 00:57:39.480
+by having this period of
+non-linear exploration of concepts.
+
+00:57:39.480 --> 00:57:42.690
+Whatever it is I happen to be
+working on in the afternoon.
+
+00:57:42.690 --> 00:57:45.000
+But then I'll actually shelve that work.
+
+00:57:45.000 --> 00:57:48.170
+I'll just set it aside and then
+I'll revisit it the next day
+
+00:57:48.170 --> 00:57:49.490
+or even the next day,
+
+00:57:49.490 --> 00:57:53.560
+to see whether or not that
+the work itself is ready
+
+00:57:53.560 --> 00:57:55.590
+for deliberate linear implementation
+
+00:57:55.590 --> 00:57:56.670
+which I would wanna do during one
+
+00:57:56.670 --> 00:57:58.530
+of these highly focused states.
+
+00:57:58.530 --> 00:58:01.660
+So, the long and short way
+of saying this is that,
+
+00:58:01.660 --> 00:58:04.660
+when we're very alert, do
+linear type of operations.
+
+00:58:04.660 --> 00:58:07.390
+When we tend to be more
+sleepy and more relaxed,
+
+00:58:07.390 --> 00:58:11.160
+that's when creative works
+can first be conceived,
+
+00:58:11.160 --> 00:58:15.460
+but their implementation requires
+high levels of alertness.
+
+00:58:15.460 --> 00:58:17.350
+Now, that gets us more
+
+00:58:17.350 --> 00:58:20.350
+to the kind of late afternoon evening.
+
+00:58:20.350 --> 00:58:22.410
+Now I am, as I mentioned before,
+
+00:58:22.410 --> 00:58:26.120
+I'm a proponent of getting
+sunlight in the evening as well.
+
+00:58:26.120 --> 00:58:30.460
+This is a critical thing that
+I have not mentioned before.
+
+00:58:30.460 --> 00:58:32.180
+Here's how it works.
+
+00:58:32.180 --> 00:58:34.560
+Many people now have heard
+me say getting light early
+
+00:58:34.560 --> 00:58:35.930
+in the day is important.
+
+00:58:35.930 --> 00:58:38.720
+But that will advance one's clock.
+
+00:58:38.720 --> 00:58:41.560
+It'll make you wanna get
+up earlier the next day.
+
+00:58:41.560 --> 00:58:43.050
+By getting light in the evening
+
+00:58:43.050 --> 00:58:44.640
+it accomplishes two things for me.
+
+00:58:44.640 --> 00:58:47.430
+First of all, it makes sure
+that I don't get up too early
+
+00:58:47.430 --> 00:58:49.450
+that I'm not waking up at
+3:00 or 4:00 in the morning
+
+00:58:49.450 --> 00:58:52.160
+because it's going to shift my clock.
+
+00:58:52.160 --> 00:58:53.900
+It's going to delay it a little bit.
+
+00:58:53.900 --> 00:58:55.910
+And so this is really important.
+
+00:58:55.910 --> 00:58:59.830
+If you want to keep your
+schedule on a normal routine,
+
+00:58:59.830 --> 00:59:02.350
+on a regular 24 hour cycle
+
+00:59:02.350 --> 00:59:03.870
+and not have your circadian rhythms
+
+00:59:03.870 --> 00:59:05.980
+of sleep and wakefulness
+drifting all over the place
+
+00:59:05.980 --> 00:59:07.300
+and you want some predictability
+
+00:59:07.300 --> 00:59:08.800
+to how your mind is going to work
+
+00:59:08.800 --> 00:59:11.070
+in order to optimize
+learning and performance.
+
+00:59:11.070 --> 00:59:13.330
+Well, then you need to get
+morning light any evening light.
+
+00:59:13.330 --> 00:59:15.170
+The morning light is
+going to advance my clock.
+
+00:59:15.170 --> 00:59:16.910
+Make my system wanna get up earlier.
+
+00:59:16.910 --> 00:59:18.450
+And the evening light is going
+
+00:59:18.450 --> 00:59:20.680
+to delay my clock a little
+bit so that on average
+
+00:59:20.680 --> 00:59:23.120
+it kind of bookends my
+circadian mechanisms.
+
+00:59:23.120 --> 00:59:25.300
+And I'll basically wanna go to sleep
+
+00:59:25.300 --> 00:59:27.980
+at more or less the same
+time each night and wake up,
+
+00:59:27.980 --> 00:59:30.230
+more or less at the
+same time each morning.
+
+00:59:30.230 --> 00:59:31.440
+That's how it works.
+
+00:59:31.440 --> 00:59:34.040
+And that's a hard wired mechanism.
+
+00:59:34.040 --> 00:59:36.540
+That's not some subjective
+thing that I tell myself.
+
+00:59:36.540 --> 00:59:38.750
+That's a hardwired mechanism.
+
+00:59:38.750 --> 00:59:41.140
+So, that gets us to the evening.
+
+00:59:41.140 --> 00:59:43.080
+And generally in the
+evening I'll get that light
+
+00:59:43.080 --> 00:59:44.070
+by going outside
+
+00:59:44.070 --> 00:59:45.010
+or sometimes I'll do it
+
+00:59:45.010 --> 00:59:47.140
+by turning up artificial lights brightly,
+
+00:59:47.140 --> 00:59:49.020
+and then I'll start to
+dim them for the evening
+
+00:59:49.020 --> 00:59:50.580
+'cause as I've mentioned many times before
+
+00:59:50.580 --> 00:59:52.190
+and I'm not gonna belabor the point.
+
+00:59:52.190 --> 00:59:54.410
+You wanna minimize your light exposure,
+
+00:59:54.410 --> 00:59:56.330
+especially overhead bright light exposure,
+
+00:59:56.330 --> 00:59:58.610
+regardless of whether or
+not it's blue light or not.
+
+00:59:58.610 --> 01:00:01.140
+In the evening from about
+10:00 PM to 4:00 AM.
+
+01:00:01.140 --> 01:00:02.380
+Some of you asked,
+
+01:00:02.380 --> 01:00:04.600
+wait I thought it was 11:00 PM to 4:00 AM?
+
+01:00:04.600 --> 01:00:07.870
+Well, it is, but 10:00 PM
+to 4:00 AM is even better.
+
+01:00:07.870 --> 01:00:12.000
+It's just that when I originally
+said 10:00 PM to 4:00 AM,
+
+01:00:12.000 --> 01:00:13.280
+people were like that it's impossible
+
+01:00:13.280 --> 01:00:14.630
+for most people to adhere to.
+
+01:00:14.630 --> 01:00:16.640
+So for me, it screens off,
+
+01:00:16.640 --> 01:00:21.070
+it's dim lights, and that's
+what favors falling asleep
+
+01:00:21.070 --> 01:00:23.220
+in a good night's sleep for me.
+
+01:00:23.220 --> 01:00:24.690
+Since we were talking about food earlier,
+
+01:00:24.690 --> 01:00:27.220
+I'll just revisit a little
+bit of what I said before.
+
+01:00:27.220 --> 01:00:30.820
+My evening meal tends to be
+more carbohydrate rich more.
+
+01:00:30.820 --> 01:00:33.030
+If I have proteins,
+there'll be like eggs, fish
+
+01:00:33.030 --> 01:00:35.630
+or chicken or something of
+that sort or no protein.
+
+01:00:35.630 --> 01:00:37.790
+And I eat high carbohydrates.
+
+01:00:37.790 --> 01:00:40.155
+So I'm not one of these people that's keto
+
+01:00:40.155 --> 01:00:43.170
+or high meat only, or anything like that.
+
+01:00:43.170 --> 01:00:45.080
+Remember, fasting and low carbohydrate,
+
+01:00:45.080 --> 01:00:47.560
+states facilitate alertness.
+
+01:00:47.560 --> 01:00:51.480
+Carbohydrate rich foods,
+facilitate calmness and sleepiness.
+
+01:00:51.480 --> 01:00:52.520
+They'd stimulate the release
+
+01:00:52.520 --> 01:00:55.180
+of tryptophan and the transition to sleep.
+
+01:00:55.180 --> 01:00:56.590
+So that's why I do them late in the day.
+
+01:00:56.590 --> 01:00:59.340
+Also, if you've exercised
+early in the day,
+
+01:00:59.340 --> 01:01:01.110
+especially if it's weight bearing exercise
+
+01:01:01.110 --> 01:01:02.710
+or everything's weight bearing exercises.
+
+01:01:02.710 --> 01:01:04.965
+I suppose unless you're an astronaut.
+
+01:01:04.965 --> 01:01:05.798
+And you're in space.
+
+01:01:05.798 --> 01:01:08.450
+But if you're early in the
+day, exercising with weights
+
+01:01:08.450 --> 01:01:10.382
+or you're doing a long run,
+
+01:01:10.382 --> 01:01:12.800
+sooner or later, you need
+to replenish glycogen.
+
+01:01:12.800 --> 01:01:13.940
+And, I realized
+
+01:01:13.940 --> 01:01:15.730
+that the ketonisters
+out there are gonna say,
+
+01:01:15.730 --> 01:01:18.420
+well, you know,
+gluconeogenesis will allow you
+
+01:01:18.420 --> 01:01:20.250
+to replenish glycogen, et cetera.
+
+01:01:20.250 --> 01:01:24.180
+I'm just gonna call out the lie right now,
+
+01:01:24.180 --> 01:01:25.410
+because I feel like doing it.
+
+01:01:25.410 --> 01:01:27.870
+And 'cause I think it
+just hasn't been stated.
+
+01:01:27.870 --> 01:01:31.620
+Which is that, not everybody, but a lot
+
+01:01:31.620 --> 01:01:33.060
+of the people that are proponents
+
+01:01:33.060 --> 01:01:36.840
+of high meat keto diets, fine.
+
+01:01:36.840 --> 01:01:39.360
+That's fine if that's what they wanna do.
+
+01:01:39.360 --> 01:01:43.010
+And as you recall, I do
+relatively ketogenic diet
+
+01:01:43.010 --> 01:01:46.120
+during the day, for alertness or fasting.
+
+01:01:46.120 --> 01:01:48.320
+But a lot of those people,
+
+01:01:48.320 --> 01:01:50.370
+can replenish glycogen really well
+
+01:01:50.370 --> 01:01:53.450
+without ingesting carbohydrates,
+so-called gluconeogenesis
+
+01:01:53.450 --> 01:01:55.610
+and enhance protein synthesis.
+
+01:01:55.610 --> 01:01:57.583
+Because they are hormone enhanced.
+
+01:01:59.590 --> 01:02:00.870
+I've been around a while.
+
+01:02:00.870 --> 01:02:01.990
+I know what this looks like.
+
+01:02:01.990 --> 01:02:03.390
+They're either thyroid enhanced
+
+01:02:03.390 --> 01:02:06.170
+or hormone enhanced and I
+don't pass any judgment.
+
+01:02:06.170 --> 01:02:08.690
+But when you look at
+people who look amazing
+
+01:02:08.690 --> 01:02:10.570
+on keto and are able to have a lot
+
+01:02:10.570 --> 01:02:13.680
+of energy and replenish
+their glycogen on keto,
+
+01:02:13.680 --> 01:02:18.460
+they are in many cases, not all,
+
+01:02:18.460 --> 01:02:20.360
+but in many cases
+they're hormone enhanced.
+
+01:02:20.360 --> 01:02:22.430
+They're taking exogenous hormones,
+
+01:02:22.430 --> 01:02:25.350
+that allow them to synthesize,
+
+01:02:25.350 --> 01:02:27.390
+and repair muscle in ways that people
+
+01:02:27.390 --> 01:02:29.560
+who aren't taking those
+exogenous hormones can't.
+
+01:02:29.560 --> 01:02:31.500
+This is not just true
+of the men by the way.
+
+01:02:31.500 --> 01:02:32.800
+This is also true of the women.
+
+01:02:32.800 --> 01:02:33.850
+And this is a whole discussion
+
+01:02:33.850 --> 01:02:36.090
+into itself probably not directly related
+
+01:02:36.090 --> 01:02:37.710
+to this month of the podcast.
+
+01:02:37.710 --> 01:02:40.930
+So, I don't mind that people do this,
+
+01:02:40.930 --> 01:02:42.110
+but one problem
+
+01:02:42.110 --> 01:02:45.090
+is when people are following
+ketogenic diets all the way
+
+01:02:45.090 --> 01:02:46.380
+through to sleep and they have trouble
+
+01:02:46.380 --> 01:02:47.810
+with sleep or they're doing long bouts
+
+01:02:47.810 --> 01:02:49.833
+of fasting and they're having
+trouble falling asleep.
+
+01:02:49.833 --> 01:02:50.830
+That makes sense.
+
+01:02:50.830 --> 01:02:52.930
+It's because their
+autonomic arousal is tilted
+
+01:02:52.930 --> 01:02:54.890
+towards epinephrine release,
+
+01:02:54.890 --> 01:02:57.230
+norepinephrine release,
+and dopamine release.
+
+01:02:57.230 --> 01:02:58.250
+So they have a lot of energy
+
+01:02:58.250 --> 01:02:59.650
+but they have a hard time calming down
+
+01:02:59.650 --> 01:03:01.460
+and getting into deep sleep.
+
+01:03:01.460 --> 01:03:04.230
+I tend to achieve that
+state using carbohydrates
+
+01:03:04.230 --> 01:03:06.390
+and it also replenishes glycogen.
+
+01:03:06.390 --> 01:03:09.000
+So again, you know, I'm not
+trying to draw any fire,
+
+01:03:09.000 --> 01:03:12.560
+but if I do, I'd be happy
+to have a conversation,
+
+01:03:12.560 --> 01:03:14.000
+about all that.
+
+01:03:14.000 --> 01:03:15.053
+Again, no judgment, but I think
+
+01:03:15.053 --> 01:03:17.720
+that most people out there are not aware
+
+01:03:17.720 --> 01:03:19.440
+of some of the other variables.
+
+01:03:19.440 --> 01:03:21.790
+Remember, good science is
+about isolating variables.
+
+01:03:21.790 --> 01:03:24.680
+And so oftentimes what we're
+seeing in social media,
+
+01:03:24.680 --> 01:03:27.050
+is we're getting
+presented single variables
+
+01:03:27.050 --> 01:03:28.600
+and we're not seeing the full context
+
+01:03:28.600 --> 01:03:31.160
+of the other variables
+that are being manipulated.
+
+01:03:31.160 --> 01:03:33.710
+So, I eat pasta and rice
+
+01:03:33.710 --> 01:03:35.380
+and vegetables and things
+like that in the evening.
+
+01:03:35.380 --> 01:03:38.170
+Also, I just find, maybe I'm becoming one
+
+01:03:38.170 --> 01:03:40.000
+of the last people that does that.
+
+01:03:40.000 --> 01:03:40.833
+Although I hope not.
+
+01:03:40.833 --> 01:03:42.930
+I hope there are others out there like me.
+
+01:03:44.150 --> 01:03:46.130
+From all the literature speaks to the fact
+
+01:03:46.130 --> 01:03:48.060
+that carbohydrates not only do that,
+
+01:03:48.060 --> 01:03:49.100
+but they also help maintain,
+
+01:03:49.100 --> 01:03:51.090
+healthy thyroid function, et cetera.
+
+01:03:51.090 --> 01:03:52.170
+So that's my bias.
+
+01:03:52.170 --> 01:03:53.003
+That's what I do.
+
+01:03:53.003 --> 01:03:55.790
+I do avoid caffeine and
+whatnot in the evening.
+
+01:03:55.790 --> 01:03:57.720
+I do take supplements and I'll be happy
+
+01:03:57.720 --> 01:03:59.350
+at some point to put out the complete list
+
+01:03:59.350 --> 01:04:01.980
+of supplements that I take out there.
+
+01:04:01.980 --> 01:04:05.200
+But in general, these are
+the core things that I do.
+
+01:04:05.200 --> 01:04:06.769
+And they relate to a lot of the questions
+
+01:04:06.769 --> 01:04:09.230
+that you've been asking over time.
+
+01:04:09.230 --> 01:04:12.020
+The next piece of scientific
+data that I'm gonna describe
+
+01:04:12.020 --> 01:04:14.560
+is a very important
+piece of scientific data,
+
+01:04:14.560 --> 01:04:16.820
+for sake of understanding
+how to optimize your brain
+
+01:04:16.820 --> 01:04:17.940
+and access sleep.
+
+01:04:17.940 --> 01:04:22.270
+It also can help avoid
+a lot of anxiety issues.
+
+01:04:22.270 --> 01:04:26.290
+And these relate to data from
+Charles Czeisler, doctor.
+
+01:04:26.290 --> 01:04:29.370
+He's an MD Charles Czeisler's
+lab at Harvard Medical School.
+
+01:04:29.370 --> 01:04:31.460
+He's run a sleep lab out
+of Harvard Medical School.
+
+01:04:31.460 --> 01:04:34.150
+For a long time now it
+has very impressive work.
+
+01:04:34.150 --> 01:04:37.890
+And what he's shown is
+that the peak output,
+
+01:04:37.890 --> 01:04:40.540
+of the circadian clock for wakefulness,
+
+01:04:40.540 --> 01:04:42.650
+in other words the peak
+of our wakefulness,
+
+01:04:42.650 --> 01:04:45.960
+and the suppression of the sleep signal,
+
+01:04:45.960 --> 01:04:49.150
+actually happens very late in the day.
+
+01:04:49.150 --> 01:04:52.400
+So we have this trough of activity
+
+01:04:52.400 --> 01:04:55.500
+and body temperatures
+lowest right before waking.
+
+01:04:55.500 --> 01:04:57.770
+Then as we wake up our
+body temperature goes up
+
+01:04:57.770 --> 01:04:58.650
+and into the afternoon
+
+01:04:58.650 --> 01:05:01.560
+it continues to go up
+and then it tends to fall
+
+01:05:01.560 --> 01:05:03.990
+in the evening and towards bedtime.
+
+01:05:03.990 --> 01:05:08.790
+But there's a brief blip,
+of release of peptides
+
+01:05:08.790 --> 01:05:13.070
+and other substances from the
+sleep centers in the brain,
+
+01:05:13.070 --> 01:05:14.610
+and the suprachiasmatic nucleus
+
+01:05:14.610 --> 01:05:17.570
+that the sleep center
+is this preoptic area,
+
+01:05:17.570 --> 01:05:19.130
+that if you wanna look that up.
+
+01:05:19.130 --> 01:05:21.560
+This preoptic area not far
+from the circadian clock
+
+01:05:21.560 --> 01:05:23.120
+that signals the peak of alertness
+
+01:05:23.120 --> 01:05:27.000
+and wakefulness about
+an hour, before bedtime.
+
+01:05:27.000 --> 01:05:28.380
+And he say, whoa, that's really weird.
+
+01:05:28.380 --> 01:05:29.910
+But a lot of people get into bed.
+
+01:05:29.910 --> 01:05:32.720
+They're ready to go to sleep
+and they're wide awake.
+
+01:05:32.720 --> 01:05:34.300
+And they think this is an unnatural thing
+
+01:05:34.300 --> 01:05:36.300
+or there's something wrong with them.
+
+01:05:36.300 --> 01:05:37.820
+And actually it's not.
+
+01:05:37.820 --> 01:05:40.370
+This it's believed,
+
+01:05:40.370 --> 01:05:42.940
+I don't know, again, I wasn't
+consulted at the design phase.
+
+01:05:42.940 --> 01:05:47.350
+But it's believed, is a
+signal that is helpful
+
+01:05:47.350 --> 01:05:50.370
+to human beings to start
+gathering up resources
+
+01:05:50.370 --> 01:05:51.760
+and securing themselves
+
+01:05:51.760 --> 01:05:53.730
+for a night's sleep
+during which we, you know,
+
+01:05:53.730 --> 01:05:55.910
+historically were very
+vulnerable to attack
+
+01:05:55.910 --> 01:05:58.930
+from other humans and
+from animals and so forth.
+
+01:05:58.930 --> 01:06:02.180
+And so that desire to run
+around and clean the kitchen
+
+01:06:02.180 --> 01:06:04.180
+or organize things, or
+just a general feeling
+
+01:06:04.180 --> 01:06:06.910
+of internal anxiety, late in the evening,
+
+01:06:06.910 --> 01:06:09.990
+that's a natural blip
+that naturally passes
+
+01:06:09.990 --> 01:06:12.400
+after about 45 to 60 minutes.
+
+01:06:12.400 --> 01:06:15.290
+Now that's often the time
+when people start stressing
+
+01:06:15.290 --> 01:06:17.160
+about the fact that they have
+something to do the next day
+
+01:06:17.160 --> 01:06:18.487
+and they worry about
+not being able to sleep
+
+01:06:18.487 --> 01:06:20.850
+and it can cascade into
+a whole set of things.
+
+01:06:20.850 --> 01:06:24.740
+So another thing that I do
+throughout my day is I know
+
+01:06:24.740 --> 01:06:26.280
+that early day I'm gonna be alert,
+
+01:06:26.280 --> 01:06:27.920
+afternoon I'm gonna be kinda sleepy.
+
+01:06:27.920 --> 01:06:30.160
+And then as the evening comes around,
+
+01:06:30.160 --> 01:06:32.540
+in addition to doing all
+the other things I'm doing,
+
+01:06:32.540 --> 01:06:37.290
+I anticipate, a peak in
+alertness in activity.
+
+01:06:37.290 --> 01:06:38.880
+And I don't worry about it.
+
+01:06:38.880 --> 01:06:41.120
+I use that perhaps to get
+organized for the next day
+
+01:06:41.120 --> 01:06:43.030
+but basically, I just go through,
+
+01:06:43.030 --> 01:06:45.290
+if I'm gonna do anything, it's
+gonna be very mundane task
+
+01:06:45.290 --> 01:06:48.580
+like cleaning or things that
+require almost zero effort.
+
+01:06:48.580 --> 01:06:51.730
+And that probably speaks to
+my cleaning abilities too.
+
+01:06:51.730 --> 01:06:52.960
+But, the fact
+
+01:06:52.960 --> 01:06:56.730
+of the matter is we don't
+just go drift off into sleep.
+
+01:06:56.730 --> 01:06:58.720
+There's this blip of
+alertness right before sleep
+
+01:06:58.720 --> 01:07:00.390
+that I hope just cognitively knowing
+
+01:07:00.390 --> 01:07:02.420
+about will be helpful to people.
+
+01:07:02.420 --> 01:07:05.030
+And that raises, yet another theme
+
+01:07:05.030 --> 01:07:07.330
+that I think is going
+to be very important.
+
+01:07:07.330 --> 01:07:11.580
+Which is, physiological mechanisms.
+
+01:07:11.580 --> 01:07:13.790
+Like these changes in alertness.
+
+01:07:13.790 --> 01:07:15.480
+Or using breathing tools.
+
+01:07:15.480 --> 01:07:17.310
+Something we'll talk
+about in future episodes
+
+01:07:17.310 --> 01:07:20.500
+to shift our levels of autonomic arousal.
+
+01:07:20.500 --> 01:07:24.280
+Those are concrete, biological phenomenon.
+
+01:07:24.280 --> 01:07:25.570
+So is fasting.
+
+01:07:25.570 --> 01:07:27.050
+Fasting will increase alertness that way.
+
+01:07:27.050 --> 01:07:28.320
+So is caffeine.
+
+01:07:28.320 --> 01:07:29.550
+Not everybody's susceptible
+
+01:07:29.550 --> 01:07:31.300
+to caffeine to the same degree of others
+
+01:07:31.300 --> 01:07:33.400
+But, it's a physiological mechanisms.
+
+01:07:33.400 --> 01:07:34.250
+We know the receptors.
+
+01:07:34.250 --> 01:07:35.800
+We know the ligands as they're called
+
+01:07:35.800 --> 01:07:37.210
+which bind to the receptors.
+
+01:07:37.210 --> 01:07:38.410
+We know the mechanisms.
+
+01:07:38.410 --> 01:07:40.950
+They involve cortisol and epinephrine.
+
+01:07:40.950 --> 01:07:42.180
+Those are the sorts of things
+
+01:07:42.180 --> 01:07:44.430
+that I personally try and leverage,
+
+01:07:44.430 --> 01:07:47.360
+toward my learning and
+optimization of my brain,
+
+01:07:47.360 --> 01:07:48.870
+and my activity.
+
+01:07:48.870 --> 01:07:51.610
+Doing physical activity early
+in the day for instance,
+
+01:07:51.610 --> 01:07:53.670
+tends to give us a longer duration,
+
+01:07:53.670 --> 01:07:54.520
+wake up signal,
+
+01:07:54.520 --> 01:07:57.200
+intends to accelerate
+waking up early in the day.
+
+01:07:57.200 --> 01:07:59.370
+That's why working out late
+in the day can sometimes
+
+01:07:59.370 --> 01:08:01.790
+cause people to have
+trouble falling asleep.
+
+01:08:01.790 --> 01:08:03.000
+It will also phase delay.
+
+01:08:03.000 --> 01:08:05.500
+You make it so that you wanna
+wake up later the next day.
+
+01:08:05.500 --> 01:08:06.550
+It's not just 'cause you're tired.
+
+01:08:06.550 --> 01:08:07.730
+It's 'cause you shifted your clock
+
+01:08:07.730 --> 01:08:09.230
+with activity and temperature.
+
+01:08:10.350 --> 01:08:14.250
+Many people ask me about
+subjective tools for plasticity.
+
+01:08:14.250 --> 01:08:16.530
+What about visualization?
+
+01:08:16.530 --> 01:08:19.750
+Can we just imagine doing
+a particular activity,
+
+01:08:19.750 --> 01:08:23.530
+will that help us get
+better at that activity?
+
+01:08:23.530 --> 01:08:24.440
+There's some evidence
+
+01:08:24.440 --> 01:08:26.983
+that visualization can do that, it's true.
+
+01:08:28.180 --> 01:08:30.270
+But here's the important distinction.
+
+01:08:30.270 --> 01:08:31.410
+And here's why I personally,
+
+01:08:31.410 --> 01:08:33.940
+don't do much, deliberate visualization.
+
+01:08:33.940 --> 01:08:37.860
+First of all, I get my best ability,
+
+01:08:37.860 --> 01:08:40.160
+or achieve my best ability
+to visualize things when I'm
+
+01:08:40.160 --> 01:08:41.570
+in kind of a sleepy state.
+
+01:08:41.570 --> 01:08:42.403
+I don't know why
+
+01:08:42.403 --> 01:08:44.910
+but that's when I'm
+able to, direct my brain
+
+01:08:44.910 --> 01:08:47.550
+towards internal visualization
+with my eyes closed.
+
+01:08:47.550 --> 01:08:49.090
+And generally I fall asleep
+
+01:08:49.090 --> 01:08:50.090
+and I can't remember anything
+
+01:08:50.090 --> 01:08:51.720
+that I was thinking about before.
+
+01:08:51.720 --> 01:08:54.880
+Some people, and these are work
+that was done many years ago
+
+01:08:54.880 --> 01:08:56.910
+by Roger Shephard and by others.
+
+01:08:56.910 --> 01:08:58.530
+Roger was at Stanford but
+
+01:08:58.530 --> 01:09:00.720
+and other labs have done
+this too, of course,
+
+01:09:00.720 --> 01:09:03.700
+of rotating objects
+physically in their mind,
+
+01:09:03.700 --> 01:09:07.220
+as a way of improving
+or looking at the speed
+
+01:09:07.220 --> 01:09:09.763
+of spatial calculations and so forth.
+
+01:09:10.890 --> 01:09:14.030
+Some people are very
+good at visualization.
+
+01:09:14.030 --> 01:09:16.030
+They can close their eyes
+and they can just see objects
+
+01:09:16.030 --> 01:09:17.950
+and rotate them deliberately, et cetera.
+
+01:09:17.950 --> 01:09:21.540
+A lot of people like me,
+when we start doing that,
+
+01:09:21.540 --> 01:09:23.490
+our mind drifts too easily.
+
+01:09:23.490 --> 01:09:25.970
+But I like to think I'm a
+reasonably focused person
+
+01:09:25.970 --> 01:09:28.630
+in the waking state.
+
+01:09:28.630 --> 01:09:31.660
+So, visualization it's interesting
+
+01:09:31.660 --> 01:09:34.180
+'cause I think people are
+very attracted to the idea,
+
+01:09:34.180 --> 01:09:35.013
+that they can just think
+
+01:09:35.013 --> 01:09:37.110
+about something and then
+get better at it that way.
+
+01:09:37.110 --> 01:09:41.100
+And it's probably true,
+if you can be very linear
+
+01:09:41.100 --> 01:09:43.680
+in the way that you visualize things.
+
+01:09:43.680 --> 01:09:44.513
+So I wanna repeat that.
+
+01:09:44.513 --> 01:09:47.070
+I think visualization
+does have certain power.
+
+01:09:47.070 --> 01:09:49.120
+If you can remain very linear
+
+01:09:49.120 --> 01:09:52.470
+and deliberate and focused,
+in the visualization.
+
+01:09:52.470 --> 01:09:55.230
+But many people like
+myself who are challenged,
+
+01:09:55.230 --> 01:09:59.360
+with maintaining that linear
+focus with eyes closed,
+
+01:09:59.360 --> 01:10:01.110
+and in visualization,
+
+01:10:01.110 --> 01:10:03.490
+they don't get much out of visualization.
+
+01:10:03.490 --> 01:10:06.560
+And I think the data on
+performance really supports that.
+
+01:10:06.560 --> 01:10:09.030
+Now there are examples where for instance,
+
+01:10:09.030 --> 01:10:10.530
+people will injure one limb
+
+01:10:10.530 --> 01:10:13.790
+and then they will
+exercise the intact limb,
+
+01:10:13.790 --> 01:10:15.630
+or the non-injured limb rather.
+
+01:10:15.630 --> 01:10:17.770
+And they will visualize the opposite limb.
+
+01:10:17.770 --> 01:10:19.660
+Sometimes there's even
+the use of mirror boxes.
+
+01:10:19.660 --> 01:10:22.030
+So that let's say my left limb is injured.
+
+01:10:22.030 --> 01:10:25.150
+I'm maintaining activity
+with my right limb
+
+01:10:25.150 --> 01:10:26.240
+but I'm using a mirror box
+
+01:10:26.240 --> 01:10:28.530
+so it looks like my left
+limb is working well.
+
+01:10:28.530 --> 01:10:29.800
+Yes, there's some top-down
+
+01:10:29.800 --> 01:10:33.710
+or feedback mechanisms,
+that support the idea that
+
+01:10:33.710 --> 01:10:37.010
+the injured limb can rehabilitate
+more quickly, et cetera.
+
+01:10:37.010 --> 01:10:39.883
+But, those are fairly elaborate schemes.
+
+01:10:40.797 --> 01:10:42.550
+I don't want a mirror
+boxes around my house.
+
+01:10:42.550 --> 01:10:45.920
+I think these are
+specialized circumstances.
+
+01:10:45.920 --> 01:10:48.940
+They're a little bit like
+the examples that we see
+
+01:10:48.940 --> 01:10:51.300
+in the news where, oh,
+so-and-so has a stroke
+
+01:10:51.300 --> 01:10:53.593
+and then spontaneously
+speaks a new language.
+
+01:10:55.134 --> 01:10:57.540
+I don't know what the answer to that is.
+
+01:10:57.540 --> 01:11:00.230
+It shows that the brain
+has associative networks
+
+01:11:00.230 --> 01:11:03.010
+that are typically suppressed
+and those can be unleashed.
+
+01:11:03.010 --> 01:11:04.260
+But you certainly don't wanna go out
+
+01:11:04.260 --> 01:11:05.860
+and give yourself a
+stroke deliberately to try
+
+01:11:05.860 --> 01:11:07.990
+and unmask some skill,
+
+01:11:07.990 --> 01:11:11.910
+because there's no concrete
+way to go about that
+
+01:11:11.910 --> 01:11:13.200
+in a way that you could really know
+
+01:11:13.200 --> 01:11:14.060
+that you were gonna offset
+
+01:11:14.060 --> 01:11:16.410
+the detrimental effects of the stroke.
+
+01:11:16.410 --> 01:11:18.350
+In fact, I think it'd be a terrible idea.
+
+01:11:18.350 --> 01:11:22.370
+So I think what I'm trying
+to describe is how a typical,
+
+01:11:22.370 --> 01:11:24.360
+I don't know if I'm typical or normal.
+
+01:11:24.360 --> 01:11:28.080
+I mean, I've been told otherwise,
+and certainly not normal.
+
+01:11:28.080 --> 01:11:30.930
+But in terms of the way
+that I structure my day,
+
+01:11:30.930 --> 01:11:32.690
+I think that's normal.
+
+01:11:32.690 --> 01:11:33.700
+That's pretty normal.
+
+01:11:33.700 --> 01:11:35.830
+I tend to wake up right
+around, I don't know,
+
+01:11:35.830 --> 01:11:38.050
+somewhere between 5:30 and 7:00 AM,
+
+01:11:38.050 --> 01:11:39.530
+depending on what I've been
+doing the night before.
+
+01:11:39.530 --> 01:11:41.800
+I tend to go to sleep
+somewhere around 10:30, 11:00.
+
+01:11:41.800 --> 01:11:43.080
+I tend to have one bout
+
+01:11:43.080 --> 01:11:45.930
+in the morning where I can
+do really focused hard work
+
+01:11:45.930 --> 01:11:48.970
+and I can really activate the go pathway
+
+01:11:48.970 --> 01:11:51.290
+while also activating the no-go pathway
+
+01:11:51.290 --> 01:11:52.720
+so that I can really stay focused.
+
+01:11:52.720 --> 01:11:54.170
+But I rely on some tools.
+
+01:11:54.170 --> 01:11:55.003
+I have a period
+
+01:11:55.003 --> 01:11:57.200
+in the afternoon where I get
+sleepy and kinda out of it
+
+01:11:57.200 --> 01:11:58.550
+like I think most people.
+
+01:11:58.550 --> 01:12:02.670
+And I tend to come out of that
+recognizing the opportunity
+
+01:12:02.670 --> 01:12:05.320
+of that slightly sleepy
+state for creative work
+
+01:12:05.320 --> 01:12:07.950
+and for thinking about
+things in novel ways.
+
+01:12:07.950 --> 01:12:09.750
+I get light a couple of times a day.
+
+01:12:09.750 --> 01:12:11.250
+I eat low carb during the day,
+
+01:12:12.331 --> 01:12:13.410
+and I don't say high, but you know,
+
+01:12:13.410 --> 01:12:17.700
+higher carbs I eat
+starches, in the evening.
+
+01:12:17.700 --> 01:12:19.210
+So in a way I can sleep.
+
+01:12:19.210 --> 01:12:21.950
+And then, I really anticipate
+
+01:12:21.950 --> 01:12:24.730
+that late afternoon peak and alertness.
+
+01:12:24.730 --> 01:12:27.310
+Excuse me, late night peak and alertness
+
+01:12:27.310 --> 01:12:30.480
+that many people confuse for insomnia
+
+01:12:30.480 --> 01:12:33.780
+or challenges when actually
+they're really quite normal
+
+01:12:33.780 --> 01:12:35.630
+in their circadian cycle.
+
+01:12:35.630 --> 01:12:37.930
+And then I fall asleep.
+
+01:12:37.930 --> 01:12:39.750
+And if all goes well,
+
+01:12:39.750 --> 01:12:42.060
+I stay asleep for four or five hours.
+
+01:12:42.060 --> 01:12:44.330
+Typically it's three or
+four and then I wake up.
+
+01:12:44.330 --> 01:12:45.940
+I think I'm like most people I wake up
+
+01:12:45.940 --> 01:12:47.180
+during the middle of the night.
+
+01:12:47.180 --> 01:12:49.540
+Now, one thing that I don't
+think has been discussed a lot
+
+01:12:49.540 --> 01:12:50.980
+but one of my colleagues
+
+01:12:50.980 --> 01:12:53.260
+at the Stanford sleep
+lab tells me is that,
+
+01:12:53.260 --> 01:12:56.150
+every hour and a half
+or so, we all wake up.
+
+01:12:56.150 --> 01:12:58.330
+Some of you even look
+around, believe it or not
+
+01:12:58.330 --> 01:12:59.860
+and go right back to sleep.
+
+01:12:59.860 --> 01:13:01.210
+And you don't recognize it.
+
+01:13:01.210 --> 01:13:04.200
+Waking up periodically
+during sleep is the norm.
+
+01:13:04.200 --> 01:13:05.250
+It is not abnormal.
+
+01:13:05.250 --> 01:13:06.083
+I don't know
+
+01:13:06.083 --> 01:13:08.400
+why this hasn't been
+discussed more prominently.
+
+01:13:08.400 --> 01:13:11.100
+I tend to wake up and if
+there's a bright light coming
+
+01:13:11.100 --> 01:13:14.230
+through the blinds, or if
+there's some noise upstairs,
+
+01:13:14.230 --> 01:13:16.290
+if Costello's snoring particularly loud,
+
+01:13:16.290 --> 01:13:19.510
+I might get up, I might,
+go use the restroom.
+
+01:13:19.510 --> 01:13:21.970
+I might, you know,
+
+01:13:21.970 --> 01:13:24.170
+pick up a book and read
+under low light or something
+
+01:13:24.170 --> 01:13:27.090
+and then I generally fall
+back asleep and wake up,
+
+01:13:27.090 --> 01:13:30.690
+typical time for me again,
+5:30 or 7:00 AM in the morning.
+
+01:13:30.690 --> 01:13:32.650
+This waking up in the
+middle of the night thing
+
+01:13:32.650 --> 01:13:33.710
+as I mentioned at the beginning
+
+01:13:33.710 --> 01:13:37.080
+of the podcast episode today,
+is not necessarily abnormal.
+
+01:13:37.080 --> 01:13:39.320
+What it probably reflects,
+
+01:13:39.320 --> 01:13:43.230
+is that the real time meaning,
+the time that I should go
+
+01:13:43.230 --> 01:13:45.270
+to sleep is probably
+closer to eight o'clock.
+
+01:13:45.270 --> 01:13:48.600
+The word midnight was literally
+supposed to mean mid night.
+
+01:13:48.600 --> 01:13:52.230
+We, many meaning all
+of us were meant to go
+
+01:13:52.230 --> 01:13:54.130
+to sleep and wake up
+with the rise, you know,
+
+01:13:54.130 --> 01:13:56.400
+with the setting and rising of the sun.
+
+01:13:56.400 --> 01:13:59.400
+And we know this because
+this beautiful study
+
+01:13:59.400 --> 01:14:02.670
+from University of Colorado,
+where they took people out
+
+01:14:02.670 --> 01:14:05.270
+into the wilderness to reset
+their circadian clocks,
+
+01:14:07.597 --> 01:14:09.553
+measured by way of melatonin and cortisol.
+
+01:14:10.690 --> 01:14:12.790
+They were completely out
+of whack from interacting
+
+01:14:12.790 --> 01:14:14.430
+with screens and staying
+up too late, et cetera.
+
+01:14:14.430 --> 01:14:16.820
+And they basically had
+them view the sunrise
+
+01:14:16.820 --> 01:14:19.780
+and view the sunset each
+evening and almost all of them
+
+01:14:19.780 --> 01:14:22.160
+not all of those
+students, but all of them,
+
+01:14:22.160 --> 01:14:24.390
+got onto a schedule where
+they naturally wanted
+
+01:14:24.390 --> 01:14:27.620
+to go to sleep at sunset
+and wake up around sunrise
+
+01:14:27.620 --> 01:14:30.020
+or just before sunrise, even
+when they were brought back
+
+01:14:30.020 --> 01:14:33.120
+into a normal artificial light setting.
+
+01:14:33.120 --> 01:14:34.750
+So I think that's the natural pattern
+
+01:14:34.750 --> 01:14:37.210
+and we've just deviated from
+it with artificial lights.
+
+01:14:37.210 --> 01:14:40.570
+So waking up at 3:00 AM or 4:00
+AM doesn't necessarily mean
+
+01:14:40.570 --> 01:14:43.286
+that there's something
+screwed up about you.
+
+01:14:43.286 --> 01:14:47.370
+Or that you have anxiety or
+something, although you might.
+
+01:14:47.370 --> 01:14:48.500
+What it likely means is
+
+01:14:48.500 --> 01:14:50.300
+that you were supposed to
+go to bed much earlier.
+
+01:14:50.300 --> 01:14:51.770
+And because of this asymmetry
+
+01:14:51.770 --> 01:14:54.440
+in the autonomic nervous
+system where it's much easier
+
+01:14:54.440 --> 01:14:57.760
+for us to push, and to
+delay our sleep time
+
+01:14:57.760 --> 01:15:00.083
+than it is to accelerate our wake-up time.
+
+01:15:01.010 --> 01:15:03.070
+In other words, it's easier to stay up
+
+01:15:03.070 --> 01:15:04.350
+and hang out at the party even
+
+01:15:04.350 --> 01:15:06.290
+if you don't wanna be
+there than it is to wake up
+
+01:15:06.290 --> 01:15:08.390
+when you're exhausted and your fast sleep.
+
+01:15:09.270 --> 01:15:12.950
+Most people are pushing
+through, into the late hours
+
+01:15:12.950 --> 01:15:14.030
+of the evening and night and going
+
+01:15:14.030 --> 01:15:16.630
+to bed much later than they
+naturally would want to.
+
+01:15:16.630 --> 01:15:19.410
+And so I personally don't
+want to go to bed at 8:00 PM.
+
+01:15:19.410 --> 01:15:24.220
+A lot of good things happen
+between 8:00 PM and 11:00 PM.
+
+01:15:24.220 --> 01:15:25.920
+And so, I wanna enjoy those.
+
+01:15:25.920 --> 01:15:28.390
+And I push through the evening hours.
+
+01:15:28.390 --> 01:15:31.210
+But as a consequence, I'm
+running out of melatonin.
+
+01:15:31.210 --> 01:15:34.160
+My melatonin release is basically subsided
+
+01:15:34.160 --> 01:15:35.240
+by about 3:00 or 4:00 AM
+
+01:15:35.240 --> 01:15:37.300
+and so it makes sense
+that I would wake up.
+
+01:15:37.300 --> 01:15:39.230
+I don't take melatonin
+for reasons discussed
+
+01:15:39.230 --> 01:15:41.170
+in previous episodes.
+
+01:15:41.170 --> 01:15:44.230
+I do rely on things
+like magnesium glycinate
+
+01:15:44.230 --> 01:15:47.178
+or magnesium threonate,
+things like theanine.
+
+01:15:47.178 --> 01:15:48.900
+I'm not saying any of
+you need to take those.
+
+01:15:48.900 --> 01:15:50.210
+That's just what I happened to take
+
+01:15:50.210 --> 01:15:51.740
+in order to facilitate my sleep.
+
+01:15:51.740 --> 01:15:53.793
+And it's been of great benefit to me.
+
+01:15:54.940 --> 01:15:56.190
+If I wake up in the middle of the night
+
+01:15:56.190 --> 01:15:59.060
+and I'm anxious for whatever
+reason or my mind is looping,
+
+01:15:59.060 --> 01:16:00.360
+I have a couple of rules.
+
+01:16:00.360 --> 01:16:03.930
+One is, I don't trust
+anything I think about.
+
+01:16:03.930 --> 01:16:05.890
+When I wake up in the middle
+of the night, any of it.
+
+01:16:05.890 --> 01:16:07.300
+Unless I've had a magnificent dream
+
+01:16:07.300 --> 01:16:08.350
+and I wanna write it down,
+
+01:16:08.350 --> 01:16:09.960
+I'll do that every once in a while.
+
+01:16:09.960 --> 01:16:11.270
+Typically when I go back and read it,
+
+01:16:11.270 --> 01:16:13.183
+it's not at all magnificent.
+
+01:16:14.690 --> 01:16:16.230
+I can't ever remember coming up
+
+01:16:16.230 --> 01:16:18.330
+with anything really fantastic in one
+
+01:16:18.330 --> 01:16:22.040
+of my dreams that stuck with
+me, or that I implemented.
+
+01:16:22.040 --> 01:16:24.100
+I don't really trust the
+kind of thinking that happens
+
+01:16:24.100 --> 01:16:27.100
+in those wee hours of the
+circadian cycle for me.
+
+01:16:27.100 --> 01:16:30.450
+There's just nothing either
+for me terribly creative,
+
+01:16:30.450 --> 01:16:33.460
+or worth linear
+implementation at that time.
+
+01:16:33.460 --> 01:16:35.530
+But, one thing that has been very helpful
+
+01:16:35.530 --> 01:16:36.860
+is to sometimes do one
+
+01:16:36.860 --> 01:16:39.010
+of these non sleep deep rest protocols
+
+01:16:39.010 --> 01:16:41.010
+as a way to go back into sleep.
+
+01:16:41.010 --> 01:16:43.770
+So a hypnosis app or some
+
+01:16:43.770 --> 01:16:46.340
+of the scripts by Michael Sealey
+that I've mentioned before,
+
+01:16:46.340 --> 01:16:50.440
+or the Reveri Health, or
+a yoga nidra protocol.
+
+01:16:50.440 --> 01:16:54.500
+Those for me have been very
+useful at helping me turn off,
+
+01:16:54.500 --> 01:16:56.410
+kinda looping thinking in
+the middle of the night
+
+01:16:56.410 --> 01:16:58.370
+and fall back asleep.
+
+01:16:58.370 --> 01:17:01.190
+In reviewing my schedule for you,
+
+01:17:01.190 --> 01:17:04.070
+just as a context for how
+to implement certain types
+
+01:17:04.070 --> 01:17:06.670
+of tools for optimizing learning.
+
+01:17:06.670 --> 01:17:08.470
+Realize that, it gives the impression
+
+01:17:08.470 --> 01:17:10.410
+that there's a 90 minute bout of learning
+
+01:17:10.410 --> 01:17:13.000
+and work in the morning
+and then a 90 minute bout
+
+01:17:13.000 --> 01:17:15.720
+of creative type work in
+the afternoon and that's it.
+
+01:17:15.720 --> 01:17:17.450
+There are a lot of hours
+in between of course,
+
+01:17:17.450 --> 01:17:19.190
+and I just wanna be very clear.
+
+01:17:19.190 --> 01:17:23.000
+Those hours for me are occupied
+by pretty not mundane tasks
+
+01:17:23.000 --> 01:17:25.890
+but things that are kinda random.
+
+01:17:25.890 --> 01:17:29.030
+Those are things like email
+or attending to Zoom meetings
+
+01:17:29.030 --> 01:17:31.740
+or meeting with colleagues and students
+
+01:17:31.740 --> 01:17:33.283
+and things of that sort.
+
+01:17:34.120 --> 01:17:37.160
+I sometimes will read just
+for sake of my own enrichment.
+
+01:17:37.160 --> 01:17:39.010
+I mentioned those two 90 minute bouts
+
+01:17:39.010 --> 01:17:40.950
+because those are the two 90 minute bouts
+
+01:17:40.950 --> 01:17:43.610
+where I'm trying to expand on,
+
+01:17:43.610 --> 01:17:46.030
+the mental capacities that I already have.
+
+01:17:46.030 --> 01:17:47.670
+They're to really where
+I'm trying to stretch
+
+01:17:47.670 --> 01:17:51.090
+and grow what I'm able to do
+on a regular basis reflexively.
+
+01:17:51.090 --> 01:17:54.030
+So I wanna emphasize that the
+whole day doesn't just consist
+
+01:17:54.030 --> 01:17:56.120
+of those two 90 minute bouts.
+
+01:17:56.120 --> 01:17:57.460
+That's not the way my schedule works
+
+01:17:57.460 --> 01:17:59.160
+and that's not the way
+my lifestyle is arranged.
+
+01:17:59.160 --> 01:17:59.993
+Which is fortunate
+
+01:17:59.993 --> 01:18:01.690
+'cause I enjoy all those
+other things as well.
+
+01:18:01.690 --> 01:18:03.470
+And so for many of you out there who are
+
+01:18:03.470 --> 01:18:06.300
+in school or have family
+demands or other demands,
+
+01:18:06.300 --> 01:18:09.730
+the key is to slot in those
+brain optimization segments
+
+01:18:09.730 --> 01:18:13.320
+of about 90 minutes, one or
+two, or maybe more per day.
+
+01:18:13.320 --> 01:18:14.480
+You're trying to slot those
+
+01:18:14.480 --> 01:18:17.500
+in wherever you can amidst to your other,
+
+01:18:17.500 --> 01:18:19.900
+obligations and things
+that you need to do.
+
+01:18:19.900 --> 01:18:22.480
+But, you wanna do that
+in an intelligent way
+
+01:18:22.480 --> 01:18:24.390
+that's anchored to your biology.
+
+01:18:24.390 --> 01:18:25.840
+And then you wanna do a number of things
+
+01:18:25.840 --> 01:18:26.920
+which I've talked about today,
+
+01:18:26.920 --> 01:18:28.890
+in order to optimize those sessions
+
+01:18:28.890 --> 01:18:30.290
+to get the most out of them.
+
+01:18:31.580 --> 01:18:34.260
+So as we round up, I acknowledged
+
+01:18:34.260 --> 01:18:37.120
+that once again I've covered
+a huge range of topics,
+
+01:18:37.120 --> 01:18:39.670
+related to how to optimize learning,
+
+01:18:39.670 --> 01:18:43.880
+and brain change, and
+essentially mental performance.
+
+01:18:43.880 --> 01:18:45.600
+And I've set that in the context,
+
+01:18:45.600 --> 01:18:47.100
+of some biological mechanism
+
+01:18:47.100 --> 01:18:49.370
+like the basal ganglia,
+go, no-go pathways,
+
+01:18:49.370 --> 01:18:51.820
+the circadian autonomic system,
+
+01:18:51.820 --> 01:18:55.970
+and some of the relationship
+between food and fasting
+
+01:18:55.970 --> 01:18:59.113
+and particular types of food
+in alertness or sleepiness.
+
+01:19:00.170 --> 01:19:03.900
+Linear focus and strategy
+implementation is best served
+
+01:19:03.900 --> 01:19:06.510
+by high alert states,
+although not too alert,
+
+01:19:06.510 --> 01:19:07.940
+and how creative states,
+
+01:19:07.940 --> 01:19:09.910
+at least the first phase of creativity,
+
+01:19:09.910 --> 01:19:12.250
+which is the creative arrangement,
+
+01:19:12.250 --> 01:19:14.240
+kind of brainstorming stage
+
+01:19:14.240 --> 01:19:17.390
+is supported by states
+of kind of relaxation
+
+01:19:17.390 --> 01:19:18.760
+or even slightly sleepy.
+
+01:19:18.760 --> 01:19:21.190
+But the creative
+implementation is a very linear
+
+01:19:21.190 --> 01:19:22.860
+and focused and deliberate process,
+
+01:19:22.860 --> 01:19:26.870
+much like the highly focused
+state, that I described.
+
+01:19:26.870 --> 01:19:28.780
+I described how I do these things so just
+
+01:19:28.780 --> 01:19:29.930
+to give you a context.
+
+01:19:29.930 --> 01:19:31.300
+A lot of you asked for, you know,
+
+01:19:31.300 --> 01:19:33.450
+what I do in order to
+set it within a context.
+
+01:19:33.450 --> 01:19:35.460
+But by no means are these rigid times
+
+01:19:35.460 --> 01:19:36.690
+and ways of doing things.
+
+01:19:36.690 --> 01:19:39.120
+But, I think it's fair to say that,
+
+01:19:39.120 --> 01:19:41.670
+what I do has a circadian logic.
+
+01:19:41.670 --> 01:19:44.873
+It also has grounding
+in biological mechanisms
+
+01:19:44.873 --> 01:19:46.740
+that are very concrete.
+
+01:19:46.740 --> 01:19:48.480
+That we know the cells and mechanisms
+
+01:19:48.480 --> 01:19:49.780
+and neuro-transmitters.
+
+01:19:49.780 --> 01:19:50.613
+And then some
+
+01:19:50.613 --> 01:19:53.480
+of them are a little
+bit headed out into the,
+
+01:19:53.480 --> 01:19:57.520
+what we would call, kind
+of emerging, or, you know,
+
+01:19:57.520 --> 01:19:59.810
+I don't wanna say cutting
+edge, but maybe front edge
+
+01:19:59.810 --> 01:20:01.380
+of what neuroscience is
+starting to understand
+
+01:20:01.380 --> 01:20:03.260
+about creativity and so forth.
+
+01:20:03.260 --> 01:20:05.640
+Those are areas that are just now,
+
+01:20:05.640 --> 01:20:07.780
+coming to some clarity.
+
+01:20:07.780 --> 01:20:10.361
+And there is certainly is
+still a lot more work to do.
+
+01:20:10.361 --> 01:20:12.930
+There are a lot of different
+ways to arrange one's routine.
+
+01:20:12.930 --> 01:20:15.840
+But hopefully, the tools
+and practices I described,
+
+01:20:15.840 --> 01:20:17.840
+will be useful to you.
+
+01:20:17.840 --> 01:20:19.310
+I wanna mention that a lot
+
+01:20:19.310 --> 01:20:23.460
+of people ask me about
+specific tools and practices.
+
+01:20:23.460 --> 01:20:25.870
+They asked me of Wim Hof
+Breathing, about ice baths.
+
+01:20:25.870 --> 01:20:27.040
+Have talked a little bit
+
+01:20:27.040 --> 01:20:29.470
+about ice baths before I
+think in cold exposure.
+
+01:20:29.470 --> 01:20:32.260
+About binaural beats and
+things of those sorts.
+
+01:20:32.260 --> 01:20:35.480
+I think the way to look at any tool,
+
+01:20:35.480 --> 01:20:38.010
+to modulate or measure the nervous system,
+
+01:20:38.010 --> 01:20:42.010
+is ask whether or not it's
+going to move you up or down,
+
+01:20:42.010 --> 01:20:43.810
+the state of autonomic arousal.
+
+01:20:43.810 --> 01:20:44.990
+Whether or not it's gonna
+can make you more alert
+
+01:20:44.990 --> 01:20:46.230
+or more calm.
+
+01:20:46.230 --> 01:20:47.790
+More focused or less focused.
+
+01:20:47.790 --> 01:20:49.620
+That's kind of the two axes here
+
+01:20:49.620 --> 01:20:51.410
+that we need to think about.
+
+01:20:51.410 --> 01:20:53.270
+Sometimes you wanna be
+more alert than you are.
+
+01:20:53.270 --> 01:20:56.350
+And indeed, things like
+cold showers, ice baths,
+
+01:20:56.350 --> 01:20:58.230
+super oxygenation, Wim Hof type breathing,
+
+01:20:58.230 --> 01:21:00.440
+will bring your level of alertness up.
+
+01:21:00.440 --> 01:21:02.570
+There's some cautionary notes
+associated with each of those.
+
+01:21:02.570 --> 01:21:03.403
+You need to read
+
+01:21:03.403 --> 01:21:05.530
+and understand those
+cautionary notes, for yourself.
+
+01:21:05.530 --> 01:21:07.600
+Everybody's different and some
+
+01:21:07.600 --> 01:21:11.170
+of those carry certain dangers,
+under certain conditions.
+
+01:21:11.170 --> 01:21:13.163
+Others have huge margins for safety.
+
+01:21:15.070 --> 01:21:17.230
+An ice bath generally wakes you up.
+
+01:21:17.230 --> 01:21:20.300
+A warmer, hot bath generally
+calms you down, right?
+
+01:21:20.300 --> 01:21:22.350
+Binaural beats, there aren't a lot
+
+01:21:22.350 --> 01:21:24.370
+of data and quality
+peer-reviewed journals.
+
+01:21:24.370 --> 01:21:26.160
+I did put in the effort
+to go search it out.
+
+01:21:26.160 --> 01:21:28.000
+There are a few.
+
+01:21:28.000 --> 01:21:30.820
+Binaural beats are
+listening to frequencies
+
+01:21:30.820 --> 01:21:34.233
+of sound that slightly differ
+offset for the two ears.
+
+01:21:35.230 --> 01:21:37.130
+It has been shown, can shift the brain
+
+01:21:37.130 --> 01:21:38.220
+into particular states.
+
+01:21:38.220 --> 01:21:39.510
+You'll notice today, I didn't really talk
+
+01:21:39.510 --> 01:21:42.760
+about alpha or theta or gamma rhythms.
+
+01:21:42.760 --> 01:21:45.220
+I personally in reviewing the literature,
+
+01:21:45.220 --> 01:21:46.380
+I don't think it's fair to say
+
+01:21:46.380 --> 01:21:49.120
+that alpha states are great for X
+
+01:21:49.120 --> 01:21:50.680
+and theta states are great for Y.
+
+01:21:50.680 --> 01:21:51.980
+And besides, most of us aren't walking
+
+01:21:51.980 --> 01:21:53.600
+around our homes and our workplaces,
+
+01:21:53.600 --> 01:21:54.930
+geared up to EEG machines
+
+01:21:54.930 --> 01:21:56.290
+or with wires down below our skull.
+
+01:21:56.290 --> 01:21:58.800
+So we don't know when we're
+in those states anyway.
+
+01:21:58.800 --> 01:22:02.010
+I think the subjective reading of whether
+
+01:22:02.010 --> 01:22:05.280
+or not one is alert, or calm,
+
+01:22:05.280 --> 01:22:07.990
+and whether or not that
+alertness or calmness matches
+
+01:22:07.990 --> 01:22:10.550
+the goal or that thing that
+we're trying to achieve
+
+01:22:10.550 --> 01:22:12.793
+in terms of learning, including sleep,
+
+01:22:14.150 --> 01:22:15.780
+is the most valuable,
+
+01:22:15.780 --> 01:22:18.250
+internal tool and recognition
+that we can all have.
+
+01:22:18.250 --> 01:22:20.080
+In other words, if I want to be very alert
+
+01:22:20.080 --> 01:22:22.230
+and I need to be very
+alert and I'm exhausted,
+
+01:22:22.230 --> 01:22:24.490
+there might be tools that
+I should use to wake up.
+
+01:22:24.490 --> 01:22:25.323
+It might also speak to the fact
+
+01:22:25.323 --> 01:22:26.720
+that I might not have slept
+
+01:22:26.720 --> 01:22:29.290
+as well as I could have or
+should have the night before.
+
+01:22:29.290 --> 01:22:31.080
+So it's really about a match
+
+01:22:31.080 --> 01:22:33.870
+between where we are on
+that autonomic arousal scale
+
+01:22:33.870 --> 01:22:36.350
+and what we're trying to achieve.
+
+01:22:36.350 --> 01:22:37.980
+And indeed, there are gonna be a lot
+
+01:22:37.980 --> 01:22:40.770
+of tools including supplements
+and other prescription drugs
+
+01:22:40.770 --> 01:22:41.770
+and things that can help,
+
+01:22:41.770 --> 01:22:44.740
+move us along that autonomic continuum,
+
+01:22:44.740 --> 01:22:47.650
+up toward more alertness
+or toward more calmness.
+
+01:22:47.650 --> 01:22:50.720
+But ultimately it's about
+tailoring that alertness
+
+01:22:50.720 --> 01:22:53.070
+and calmness to the
+specific types of learning
+
+01:22:53.070 --> 01:22:56.000
+and activities that you are
+going to do and perform.
+
+01:22:56.000 --> 01:22:58.070
+And, it's reciprocal.
+
+01:22:58.070 --> 01:22:59.570
+Meaning some of those activities
+
+01:22:59.570 --> 01:23:02.260
+like exercise early in the
+day will increase your level
+
+01:23:02.260 --> 01:23:04.490
+of autonomic arousal and alertness.
+
+01:23:04.490 --> 01:23:07.340
+Certain foods, will tend to wake you up.
+
+01:23:07.340 --> 01:23:09.400
+Certain foods will tend
+to make you more sleepy
+
+01:23:09.400 --> 01:23:10.790
+and the volume of food
+
+01:23:10.790 --> 01:23:12.980
+and the timing of food is a factor also.
+
+01:23:12.980 --> 01:23:14.750
+So it's a huge parameter space.
+
+01:23:14.750 --> 01:23:16.260
+It's a huge set of variables,
+
+01:23:16.260 --> 01:23:18.180
+that impacts whether or
+not we're feeling well,
+
+01:23:18.180 --> 01:23:20.970
+performing well, learning
+great, or not learning great.
+
+01:23:20.970 --> 01:23:24.160
+And the key thing is
+to become an observer,
+
+01:23:24.160 --> 01:23:26.560
+of your own system and what works for you.
+
+01:23:26.560 --> 01:23:29.280
+And, to recognize that there are two bins
+
+01:23:29.280 --> 01:23:33.190
+of tools for optimizing,
+learning and brain performance.
+
+01:23:33.190 --> 01:23:35.440
+One, are tools that are really anchored
+
+01:23:35.440 --> 01:23:36.760
+in biological mechanism
+
+01:23:36.760 --> 01:23:38.630
+and we are certain of what those are.
+
+01:23:38.630 --> 01:23:39.640
+I've talked about some of those.
+
+01:23:39.640 --> 01:23:41.170
+The other, the more subjective tools,
+
+01:23:41.170 --> 01:23:45.110
+for some of you visualization,
+might work terrifically well.
+
+01:23:45.110 --> 01:23:47.610
+For some of you, one song
+might really wake you up
+
+01:23:47.610 --> 01:23:49.710
+because of the associations
+you have with it.
+
+01:23:49.710 --> 01:23:51.390
+And for me, I might just, you know,
+
+01:23:51.390 --> 01:23:53.330
+it might repel me from the room.
+
+01:23:53.330 --> 01:23:56.000
+'Cause I don't like it or
+it might put me to sleep.
+
+01:23:56.000 --> 01:23:56.833
+But of course,
+
+01:23:56.833 --> 01:23:58.800
+volume is kind of a universal.
+
+01:23:58.800 --> 01:24:00.370
+Loud music tends to wake people up.
+
+01:24:00.370 --> 01:24:03.440
+Soft music, doesn't tend to
+wake them up quite as much.
+
+01:24:03.440 --> 01:24:07.120
+So, part of today is really
+getting you to think about,
+
+01:24:07.120 --> 01:24:09.650
+in a scientific way, in a structured way,
+
+01:24:09.650 --> 01:24:13.590
+about the non-negotiable elements
+
+01:24:13.590 --> 01:24:15.360
+which are that you're
+going to have a period
+
+01:24:15.360 --> 01:24:17.660
+of every 24 hour cycle when
+you tend to be more awake,
+
+01:24:17.660 --> 01:24:19.330
+and a period when you
+tend to be more asleep.
+
+01:24:19.330 --> 01:24:20.610
+And how to leverage those
+
+01:24:20.610 --> 01:24:23.040
+so you're not fighting an
+uphill battle to wake up
+
+01:24:23.040 --> 01:24:24.063
+when you actually,
+
+01:24:24.960 --> 01:24:27.450
+would want to be in and should be sleepy
+
+01:24:27.450 --> 01:24:31.940
+and not trying to go to
+sleep when you are naturally,
+
+01:24:31.940 --> 01:24:33.010
+going to be most awake.
+
+01:24:33.010 --> 01:24:34.700
+So a lot of it is really anchors back
+
+01:24:34.700 --> 01:24:36.630
+to those core mechanisms of biology,
+
+01:24:36.630 --> 01:24:38.720
+and then you start layering
+on the different protocols
+
+01:24:38.720 --> 01:24:40.920
+of food and supplementation, et cetera.
+
+01:24:40.920 --> 01:24:43.670
+And I think it's important
+to recognize that some people
+
+01:24:43.670 --> 01:24:46.923
+are just more go and no-go.
+
+01:24:47.800 --> 01:24:49.210
+And some people,
+
+01:24:49.210 --> 01:24:51.300
+are just calmer and have
+a harder time getting
+
+01:24:51.300 --> 01:24:52.830
+into action in an activity.
+
+01:24:52.830 --> 01:24:54.360
+It's just the way that we're wired.
+
+01:24:54.360 --> 01:24:56.060
+Some of us have autonomic nervous systems
+
+01:24:56.060 --> 01:24:59.370
+that are more geared towards
+parasympathetic, calm states.
+
+01:24:59.370 --> 01:25:02.550
+One of the reasons I love
+bulldogs, not just my bulldog,
+
+01:25:02.550 --> 01:25:04.500
+is that they are very calm animals.
+
+01:25:04.500 --> 01:25:06.970
+In fact, they make no
+spontaneous movements
+
+01:25:06.970 --> 01:25:09.010
+unless there's something to respond to.
+
+01:25:09.010 --> 01:25:11.190
+And I find that incredibly relaxing.
+
+01:25:11.190 --> 01:25:12.730
+Other animals like pit bulls,
+
+01:25:12.730 --> 01:25:14.330
+who I also really like and enjoy
+
+01:25:14.330 --> 01:25:16.310
+and other species, their
+tail is always wagging.
+
+01:25:16.310 --> 01:25:18.650
+And that they're always in a
+position to make a movement
+
+01:25:18.650 --> 01:25:20.720
+at any any second 'cause they tend to ride
+
+01:25:20.720 --> 01:25:23.010
+at pretty high levels
+of autonomic arousal.
+
+01:25:23.010 --> 01:25:24.640
+They pop up really quickly.
+
+01:25:24.640 --> 01:25:26.500
+When you say it's time to go for a walk,
+
+01:25:26.500 --> 01:25:30.020
+Costello does it one limb at a time.
+
+01:25:30.020 --> 01:25:31.940
+And sometimes he just goes back to sleep.
+
+01:25:31.940 --> 01:25:34.320
+And so, that there are
+people like that too.
+
+01:25:34.320 --> 01:25:36.020
+And so you have to know where you are
+
+01:25:36.020 --> 01:25:38.563
+and what particular goals
+you're trying to pursue.
+
+01:25:39.950 --> 01:25:42.320
+As a final closure to this,
+
+01:25:42.320 --> 01:25:45.300
+I wanna emphasize that today as always,
+
+01:25:45.300 --> 01:25:47.060
+I've strived to be accurate.
+
+01:25:47.060 --> 01:25:48.160
+I'm sure if I made mistakes,
+
+01:25:48.160 --> 01:25:50.210
+some of you will point
+out and I appreciate that.
+
+01:25:50.210 --> 01:25:52.260
+And I'll post a correction,
+
+01:25:52.260 --> 01:25:56.253
+if we agree that I indeed
+misspoke, or misguided something.
+
+01:25:57.150 --> 01:25:59.940
+But, by no means was I exhaustive.
+
+01:25:59.940 --> 01:26:01.510
+I mean, I might've exhausted some of you
+
+01:26:01.510 --> 01:26:03.730
+but the information wasn't exhaustive.
+
+01:26:03.730 --> 01:26:05.130
+Meaning, there's no way
+
+01:26:05.130 --> 01:26:07.400
+that I could cover all the ways in which,
+
+01:26:07.400 --> 01:26:11.060
+we optimize or can optimize
+learning and performance.
+
+01:26:11.060 --> 01:26:14.120
+I think we've touched on a
+number of them that I hope,
+
+01:26:14.120 --> 01:26:15.150
+that you'll find value in
+
+01:26:15.150 --> 01:26:17.333
+and that you'll explore in your own lives.
+
+01:26:18.550 --> 01:26:19.930
+We are continuing with this theme
+
+01:26:19.930 --> 01:26:21.830
+because that's what we
+do, for this podcast.
+
+01:26:21.830 --> 01:26:24.060
+We stay on one theme for an entire month.
+
+01:26:24.060 --> 01:26:25.320
+For the next episode,
+
+01:26:25.320 --> 01:26:27.350
+we're going to explore two,
+
+01:26:27.350 --> 01:26:30.710
+very essential aspects of neuroplasticity.
+
+01:26:30.710 --> 01:26:32.250
+That actually relate to learning.
+
+01:26:32.250 --> 01:26:37.250
+Which are pain, pain management,
+and neural regeneration.
+
+01:26:37.830 --> 01:26:39.660
+And for those of you that,
+
+01:26:39.660 --> 01:26:42.730
+don't have injuries or don't
+suffer from chronic pain,
+
+01:26:42.730 --> 01:26:45.500
+the discussion is still gonna
+be a very important one.
+
+01:26:45.500 --> 01:26:46.830
+Because it's not just going to be
+
+01:26:46.830 --> 01:26:48.470
+about pain that you're
+trying to get rid of.
+
+01:26:48.470 --> 01:26:51.550
+It's also going to be about how
+certain sensory experiences,
+
+01:26:51.550 --> 01:26:55.110
+within the pain network,
+can become amplified,
+
+01:26:55.110 --> 01:26:57.640
+as well as how we can
+use top-down modulation.
+
+01:26:57.640 --> 01:27:01.550
+We can use our mind, to
+suppress the pain response.
+
+01:27:01.550 --> 01:27:02.430
+We're also gonna talk about some
+
+01:27:02.430 --> 01:27:04.210
+of the hardwired mechanisms,
+
+01:27:04.210 --> 01:27:05.350
+that are bottom up,
+
+01:27:05.350 --> 01:27:09.210
+that exist in our periphery,
+in our body to control pain.
+
+01:27:09.210 --> 01:27:10.740
+And we're also gonna discuss,
+
+01:27:10.740 --> 01:27:12.320
+a number of interesting interactions
+
+01:27:12.320 --> 01:27:15.070
+between the pain system
+and the learning system.
+
+01:27:15.070 --> 01:27:19.240
+So again if you're, not
+interested in pain per se,
+
+01:27:19.240 --> 01:27:22.130
+it still is going to be
+a very valid conversation
+
+01:27:22.130 --> 01:27:25.330
+for sake of understanding how
+to optimize brain performance.
+
+01:27:25.330 --> 01:27:27.520
+And neuro-regeneration goes hand in hand,
+
+01:27:27.520 --> 01:27:28.960
+with that discussion.
+
+01:27:28.960 --> 01:27:30.660
+So I hope you'll join us for that.
+
+01:27:31.670 --> 01:27:34.730
+I suppose I'd be remiss
+if I didn't mention that,
+
+01:27:34.730 --> 01:27:37.590
+Costello has been snoring
+extremely loudly today.
+
+01:27:37.590 --> 01:27:39.790
+He had a good long walk this morning
+
+01:27:39.790 --> 01:27:41.770
+which means up the
+driveway down the driveway.
+
+01:27:41.770 --> 01:27:42.900
+He's an old dog.
+
+01:27:42.900 --> 01:27:43.900
+So if you've been hearing him
+
+01:27:43.900 --> 01:27:45.840
+in the background and
+it's been distracting,
+
+01:27:45.840 --> 01:27:46.860
+now you know why.
+
+01:27:46.860 --> 01:27:49.170
+It probably relates to, where you were
+
+01:27:49.170 --> 01:27:51.260
+on your level of autonomic arousal.
+
+01:27:51.260 --> 01:27:52.093
+And I'll leave it
+
+01:27:52.093 --> 01:27:54.880
+to you to answer that
+question for yourself.
+
+01:27:54.880 --> 01:27:56.150
+Many of you continue
+
+01:27:56.150 --> 01:27:59.127
+to graciously ask how you
+can help support the podcast.
+
+01:27:59.127 --> 01:28:01.420
+And we really appreciate the question.
+
+01:28:01.420 --> 01:28:03.130
+The best way is to subscribe
+
+01:28:03.130 --> 01:28:05.270
+wherever it is you happen
+to be listening or watching.
+
+01:28:05.270 --> 01:28:07.350
+So for those of you that it's YouTube,
+
+01:28:07.350 --> 01:28:09.520
+please subscribe to the YouTube channel.
+
+01:28:09.520 --> 01:28:12.200
+If it's Apple, subscribe
+to the podcast on Apple
+
+01:28:12.200 --> 01:28:13.730
+or if it's Spotify, subscribe there.
+
+01:28:13.730 --> 01:28:15.550
+Maybe you've subscribed to all three.
+
+01:28:15.550 --> 01:28:17.360
+If you have comments and feedback for us,
+
+01:28:17.360 --> 01:28:20.980
+suggestions for future podcast,
+episodes or topics to cover,
+
+01:28:20.980 --> 01:28:24.430
+please, place those in the
+comment section on YouTube.
+
+01:28:24.430 --> 01:28:26.060
+Apple also provides a section
+
+01:28:26.060 --> 01:28:27.990
+where you can give us a rating.
+
+01:28:27.990 --> 01:28:29.620
+We would love it if you
+give us a five star rating
+
+01:28:29.620 --> 01:28:32.100
+or whatever it is that
+you feel that we deserve.
+
+01:28:32.100 --> 01:28:36.160
+And in general, if you could
+tell people about the podcast,
+
+01:28:36.160 --> 01:28:37.300
+we hope that you would tell them
+
+01:28:37.300 --> 01:28:38.960
+because you think the
+information will be of use
+
+01:28:38.960 --> 01:28:39.960
+to them of course.
+
+01:28:39.960 --> 01:28:41.490
+Tell your friends, tell your family,
+
+01:28:41.490 --> 01:28:44.980
+tell your coworkers, because
+as we expand the podcast,
+
+01:28:44.980 --> 01:28:47.540
+the support for the podcast
+just grows along with it.
+
+01:28:47.540 --> 01:28:49.590
+So that's a terrific way to support us.
+
+01:28:49.590 --> 01:28:51.410
+As always, check out our sponsors
+
+01:28:51.410 --> 01:28:53.290
+which were mentioned at the beginning.
+
+01:28:53.290 --> 01:28:54.840
+And in addition to that,
+
+01:28:54.840 --> 01:28:56.370
+we've now set up a Patreon account.
+
+01:28:56.370 --> 01:28:57.950
+Some of you asked specifically,
+
+01:28:57.950 --> 01:28:59.430
+how you can help support the podcast
+
+01:28:59.430 --> 01:29:01.660
+but you weren't
+interested, in our sponsors
+
+01:29:01.660 --> 01:29:03.940
+or you were already
+engaged with our sponsors.
+
+01:29:03.940 --> 01:29:05.660
+So, we have a Patreon account.
+
+01:29:05.660 --> 01:29:10.630
+You can find it at
+patreon.com/andrewhuberman.
+
+01:29:10.630 --> 01:29:13.510
+Finally, in previous episodes today,
+
+01:29:13.510 --> 01:29:16.520
+and in future episodes,
+I mentioned supplements.
+
+01:29:16.520 --> 01:29:19.640
+Supplements are one way,
+certainly not the only way,
+
+01:29:19.640 --> 01:29:22.310
+but they're one way in
+which we can modulate,
+
+01:29:22.310 --> 01:29:23.900
+our nervous system,
+
+01:29:23.900 --> 01:29:26.860
+for sake of better of
+sleep, learning, alertness,
+
+01:29:26.860 --> 01:29:28.950
+and several other things as well.
+
+01:29:28.950 --> 01:29:30.380
+If you're interested in supplements,
+
+01:29:30.380 --> 01:29:33.990
+we've partnered with Thorne, T H O R N E,
+
+01:29:33.990 --> 01:29:36.830
+because Thorne supplements
+have very high stringency
+
+01:29:36.830 --> 01:29:38.920
+in terms of, what's in the bottle,
+
+01:29:38.920 --> 01:29:40.520
+the amounts of the substances that are
+
+01:29:40.520 --> 01:29:43.210
+in each capsule or pill, et cetera.
+
+01:29:43.210 --> 01:29:45.790
+And, they have partnered
+with other groups such
+
+01:29:45.790 --> 01:29:48.010
+as the Mayo Clinic, all
+the major sports teams.
+
+01:29:48.010 --> 01:29:50.050
+So there's very high rigor
+associated with Thorne
+
+01:29:50.050 --> 01:29:52.200
+which is why we've decided
+to partner with them.
+
+01:29:52.200 --> 01:29:53.880
+If you'd like to check
+out Thorne supplements
+
+01:29:53.880 --> 01:29:55.560
+and see the supplements that I take,
+
+01:29:55.560 --> 01:30:00.560
+you can go to Thorne,
+thorne.com/u/huberman.
+
+01:30:01.770 --> 01:30:02.950
+And you'll see a list of some
+
+01:30:02.950 --> 01:30:04.700
+of the supplements that I take.
+
+01:30:04.700 --> 01:30:07.200
+As well, you'll get 20% off,
+
+01:30:07.200 --> 01:30:09.160
+any of the supplements listed there,
+
+01:30:09.160 --> 01:30:11.020
+as well as anywhere else
+on the Thorne website.
+
+01:30:11.020 --> 01:30:16.020
+So that's Thorne, thorne.com/u/huberman,
+
+01:30:16.810 --> 01:30:19.950
+for 20% off, any Thorne supplements.
+
+01:30:19.950 --> 01:30:23.950
+Last but not least, on
+behalf of me and Costello,
+
+01:30:23.950 --> 01:30:26.300
+I wanna thank you for your
+time and attention today.
+
+01:30:26.300 --> 01:30:29.825
+And as always, thank you for
+your interest in science.
+
+01:30:29.825 --> 01:30:32.408
+[upbeat music]
+
