@@ -9,7 +9,7 @@ import re
 
 # i will never learn how to do the imports in python 
 if __name__!='__main__':    
-    from .utils import Utils   # import for tests 
+    from ..sociaLLM.src.utils import Utils   # import for tests 
 else:
     from utils import Utils 
 
