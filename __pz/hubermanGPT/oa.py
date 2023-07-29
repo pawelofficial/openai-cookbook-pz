@@ -22,7 +22,7 @@ def completion_request(s,prompt=''):
     model='gpt-3.5-turbo-0613'
     payload = {
         "model": model,
-        "messages": [{"role": "user", "content": f"{prompt}\n{s}"}],
+        "messages": [{"role": "user", "content": f"{s}\n{prompt}"}],
         "temperature": 0.2
     }
     headers = {
@@ -34,6 +34,7 @@ def completion_request(s,prompt=''):
         output=response.json()['choices'][0]['message']['content']
     except:
         output=f'something went wrong {response.stat} '
+        output=''
     return response.json() ,output
 
 

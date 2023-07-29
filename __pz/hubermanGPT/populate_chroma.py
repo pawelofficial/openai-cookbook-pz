@@ -14,209 +14,243 @@ from ytd import *
 import random 
 import requests 
 import json 
+import time 
+import unicodedata
+from unidecode import unidecode
+
+
+def remove_non_alphanumeric(input_string):
+
+    result = re.sub(r'\W+', '', input_string)[:60].replace('_',' ').replace('  ',' ').replace('.','').replace(',','')
+    result='_'.join(result.split(' ')[:10])[:60]
+    if result[-1]=='_':
+        result=result[:-1]
+    
+    return unidecode(result)
 
 
 
 
+# returns generator of agg df and meta fod a hdf 
+def yield_hdf(fp,N=60):
+    u=Utils()
+    df,meta=u.read_hdf(fp)
+    ytd.subs_df=df
+    agg_df=ytd.concat_on_time(N=N)
+    gen_df=u.yield_df(agg_df,n_rows=1)
+    return gen_df,meta 
 
-urls=[
-'www.youtube.com/watch?v=H-XfCl-HpRM'
-,'www.youtube.com/watch?v=nm1TxQj9IsQ'
-,'www.youtube.com/watch?v=nwSkFq4tyC0'
-,'www.youtube.com/watch?v=NAATB55oxeQ'
-,'www.youtube.com/watch?v=FFwA0QFmpQ4'
-,'www.youtube.com/watch?v=LG53Vxum0as'
-,'www.youtube.com/watch?v=hx3U64IXFOY'
-,'www.youtube.com/watch?v=uuP-1ioh4LY'
-,'www.youtube.com/watch?v=mcPSRWUYCv0'
-,'www.youtube.com/watch?v=ntfcfJ28eiU'
-,'www.youtube.com/watch?v=XfURDjegrAw'
-,'www.youtube.com/watch?v=vA50EK70whE'
-,'www.youtube.com/watch?v=hcuMLQVAgEg'
-,'www.youtube.com/watch?v=J7SrAEacyf8'
-,'www.youtube.com/watch?v=qJXKhu5UZwk'
-,'www.youtube.com/watch?v=17O5mgXZ9ZU'
-,'www.youtube.com/watch?v=x7qbJeRxWGw'
-,'www.youtube.com/watch?v=JPX8g8ibKFc'
-,'www.youtube.com/watch?v=xaE9XyMMAHY'
-,'www.youtube.com/watch?v=xJ0IBzCjEPk'
-,'www.youtube.com/watch?v=GqPGXG5TlZw'
-#,'www.youtube.com/watch?v=XLr2RKoD-oY'  # lame norton 
-,'www.youtube.com/watch?v=VQLU7gpk_X8'
-,'www.youtube.com/watch?v=ObtW353d5i0'
-,'www.youtube.com/watch?v=Mwz8JprPeMc'
-,'www.youtube.com/watch?v=w9MXqXBZy9U'
-,'www.youtube.com/watch?v=JVRyzYB9JSY'
-,'www.youtube.com/watch?v=aXvDEmo6uS4'
-,'www.youtube.com/watch?v=VRvn3Oj5r3E'
-,'www.youtube.com/watch?v=rW9QKc-iFoY'
-,'www.youtube.com/watch?v=gbQFSMayJxk'
-,'www.youtube.com/watch?v=xmhsWAqP_0Y'
-,'www.youtube.com/watch?v=p3JLaF_4Tz8'
-,'www.youtube.com/watch?v=Xu1FMCxoEFc'
-,'www.youtube.com/watch?v=DtmwtjOoSYU'
-,'www.youtube.com/watch?v=2XGREPnlI8U'
-,'www.youtube.com/watch?v=hFL6qRIJZ_Y'
-,'www.youtube.com/watch?v=GzvzWO0NU50'
-,'www.youtube.com/watch?v=QmOF0crdyRU'
-,'www.youtube.com/watch?v=77CdVSpnUX4'
-,'www.youtube.com/watch?v=9tRohh0gErM'
-,'www.youtube.com/watch?v=E7W4OQfJWdw'
-,'www.youtube.com/watch?v=oUu3f0ETMJQ'
-,'www.youtube.com/watch?v=poOf8b2WE2g'
-,'www.youtube.com/watch?v=iMvtHqLmEkI'
-,'www.youtube.com/watch?v=8IWDAqodDas'
-,'www.youtube.com/watch?v=KVjfFN89qvQ'
-,'www.youtube.com/watch?v=HXzTbCEqCJc'
-,'www.youtube.com/watch?v=31wjVhCcI5Y'
-,'www.youtube.com/watch?v=oC3fhUjg30E'
-,'www.youtube.com/watch?v=oC3fhUjg30E'
-,'www.youtube.com/watch?v=RgAcOqVRfYA'
-,'www.youtube.com/watch?v=n9IxomBusuw'
-,'www.youtube.com/watch?v=Wcs2PFz5q6g'
-,'www.youtube.com/watch?v=GLgKkG44MGo'
-,'www.youtube.com/watch?v=t1F7EEGPQwo'
-,'www.youtube.com/watch?v=dFR_wFN23ZY'
-,'www.youtube.com/watch?v=Ze2pc6NwsHQ'
-,'www.youtube.com/watch?v=BwyZIWeBpRw'
-,'www.youtube.com/watch?v=gMRph_BvHB4'
-,'www.youtube.com/watch?v=PctD-ki8dCc'
-,'www.youtube.com/watch?v=15R2pMqU2ok'
-,'www.youtube.com/watch?v=ouCWNRvPk20'
-,'www.youtube.com/watch?v=azb3Ih68awQ'
-,'www.youtube.com/watch?v=VAEzZeaV5zM'
-,'www.youtube.com/watch?v=IAnhFUUCq6c'
-,'www.youtube.com/watch?v=pq6WHJzOkno'
-,'www.youtube.com/watch?v=ncSoor2Iw8k'
-,'www.youtube.com/watch?v=UF0nqolsNZc'
-,'www.youtube.com/watch?v=EQ3GjpGq5Y8'
-,'www.youtube.com/watch?v=XcvhERcZpWw'
-,'www.youtube.com/watch?v=RBK5KLA5Jjg'
-,'www.youtube.com/watch?v=szqPAPKE5tQ'
-,'www.youtube.com/watch?v=099hgtRoUZw'
-,'www.youtube.com/watch?v=dzOvi0Aa2EA'
-,'www.youtube.com/watch?v=IOl28gj_RXw'
-,'www.youtube.com/watch?v=tkH2-_jMCSk'
-,'www.youtube.com/watch?v=a9yFKPmPZ90'
-,'www.youtube.com/watch?v=OadokY8fcAA'
-,'www.youtube.com/watch?v=UNCwdFxPtE8'
-,'www.youtube.com/watch?v=T65RDBiB5Hs'
-,'www.youtube.com/watch?v=UChhXiFPRgg'
-,'www.youtube.com/watch?v=m_OazsImOiI'
-,'www.youtube.com/watch?v=7YGZZcXqKxE'
-,'www.youtube.com/watch?v=h2aWYjSA1Jc'
-,'www.youtube.com/watch?v=DTCmprPCDqc'
-,'www.youtube.com/watch?v=DkS1pkKpILY'
-,'www.youtube.com/watch?v=LVxL_p_kToc'
-,'www.youtube.com/watch?v=yb5zpo5WDG4'
-,'www.youtube.com/watch?v=uxZFl4BDOGk'
-,'www.youtube.com/watch?v=uXs-zPc63kM'
-,'www.youtube.com/watch?v=Nr5xb-QCBGA'
-,'www.youtube.com/watch?v=gXvuJu1kt48'
-,'www.youtube.com/watch?v=X4QE6t-MkYE'
-,'www.youtube.com/watch?v=q1Ss8sTbFBY'
-,'www.youtube.com/watch?v=Z7MU6zrAXsM'
-,'www.youtube.com/watch?v=wTBSGgbIvsY'
-,'www.youtube.com/watch?v=lsODSDmY4CY'
-,'www.youtube.com/watch?v=TO0WUTq5zYI'
-,'www.youtube.com/watch?v=LTGGyQS1fZE'
-,'www.youtube.com/watch?v=xjEFo3a1AnI'
-,'www.youtube.com/watch?v=6I5I56uVvLw'
-,'www.youtube.com/watch?v=iw97uvIge7c'
-,'www.youtube.com/watch?v=vZ4kOr38JhY'
-,'www.youtube.com/watch?v=O640yAgq5f8'
-,'www.youtube.com/watch?v=KPlJcD-o-4Q'
-,'www.youtube.com/watch?v=__RAXBLt1iM'
-,'www.youtube.com/watch?v=-wIt_WsJGfw'
-,'www.youtube.com/watch?v=tLS6t3FVOTI'
-,'www.youtube.com/watch?v=ycOBZZeVeAc'
-,'www.youtube.com/watch?v=zEYE-vcVKy8'
-,'www.youtube.com/watch?v=O1YRwWmue4Y'
-,'www.youtube.com/watch?v=CyDLbrZK75U'
-,'www.youtube.com/watch?v=uak_dXHh6s4'
-,'www.youtube.com/watch?v=GVRDGQhoEYQ'
-,'www.youtube.com/watch?v=oNkDA2F7CjM'
-,'www.youtube.com/watch?v=CGjdgy0cwGk'
-,'www.youtube.com/watch?v=UIy-WQCZd4M'
-,'www.youtube.com/watch?v=BMTt8gSl13s'
-,'www.youtube.com/watch?v=juD99_sPWGU'
-,'www.youtube.com/watch?v=x4m_PdFbu-s'
-,'www.youtube.com/watch?v=q37ARYnRDGc'
-,'www.youtube.com/watch?v=S8nPJU9xkNw'
-,'www.youtube.com/watch?v=CDUetQMKM6g'
-,'www.youtube.com/watch?v=at37Y8rKDlA'
-,'www.youtube.com/watch?v=7R3-3HR6-u4'
-,'www.youtube.com/watch?v=ufsIA5NARIo'
-,'www.youtube.com/watch?v=cp9GXl9Qk_s'
-,'www.youtube.com/watch?v=K-TW2Chpz4k'
-,'www.youtube.com/watch?v=ulHrUVV3Kq4'
-,'www.youtube.com/watch?v=6ZrlsVx85ek'
-,'www.youtube.com/watch?v=3ZGItIAUQmI'
-,'www.youtube.com/watch?v=0RYyQRQFgFk'
-,'www.youtube.com/watch?v=uWV9a3zEaL4'
-,'www.youtube.com/watch?v=cS7cNaBrkxo'
-,'www.youtube.com/watch?v=eIxVfln02Ss'
-,'www.youtube.com/watch?v=x3MgDtZovks'
-,'www.youtube.com/watch?v=fcxjwA4C4Cw'
-,'www.youtube.com/watch?v=sxgCC4H1dl8'
-,'www.youtube.com/watch?v=dicP_kA-RA0'
-,'www.youtube.com/watch?v=S8jWFcDGz4Y'
-,'www.youtube.com/watch?v=slUCmZJDXrk'
-,'www.youtube.com/watch?v=doupx8SAs5Y'
-,'www.youtube.com/watch?v=FE0lTEUa7EY'
-,'www.youtube.com/watch?v=_ltcLEM-5HU'
-,'www.youtube.com/watch?v=LYYyQcAJZfk'
-,'www.youtube.com/watch?v=RI112zW8GDw'
-]
+def oa_enrich_text(txt,prompt):
+    try:
+        r,o=completion_request(txt,prompt=prompt)
+    except:
+        print('error in oa_enrich_text')
+        r,o='',''
+    return r,o
+
+def make_chroma(fp='./huberman_chroma',cor=True):
+# 1. create persistent chroma db 
+    chroma_client = chromadb.Client(Settings(
+        chroma_db_impl="duckdb+parquet",
+        persist_directory=fp # Optional, defaults to .chromadb/ in the current directory
+        #,metadata={"hnsw:space": "cosine"} # l2 is the default - change distance function 
+    ))
+    if cor:
+        chroma_client.reset()  # destroy whole db 
+    #collection = chroma_client.create_collection(name="huberman_all_agg_60")
+    #collection = chroma_client.get_or_create_collection(name="huberman_all_agg_60")  # get or create 
+    return chroma_client  
+
+def parse_completion(s):
+    # Split the text into lines
+    lines = s.split('\n')
+    
+    # Initialize an empty dictionary to hold the parsed data
+    parsed_dict = {}
+    
+    # Loop through the lines
+    for line in lines:
+        # If the line is not empty
+        if line:
+            # Find the start and end of the key
+            start_key_index = line.find('<') + 1
+            end_key_index = line.find('>')
+            # Extract the key from the line
+            key = line[start_key_index:end_key_index]
+            
+            # Find the start and end of the value
+            start_val_index = line.find('>', end_key_index) + 1
+            end_val_index = line.find('<', start_val_index)
+            # Extract the value from the line
+            value = line[start_val_index:end_val_index].strip()
+
+            # Add the key-value pair to the dictionary
+            parsed_dict[key] = value
+
+    return parsed_dict
+
+def parse_completion2(s):
+    # Define a regular expression pattern to match
+    pattern = r'<(.*?)>(.*?)</\1>'
+    matches = re.findall(pattern, s, re.MULTILINE | re.DOTALL)
+    # Use a dict comprehension to build a dictionary from the matches
+    parsed_dict = {key: value.strip() for key, value in matches}
+    return parsed_dict
+
+def parse_completion3(s):
+    # Define a regular expression pattern to match pairs of <question> <answer>
+    #pattern = r'<question>(.*?)</question>\s*<answer>(.*?)</answer>'
+    pattern = r'<question>(.*?)</question>\s*<answer>(.*?)</answer>'
+    matches = re.findall(pattern, s, re.MULTILINE | re.DOTALL)
+
+    # Use a list comprehension to build a list of dictionaries from the matches
+    parsed_list = [{"question": q.strip(), "answer": a.strip()} for q, a in matches]
+
+    return parsed_list
+
+
+s='''
+<question>What are the benefits of using Ketone IQ?</end_of_question>
+<answer>The benefits of using Ketone IQ include increased energy and cognitive focus, the ability to do extended bouts of focused work without getting hungry, and the ability to exercise without having a full stomach. It can be particularly useful for tasks such as preparing for podcasts, research, writing grants, and when there is limited time to eat.</end_of_answer>
+
+<question>Where can one go to try Ketone IQ?</end_of_question>
+<answer>To try Ketone IQ, you can go to hvmn.com/huberman and use the code "huberman" to save 20% off.</end_of_answer>
+
+<question>What are the upcoming live events hosted by the speaker?</end_of_question>
+<answer>The speaker will be hosting two live events in September of 2023. The first event will take place in Toronto on September 12th, and the second event will take place in Chicago on September 28th. Both events will include a lecture and a question and answer period, focusing on tools and science related to mental health, physical health, and performance.</end_of_answer>
+
+<question>Where can one get early access to tickets for the live events?</end_of_question>
+<answer>To get early access to tickets for the live events, you can go to hubermanlab.com/tour and enter the code "huberman".</end_of_answer>
+
+<question>What brain networks are involved in attention?</end_of_question>
+<answer>Several different brain networks are involved in attention, including those responsible for suppressing noise and irrelevant stimuli, as well as those involved in focusing on specific tasks or stimuli. The prefrontal cortex, located just behind the forehead, plays a critical role in orchestrating the activity of these networks.</end_of_answer>
+
+<question>Why are stimulant treatments effective for ADHD?</end_of_question>
+<answer>Stimulant treatments are effective for ADHD because they target the specific brain networks involved in attention. The prefrontal cortex, which plays a critical role in attention, can be regulated by stimulant medications, helping to improve focus, task switching, and the ability to multitask.</end_of_answer>
+'''
+
+#print(parse_completion2(s))
+#print(parse_completion3(s))
+#exit(1)
+
+def save_d(d,fp):
+    with open(fp,'a',encoding='utf-8') as f:
+        json.dump(d,f,indent=4)
+
+
+def append_dict_to_jsonfile(dict_data, filepath):
+    # Read the existing data from the file
+    try:
+        with open(filepath, 'r') as jsonfile:
+            try:
+                data = json.load(jsonfile)
+            except Exception as er:
+                # If the file is empty, initialize an empty list
+                data = []
+    except Exception as err:
+        data=[]
+        pass 
+    
+    # Append the new data to the existing data
+    data.append(dict_data)
+
+    # Write the data back to the file
+    with open(filepath, 'w') as jsonfile:
+        json.dump(data, jsonfile)
+
+
+def validate_collection_name(collection_name,chroma_client):
+    collections=list(chroma_client.list_collections())
+    if collection_name in collections:
+        current_timestamp = int(time.time())
+        collection_name=collection_name+f'_{current_timestamp}'
+    return collection_name
 
 u=Utils()
 ytd=Ytd()
 this_logger=u.setup_logger(log_name='test.log')
+chroma_client=make_chroma()
+collection_names=[]
 
 files=os.listdir('./data/hdfs')
 hd_fps=[os.path.join('./data/hdfs',f) for f in files]
-print(len(files))
-print(len(urls))
-
-# loop for downloading - if something is too short download it manualy through ytd 
-#for no,f in enumerate(files):
-#    fp=os.path.join('./data/hdfs',f)
-#    df,meta=u.read_hdf(fp)
-#    file_urls.append(meta['url'])
-#    if len(df)<300:
-#        print(f)
-#        os.remove(fp)
-#        #wf__download_subs(url=meta['url'])
-#        #fp=os.path.join('./data/hdfs',f)
-#        #df,meta=u.read_hdf(fp)
-#        print(meta,len(df))
-#        #input('wait')
-#print(len(files))
-#print(len(urls))
-#print(set(urls)-set(file_urls))
-#print(set(file_urls)-set(urls))
 
 
 
+for hd in hd_fps:
+    gen_df,meta=yield_hdf(fp=hd,N=180)
+    collection_name=remove_non_alphanumeric(meta['title'])
+    collection_name2=collection_name.replace(' ','_')
+    collection = chroma_client.get_or_create_collection(name=collection_name)  # get or create
 
 
-def oa_enrich_text(txt,prompt):
-    r,o=completion_request(txt,prompt=prompt)
-    return r,o
 
-# 1. create persistent chroma db 
-chroma_client = chromadb.Client(Settings(
-    chroma_db_impl="duckdb+parquet",
-    persist_directory="./huberman_chroma" # Optional, defaults to .chromadb/ in the current directory
-    #,metadata={"hnsw:space": "cosine"} # l2 is the default - change distance function 
-))
+    j=0
+    for df_chunk in gen_df:
+        print(f'---------{j} ')
+        j+=1
+        txt=' '.join(df_chunk['txt'].values)
+        r,o=oa_enrich_text(txt,prompt='''extract a viable question and answer from above text in following format: 
+                           <question></question>
+                           <answer></answer>
+                           ''')
+        #print(r)
+        #print(o)
+
+
+        dics_l=parse_completion3(o)
+        #print(o)
+        with open('./data/tmp/completion.txt','a') as f:
+            
+            f.write(o)
+            f.write(json.dumps(meta))
+            if dics_l==[]:
+                o+='\n above text didnt parse into question and answer with a parsing method'
+            f.write(f'\n-------------{j}-------------\n')
+
+        #print(dics_l)
+
+        #input('wait')
+        #d1=parse_completion(o)
+        #d2=parse_completion2(o)
+
+        meta2={'start_ts':df_chunk['st'].values[0]
+              ,'end_ts':df_chunk['en'].values[-1]
+              ,'url':meta['url']+f'&t=' + str(u.ts_to_flt(df_chunk['st'].values[0])) +'s'
+              ,'title':meta['title']  
+              ,'completion':o
+              }
+
+        for d in dics_l:   
+            d_chroma=d
+            d_chroma['source']=meta['url']
+            d['meta']=meta2
+            if len(d['question'])<10 or len(d['answer'])<10:
+                print('sus!')
+                append_dict_to_jsonfile(d,f'./data/ds/sus_ds_{collection_name2}.json')    
+            else:
+                print('ok!')
+                append_dict_to_jsonfile(d,f'./data/ds/viable_ds_{collection_name2}.json') 
+
+                prompt='\n\n'.join([f'{k}:\n {v}' for k,v in d_chroma.items()])
+                collection.add(documents=prompt,metadatas=[meta],ids=[str(j)])
+        
+#        if j==2:
+#            print('breaking loop')
+#            break
+    
+    
+
+exit(1)
+#    append_dict_to_jsonfile(d1,'./data/ds/viable_ds.json')    
+#    input('wait')
+
+
+
+
+
 
 # 2. create a collection 
-chroma_client.reset()  # destroy whole db 
-collection = chroma_client.create_collection(name="huberman_all_agg_60")
-collection = chroma_client.get_or_create_collection(name="huberman_all_agg_60")  # get or create 
-
-
 
 start_of_text=''  #'<start_of_text>'
 end_of_text=''    #'<end_of_text>'
@@ -225,8 +259,11 @@ end_of_text=''    #'<end_of_text>'
 
 
 
-for fp in hd_fps[:5]:
 
+
+
+
+for fp in hd_fps[:5]:
     df,meta=u.read_hdf(fp)
     print(meta)
     ytd.subs_df=df
