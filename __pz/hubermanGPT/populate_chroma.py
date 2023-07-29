@@ -48,7 +48,7 @@ def oa_enrich_text(txt,prompt):
         r,o='',''
     return r,o
 
-def make_chroma(fp='./huberman_chroma',cor=True):
+def make_chroma(fp='./huberman_chroma',cor=False):
 # 1. create persistent chroma db 
     chroma_client = chromadb.Client(Settings(
         chroma_db_impl="duckdb+parquet",
@@ -170,6 +170,9 @@ u=Utils()
 ytd=Ytd()
 this_logger=u.setup_logger(log_name='test.log')
 chroma_client=make_chroma()
+
+
+
 collection_names=[]
 
 files=os.listdir('./data/hdfs')
