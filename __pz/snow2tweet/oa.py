@@ -16,6 +16,18 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 dumps_dir = os.path.join(current_dir, 'book_dumps')
 
+def check_models():
+    url = "https://api.openai.com/v1/models"
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': f'Bearer {OPENAI_API_KEY}'
+    }
+    response = requests.request("GET", url, headers=headers)
+    d=json.loads(response.text)
+    d=d['data']
+    models=[m['id'] for m in d]
+    return d,models 
+
 
 def completion_request(s,prompt=''):
     url = "https://api.openai.com/v1/chat/completions"
@@ -60,11 +72,17 @@ def get_text(links):
 
 
 
+if __name__=='__main__':
+    d,m=check_models()
+    print(d)
+    print(m)
+    exit(1)
 
 
 if __name__=='__main__':
     links=get_links()               # get links from flatfile
     s,url=get_text(links)                   # get text from flatfile 
+    
     r,o=completion_request(s)       # do completions on openai
     print(s)
     print('-----')
