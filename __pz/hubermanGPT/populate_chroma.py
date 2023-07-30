@@ -48,7 +48,11 @@ def oa_enrich_text(txt,prompt):
         r,o='',''
     return r,o
 
-def make_chroma(fp='./huberman_chroma',cor=False):
+def make_dir(fp):
+    os.makedirs(fp,exist_ok=True)
+
+
+def make_chroma(fp='./huberman_chroma',cor=True):
 # 1. create persistent chroma db 
     chroma_client = chromadb.Client(Settings(
         chroma_db_impl="duckdb+parquet",
@@ -166,32 +170,29 @@ def validate_collection_name(collection_name,chroma_client):
         collection_name=collection_name+f'_{current_timestamp}'
     return collection_name
 
+
+# -------------------------------------------------------------------------- loop start 
 u=Utils()
 ytd=Ytd()
 this_logger=u.setup_logger(log_name='test.log')
-chroma_client=make_chroma()
+chroma_client=make_chroma(fp='./huberman_chroma2',cor=True)                            
+hd_fps=[os.path.join('./data/hdfs',f) for f in os.listdir('./data/hdfs')]                   # hdfs for QA 
+break_loop=False                                                                            # break loop quickly 
+N=5
 
-
-
-collection_names=[]
-
-files=os.listdir('./data/hdfs')
-hd_fps=[os.path.join('./data/hdfs',f) for f in files]
-
-
-
-for hd in hd_fps:
+for hd in hd_fps[:N]:
     gen_df,meta=yield_hdf(fp=hd,N=180)
     collection_name=remove_non_alphanumeric(meta['title'])
     collection_name2=collection_name.replace(' ','_')
-    collection = chroma_client.get_or_create_collection(name=collection_name)  # get or create
-
+    collection = chroma_client.get_or_create_collection(name=collection_name) 
+    u.log_variable(msg=f'QA ying {collection_name}')
 
 
     j=0
     for df_chunk in gen_df:
         print(f'---------{j} ')
         j+=1
+        u.log_variable(msg=f' chunk {j} ')
         txt=' '.join(df_chunk['txt'].values)
         r,o=oa_enrich_text(txt,prompt='''extract a viable question and answer from above text in following format: 
                            <question></question>
@@ -199,7 +200,8 @@ for hd in hd_fps:
                            ''')
         #print(r)
         #print(o)
-
+        u.log_variable(msg=f' enrichment json r: {r} ')
+        u.log_variable(msg=f' enrichment part o: {o} ')
 
         dics_l=parse_completion3(o)
         #print(o)
@@ -209,6 +211,7 @@ for hd in hd_fps:
             f.write(json.dumps(meta))
             if dics_l==[]:
                 o+='\n above text didnt parse into question and answer with a parsing method'
+                u.log_variable(msg=f' dics_l for this o is empty  ')
             f.write(f'\n-------------{j}-------------\n')
 
         #print(dics_l)
@@ -222,6 +225,7 @@ for hd in hd_fps:
               ,'url':meta['url']+f'&t=' + str(u.ts_to_flt(df_chunk['st'].values[0])) +'s'
               ,'title':meta['title']  
               ,'completion':o
+              ,'txt':txt
               }
 
         for d in dics_l:   
@@ -238,18 +242,18 @@ for hd in hd_fps:
                 prompt='\n\n'.join([f'{k}:\n {v}' for k,v in d_chroma.items()])
                 collection.add(documents=prompt,metadatas=[meta],ids=[str(j)])
         
-#        if j==2:
-#            print('breaking loop')
-#            break
+        if j==2 and break_loop:
+            print('breaking loop')
+            break
     
     
 
-exit(1)
+
 #    append_dict_to_jsonfile(d1,'./data/ds/viable_ds.json')    
 #    input('wait')
 
 
-
+exit(1)
 
 
 
