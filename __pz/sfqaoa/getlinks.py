@@ -70,7 +70,7 @@ base_urls=[]
 base_urls.append('https://docs.snowflake.com/en/sql-reference/commands-account')
 
 url=base_urls[0]
-url='https://docs.snowflake.com/guides-overview'
+url='https://docs.snowflake.com/en/guides-overview-sharing'
 
 
 
@@ -79,7 +79,7 @@ link=url
 
 
 
-get_links_recursively(link,links)
+get_links_recursively(url,links)
 
 print(links)
 

@@ -175,12 +175,12 @@ def validate_collection_name(collection_name,chroma_client):
 u=Utils()
 ytd=Ytd()
 this_logger=u.setup_logger(log_name='test.log')
-chroma_client=make_chroma(fp='./huberman_chroma2',cor=True)                            
+chroma_client=make_chroma(fp='./huberman_chroma_all',cor=True)                            
 hd_fps=[os.path.join('./data/hdfs',f) for f in os.listdir('./data/hdfs')]                   # hdfs for QA 
 break_loop=False                                                                            # break loop quickly 
-N=5
 
-for hd in hd_fps[:N]:
+
+for hd in hd_fps:
     gen_df,meta=yield_hdf(fp=hd,N=180)
     collection_name=remove_non_alphanumeric(meta['title'])
     collection_name2=collection_name.replace(' ','_')
